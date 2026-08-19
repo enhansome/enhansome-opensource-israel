@@ -1,2742 +1,2804 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "@ngneat/transloco",
+              "description": "🚀 😍 The internationalization (i18n) library for Angular",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201458091,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T18:37:37Z",
+                "owner": "jsverse",
+                "repo": "transloco",
+                "stars": 2272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@ngneat/transloco-keys-manager",
+              "description": "🦄 The Key to a Better Translation Experience",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 211653344,
+                "language": "TypeScript",
+                "last_commit": "2026-08-01T13:43:23Z",
+                "owner": "jsverse",
+                "repo": "transloco-keys-manager",
+                "stars": 223
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "angular"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ent",
+              "description": "An entity framework for Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191655189,
+                "language": "Go",
+                "last_commit": "2026-08-06T20:22:40Z",
+                "owner": "ent",
+                "repo": "ent",
+                "stars": 17171
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gh-ost",
+              "description": "GitHub's Online Schema-migration Tool for MySQL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54378638,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:06:06Z",
+                "owner": "github",
+                "repo": "gh-ost",
+                "stars": 13525
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kor",
+              "description": "A Golang Tool to discover unused Kubernetes Resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 662734440,
+                "language": "Go",
+                "last_commit": "2026-08-02T19:48:46Z",
+                "owner": "yonahd",
+                "repo": "kor",
+                "stars": 1813
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Otterize network mapper",
+              "description": "Map Kubernetes in-cluster traffic and export as text, intents, or an image",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 505498076,
+                "language": "Go",
+                "last_commit": "2025-06-10T08:28:36Z",
+                "owner": "otterize",
+                "repo": "network-mapper",
+                "stars": 674
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "agent-manager",
+              "description": "Terminal UI to manage AI coding-agent sessions in tmux, with live status and in-TUI diff review.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1301824521,
+                "language": "Go",
+                "last_commit": "2026-08-19T10:15:00Z",
+                "owner": "YoanWai",
+                "repo": "agent-manager",
+                "stars": 337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@raptor-ml/raptor",
+              "description": "Transform your ic research to an artifact that engineers can deploy easily.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 478110812,
+                "language": "Go",
+                "last_commit": "2026-01-31T14:18:45Z",
+                "owner": "raptor-ml",
+                "repo": "raptor",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "surf CLI",
+              "description": "Free Text Search across your infrastructure, it's like but for your entire infrastructure!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 471098430,
+                "language": "Go",
+                "last_commit": "2025-03-05T07:44:07Z",
+                "owner": "Isan-Rivkin",
+                "repo": "surf",
+                "stars": 114
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Elementary",
+              "description": "Open-source data observability for analytics engineers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 401275197,
+                "language": "HTML",
+                "last_commit": "2026-08-18T10:41:21Z",
+                "owner": "elementary-data",
+                "repo": "elementary",
+                "stars": 2393
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Broadlink Manager",
+              "description": "Flask based application for managing broadlink RM Devices (IR/RF).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269122261,
+                "language": "HTML",
+                "last_commit": "2026-08-16T18:04:26Z",
+                "owner": "t0mer",
+                "repo": "broadlinkmanager-docker",
+                "stars": 321
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SafeUrl",
+              "description": "Lite web application intended to help us validate any URL safely before clicking it.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 451401043,
+                "language": "HTML",
+                "last_commit": "2025-09-03T10:09:43Z",
+                "owner": "t0mer",
+                "repo": "SafeUrl",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gotenberg UI",
+              "description": "Web application for interacting with Gotenberg API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 419854526,
+                "language": "HTML",
+                "last_commit": "2026-08-16T18:05:19Z",
+                "owner": "t0mer",
+                "repo": "gotenberg-ui",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Oref-GPT",
+              "description": "N8N automation that uses TwitterAPI.io to retrieve real-time social media data about rocket alerts in Israel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 988313613,
+                "language": "HTML",
+                "last_commit": "2025-05-22T16:00:38Z",
+                "owner": "danielrosehill",
+                "repo": "Oref-GPT",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "html"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Springwolf",
+              "description": "Automated documentation for async APIs built with Spring Boot",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163955174,
+                "language": "Java",
+                "last_commit": "2026-08-17T22:32:26Z",
+                "owner": "springwolf",
+                "repo": "springwolf-core",
+                "stars": 347
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sawmill",
+              "description": "A JSON transformation open source library for enriching, transforming, and filtering JSON documents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69273058,
+                "language": "Java",
+                "last_commit": "2026-07-22T13:07:43Z",
+                "owner": "logzio",
+                "repo": "sawmill",
+                "stars": 123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "klag",
+              "description": "Lightweight and extendable Kafka Consumer Lag monitor with support for Prometheus, Datadog, and OpenTelemetry and others",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1103429229,
+                "language": "Java",
+                "last_commit": "2026-08-17T18:54:58Z",
+                "owner": "themoah",
+                "repo": "klag",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "async-profiler-actuator-endpoint",
+              "description": "A Spring Boot actuator endpoint implementation which serves as a wrapper for Async Profiler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 313560145,
+                "language": "Java",
+                "last_commit": "2026-07-29T06:39:24Z",
+                "owner": "taboola",
+                "repo": "async-profiler-actuator-endpoint",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tomfi-archetypes",
+              "description": "Quickly spin up an updated Git and GitHub-ready Java project with Maven",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 452992637,
+                "language": "Java",
+                "last_commit": "2024-10-26T20:11:46Z",
+                "owner": "TomerFi",
+                "repo": "tomfi-archetypes",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alexa-skills-tester",
+              "description": "Testing tools for Alexa skills written in Java.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 338147252,
+                "language": "Java",
+                "last_commit": "2024-02-27T19:54:12Z",
+                "owner": "TomerFi",
+                "repo": "alexa-skills-tester",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Node.js best practices",
+              "description": "Over 100 Node.js patterns and practices including code examples",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103633984,
+                "language": "Dockerfile",
+                "last_commit": "2026-06-15T11:41:04Z",
+                "owner": "goldbergyoni",
+                "repo": "nodebestpractices",
+                "stars": 105589
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dockly",
+              "description": "Docker console UI and Dashboard for quick managing and inspecting of Containers and Images",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71667498,
+                "language": "JavaScript",
+                "last_commit": "2026-07-23T18:52:55Z",
+                "owner": "lirantal",
+                "repo": "dockly",
+                "stars": 4031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cboard",
+              "description": "Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81575759,
+                "language": "JavaScript",
+                "last_commit": "2026-08-14T19:53:05Z",
+                "owner": "cboard-org",
+                "repo": "cboard",
+                "stars": 745
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Broken-Link-Website",
+              "description": "A tool that scans websites for broken links and reports broken links",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1025626861,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T20:24:39Z",
+                "owner": "Deadlink-Hunter",
+                "repo": "Broken-Link-Website",
+                "stars": 110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "branch-name-lint",
+              "description": "Validating and linting the git branch name",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106296638,
+                "language": "JavaScript",
+                "last_commit": "2025-11-17T17:49:10Z",
+                "owner": "barzik",
+                "repo": "branch-name-lint",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lite-fifo",
+              "description": "Lightweight and efficient implementations of FIFO/Queue, written in pure javascript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 411016896,
+                "language": "JavaScript",
+                "last_commit": "2025-08-05T13:47:44Z",
+                "owner": "kleinron",
+                "repo": "lite-fifo",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DynamoDataTransform",
+              "description": "Dynamo Data Transform is an easy to use data transformation tool for DynamoDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 499310496,
+                "language": "JavaScript",
+                "last_commit": "2025-02-13T08:28:54Z",
+                "owner": "jitsecurity",
+                "repo": "dynamo-data-transform",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Telenode",
+              "description": "Lightweight Telegram API framework for Node.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 591323472,
+                "language": "JavaScript",
+                "last_commit": "2024-12-25T23:08:40Z",
+                "owner": "NivEz",
+                "repo": "telenode",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "licenseye",
+              "description": "Node.js CLI tool to visualize an aggregate list of your dependencies' licenses",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86101258,
+                "language": "JavaScript",
+                "last_commit": "2026-06-22T15:43:54Z",
+                "owner": "lirantal",
+                "repo": "licenseye",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crawling-jobs",
+              "description": "Scans jobs in Israel By scraping public websites using a Node.js, every six hours.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 526707783,
+                "language": "JavaScript",
+                "last_commit": "2023-03-29T12:16:19Z",
+                "owner": "gal-dahan",
+                "repo": "crawling-jobs",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "auto-me-bot",
+              "description": "GitHub app that takes the repository management load off your shoulders",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 480026791,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T22:34:50Z",
+                "owner": "TomerFi",
+                "repo": "auto-me-bot",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv",
+              "description": "ChatGPT Plugin that enables the model to access arXiv.org",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625007703,
+                "language": "JavaScript",
+                "last_commit": "2023-04-07T23:02:07Z",
+                "owner": "ShadovvBeast",
+                "repo": "arXiv",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CoinCapPlugin",
+              "description": "ChatGPT Plugin that enables the model to access CoinCap to get crypto market info",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625244227,
+                "language": "HTML",
+                "last_commit": "2023-04-08T14:11:47Z",
+                "owner": "ShadovvBeast",
+                "repo": "CoinCapPlugin",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "connection-monitor",
+              "description": "Monitor multiple IP addresses in your terminal",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257320969,
+                "language": "JavaScript",
+                "last_commit": "2023-03-04T22:59:33Z",
+                "owner": "rluvaton",
+                "repo": "connection-monitor",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeriveJS",
+              "description": "Reactive ODM for MongoDB, maps native JS classes to data documents, uses bulk requests for effective DB performance",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118806102,
+                "language": "JavaScript",
+                "last_commit": "2023-08-30T22:10:07Z",
+                "owner": "yuval-a",
+                "repo": "deriveODM",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "automate-download-paycheck",
+              "description": "Automate download Paychecks from Hargal and Hilan",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560605614,
+                "language": "TypeScript",
+                "last_commit": "2024-10-07T09:41:12Z",
+                "owner": "rluvaton",
+                "repo": "automate-download-paycheck",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WikipediaGPTPlugin",
+              "description": "ChatGPT Plugins that enables the model to access Wikipedia",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625049222,
+                "language": "HTML",
+                "last_commit": "2023-04-07T23:36:05Z",
+                "owner": "ShadovvBeast",
+                "repo": "WikipediaGPTPlugin",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Redash-in-js",
+              "description": "Run Query on multiple environments through Redash",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 572434680,
+                "language": "JavaScript",
+                "last_commit": "2023-08-02T18:54:53Z",
+                "owner": "rluvaton",
+                "repo": "redash-in-js",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "remove-special-quotes",
+              "description": "Remove Special quotes from stdin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 476310269,
+                "language": "JavaScript",
+                "last_commit": "2022-03-31T21:42:16Z",
+                "owner": "rluvaton",
+                "repo": "replace-special-quotes",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "javascript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Redash",
+              "description": "Data visualization tool for building dashboards that connect to multiple data sources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13926404,
+                "language": "Python",
+                "last_commit": "2026-08-18T16:14:11Z",
+                "owner": "getredash",
+                "repo": "redash",
+                "stars": 28756
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PySnooper",
+              "description": "a Python debugging aid. \"Never use print for debugging again.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 182097305,
+                "language": "Python",
+                "last_commit": "2026-06-08T19:45:15Z",
+                "owner": "cool-RR",
+                "repo": "PySnooper",
+                "stars": 16581
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "keep",
+              "description": "The open-source alerts management and automation platform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 597502256,
+                "language": "Python",
+                "last_commit": "2026-08-19T06:37:47Z",
+                "owner": "keephq",
+                "repo": "keep",
+                "stars": 12225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Checkov",
+              "description": "Static analysis for infrastructure as code (Terraform, Kubernetes, Cloudformation, Helm, Serverless, Kustomize, Bicep, Arm and more)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 224386599,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:30:25Z",
+                "owner": "bridgecrewio",
+                "repo": "checkov",
+                "stars": 8954
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OPAL",
+              "description": "OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and policy data in realtime and pushing live updates to your agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338791379,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:53:44Z",
+                "owner": "permitio",
+                "repo": "opal",
+                "stars": 5501
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Robusta",
+              "description": "Open source Kubernetes troubleshooting and automation platform (somewhat like Zapier/IFTTT for devops, but with an emphasis on prebuilt automations)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 378598624,
+                "language": "Python",
+                "last_commit": "2026-08-18T06:43:14Z",
+                "owner": "robusta-dev",
+                "repo": "robusta",
+                "stars": 3074
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyNest",
+              "description": "PyNest is a Python framework built on top of FastAPI that follows the modular architecture of NestJS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642661495,
+                "language": "Python",
+                "last_commit": "2026-07-28T17:34:49Z",
+                "owner": "PythonNest",
+                "repo": "PyNest",
+                "stars": 860
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pdpipe",
+              "description": "Easy pipelines for pandas DataFrames.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79951853,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-01T19:05:32Z",
+                "owner": "pdpipe",
+                "repo": "pdpipe",
+                "stars": 729
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AWS Lambda Handler Cookbook",
+              "description": "Serverless service template project that includes AWS CDK, Lambda best practices a CI/CD pipeline.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 343110484,
+                "language": "Python",
+                "last_commit": "2026-08-09T11:01:16Z",
+                "owner": "ran-isenberg",
+                "repo": "aws-lambda-handler-cookbook",
+                "stars": 679
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cachier",
+              "description": "Persistent, stale-free, local and cross-machine caching for Python functions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66466789,
+                "language": "Python",
+                "last_commit": "2026-08-01T20:53:11Z",
+                "owner": "python-cachier",
+                "repo": "cachier",
+                "stars": 662
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloudify",
+              "description": "Open source tool for orchestrating the lifecycle of infrastructure, network, and application resources on-prem and in the cloud.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18326574,
+                "language": "Python",
+                "last_commit": "2026-02-17T13:58:21Z",
+                "owner": "cloudify-cosmo",
+                "repo": "cloudify-manager",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "phonikud",
+              "description": "Hebrew grapheme-to-phoneme (G2P) converter that transforms Hebrew text into International Phonetic Alphabet (IPA) representations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 928627574,
+                "language": "Python",
+                "last_commit": "2026-06-17T09:28:59Z",
+                "owner": "phonikud",
+                "repo": "phonikud",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C4dynamics",
+              "description": "A framework for algorithm engineers who work with physical systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 550843762,
+                "language": "Python",
+                "last_commit": "2026-07-29T17:52:40Z",
+                "owner": "c4dynamics",
+                "repo": "c4dynamics",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "llm-client",
+              "description": "an SDK for communicating with generative AI large language models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 632060664,
+                "language": "Python",
+                "last_commit": "2023-07-22T20:29:19Z",
+                "owner": "uripeled2",
+                "repo": "llm-client-sdk",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Debug Toolkit",
+              "description": "A modern code-injection framework for Python. Like Pyrasite but Kubernetes-aware.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379885726,
+                "language": "Python",
+                "last_commit": "2025-05-08T13:44:54Z",
+                "owner": "robusta-dev",
+                "repo": "debug-toolkit",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Red Alert (Home Assistant Integration)",
+              "description": "Home Assistant component for providing alerts from the Israeli Home Front Command system and making them available as sensors in Home Assistant.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 703464829,
+                "language": "Python",
+                "last_commit": "2026-04-03T17:08:16Z",
+                "owner": "idodov",
+                "repo": "RedAlert",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aioswitcher",
+              "description": "PyPi module integrating with various Switcher smart devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169257284,
+                "language": "Python",
+                "last_commit": "2026-08-16T06:23:48Z",
+                "owner": "TomerFi",
+                "repo": "aioswitcher",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyDigger",
+              "description": "Collecting and analyzing data about Python projects on PyPI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46584427,
+                "language": "Python",
+                "last_commit": "2026-07-02T05:09:22Z",
+                "owner": "szabgab",
+                "repo": "pydigger.com",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shmessy",
+              "description": "If your data is messy - Use Shmessy!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 736404972,
+                "language": "Python",
+                "last_commit": "2026-07-29T07:36:29Z",
+                "owner": "ohadmata",
+                "repo": "shmessy",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "adb-api",
+              "description": "ADB-API is a python-based application to help us control android-based streamers like Xiaomi and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 584149834,
+                "language": "Python",
+                "last_commit": "2026-04-12T06:21:45Z",
+                "owner": "t0mer",
+                "repo": "adb-api",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deepstack Trainer",
+              "description": "Simple web application for training & Testing Deepstack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 363251545,
+                "language": "Python",
+                "last_commit": "2026-08-16T18:04:47Z",
+                "owner": "t0mer",
+                "repo": "deepstack-trainer",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dockerbot",
+              "description": "DockerBot is a Telepot powerd, easy to use Telegram bot written in python that runs as Docker Container.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278475483,
+                "language": "Python",
+                "last_commit": "2026-08-16T18:04:51Z",
+                "owner": "t0mer",
+                "repo": "dockerbot",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ma-nish",
+              "description": "an unofficial python wrapper for Whatsapp cloud api",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 571191282,
+                "language": "Python",
+                "last_commit": "2024-12-08T11:38:46Z",
+                "owner": "t0mer",
+                "repo": "ma-nish",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wazy",
+              "description": "Wazy a python based telegram bot, that helps us checking travel times using Waze route calculation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 557162310,
+                "language": "Python",
+                "last_commit": "2026-08-16T18:13:33Z",
+                "owner": "t0mer",
+                "repo": "Wazy",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Xiaomi Token Extractor",
+              "description": "Small and simple web application for extracting Xiaomi device tokens.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 354782702,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T18:00:31Z",
+                "owner": "t0mer",
+                "repo": "Xiaomi-Token-Extractor",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weatheril",
+              "description": "weatheril is an unofficial IMS (Israel Meteorological Service) python API wrapper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 588997105,
+                "language": "Python",
+                "last_commit": "2026-02-04T11:21:12Z",
+                "owner": "t0mer",
+                "repo": "py-weatheril",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arpspoof Docker",
+              "description": "Cut internet connection for any device in the network, no agent needed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338842671,
+                "language": "Python",
+                "last_commit": "2026-08-16T18:04:07Z",
+                "owner": "t0mer",
+                "repo": "Arpspoof-Docker",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Israel-Related-MCPs",
+              "description": "Small resource list of MCP projects related to Israel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1097120032,
+                "language": "Python",
+                "last_commit": "2026-08-10T17:01:57Z",
+                "owner": "danielrosehill",
+                "repo": "Israeli-AI",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cloudflared-mon",
+              "description": "Cloudflared-Mon is a python based Cloudflare Zero Tunnel monitoring.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621032297,
+                "language": "Python",
+                "last_commit": "2026-08-16T18:04:32Z",
+                "owner": "t0mer",
+                "repo": "cloudflared-mon",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apprise api bridge",
+              "description": "Send multi channel notification using single endpoint.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 427779817,
+                "language": "Python",
+                "last_commit": "2026-08-16T18:04:02Z",
+                "owner": "t0mer",
+                "repo": "apprise-api-bridge",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeCompose",
+              "description": "Create compose file for any existing container.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 418463045,
+                "language": "Python",
+                "last_commit": "2026-08-16T18:04:42Z",
+                "owner": "t0mer",
+                "repo": "DeCompose",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tabnet",
+              "description": "PyTorch implementation of TabNet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 755129778,
+                "language": "Python",
+                "last_commit": "2026-08-14T19:28:56Z",
+                "owner": "DanielAvdar",
+                "repo": "tabnet",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "voicy",
+              "description": "Voicy is a Telegram bot written in python that accepts voice command and execute it using HTTP calls or MQTT topics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 478590910,
+                "language": "Python",
+                "last_commit": "2026-08-16T18:13:24Z",
+                "owner": "t0mer",
+                "repo": "voicy",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pandas-pyarrow",
+              "description": "Seamlessly switch Pandas DataFrame backend to PyArrow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 766905445,
+                "language": "Python",
+                "last_commit": "2026-06-18T16:13:22Z",
+                "owner": "DanielAvdar",
+                "repo": "pandas-pyarrow",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AWS Text to Speech",
+              "description": "This repository deploys a serverless service that takes text files uploaded to a bucket, converts them to an MP3 and sends the output to an email address",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 636354535,
+                "language": "Python",
+                "last_commit": "2024-09-25T19:11:01Z",
+                "owner": "ran-isenberg",
+                "repo": "aws-text-to-speech",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stremio-mcp",
+              "description": "MCP server that searches Stremio catalogs and plays or controls titles on an Android TV.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1305020456,
+                "language": "Python",
+                "last_commit": "2026-07-27T12:49:54Z",
+                "owner": "YoanWai",
+                "repo": "stremio-mcp",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ml-orchestrator",
+              "description": "Software engineering approach for building kubeflow components.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 759359328,
+                "language": "Python",
+                "last_commit": "2026-06-19T04:52:48Z",
+                "owner": "DanielAvdar",
+                "repo": "ml-orchestrator",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SciPi",
+              "description": "Raspberry Pi interactive setup",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 584948456,
+                "language": "Python",
+                "last_commit": "2023-08-20T20:44:49Z",
+                "owner": "NivEz",
+                "repo": "scipi",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "activations-plus",
+              "description": "Collection of advanced activation functions for deep learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 965590142,
+                "language": "Python",
+                "last_commit": "2026-08-15T05:16:23Z",
+                "owner": "DanielAvdar",
+                "repo": "activations-plus",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "prob-spaces",
+              "description": "Probability Distributions from Gymnasium Spaces.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 949580047,
+                "language": "Python",
+                "last_commit": "2026-08-15T09:41:07Z",
+                "owner": "DanielAvdar",
+                "repo": "prob-spaces",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Israel-To-ROW-Salary-Converter-V2",
+              "description": "Salary conversion utility for comparing Israeli and rest-of-world salaries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 927948636,
+                "language": "Python",
+                "last_commit": "2025-02-05T20:59:36Z",
+                "owner": "danielrosehill",
+                "repo": "Israel-To-ROW-Salary-Converter-V2",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "helm-dashboard-v2",
+              "description": "A full re-write version for helm dashboard by Komodor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 527578222,
+                "language": "TypeScript",
+                "last_commit": "2026-08-10T14:27:36Z",
+                "owner": "komodorio",
+                "repo": "helm-dashboard",
+                "stars": 5744
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "emoji-picker-react",
+              "description": "The most popular emoji picker component for React applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91800758,
+                "language": "TypeScript",
+                "last_commit": "2026-04-27T10:02:30Z",
+                "owner": "ealush",
+                "repo": "emoji-picker-react",
+                "stars": 1452
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ostara",
+              "description": "An application that provides various features to monitor and interact with Spring Boot Applications via Actuator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576882508,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T00:14:23Z",
+                "owner": "krud-dev",
+                "repo": "ostara",
+                "stars": 341
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DataBus",
+              "description": "An Open bus ranking app that presents data on the quality of public transportation lines in the country (reliability, accuracy, route).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616824114,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T10:09:07Z",
+                "owner": "hasadna",
+                "repo": "open-bus-map-search",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Geshem",
+              "description": "An interactive rain radar clone running on Mapbox GL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45645190,
+                "language": "TypeScript",
+                "last_commit": "2025-11-14T12:25:40Z",
+                "owner": "yuvadm",
+                "repo": "geshem.space",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WhizFlow",
+              "description": "A lightweight, headless and extensible React library for building dynamic multi-step forms or troubleshooting workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626378973,
+                "language": "TypeScript",
+                "last_commit": "2023-05-07T07:09:46Z",
+                "owner": "itamarbareket",
+                "repo": "whizflow",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-input-manager",
+              "description": "A React Input Manager made for Games, supports gamepad keyboard mouse mobile gamepad (razer kishi) and mobile ui joistics",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 518424313,
+                "language": "TypeScript",
+                "last_commit": "2023-02-20T15:20:41Z",
+                "owner": "noti56",
+                "repo": "react-game-input-manager",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "react"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fnm",
+              "description": "Fast and simple Node.js version manager, built in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166045424,
+                "language": "Rust",
+                "last_commit": "2026-07-24T14:28:38Z",
+                "owner": "Schniz",
+                "repo": "fnm",
+                "stars": 26614
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mirrord",
+              "description": "Connect your local process and your cloud environment, and run local code in cloud conditions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454467716,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:10:10Z",
+                "owner": "metalbear-co",
+                "repo": "mirrord",
+                "stars": 5271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Topgrade",
+              "description": "A single command to upgrade multiple package managers.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135351354,
+                "language": "Rust",
+                "last_commit": "2022-10-12T12:04:33Z",
+                "owner": "r-darwish",
+                "repo": "topgrade",
+                "stars": 3307
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bob",
+              "description": "Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions right from the command line.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456199616,
+                "language": "Rust",
+                "last_commit": "2026-08-19T01:43:35Z",
+                "owner": "MordechaiHadad",
+                "repo": "bob",
+                "stars": 2136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Show Me A Graph",
+              "description": "Easily create graphs from cli commands and view them in the terminal. Like the command but with a graph of the output.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 314779951,
+                "language": "Rust",
+                "last_commit": "2024-05-22T15:51:52Z",
+                "owner": "aantn",
+                "repo": "smag",
+                "stars": 172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "israel-weather-rs",
+              "description": "CLI tool to check the weather in Israel via ims.gov.il data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 582323765,
+                "language": "Rust",
+                "last_commit": "2026-03-11T19:53:29Z",
+                "owner": "barakplasma",
+                "repo": "israel-weather-rs",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FullPageOS",
+              "description": "A RaspberryPI distribution to display a full page browser on boot (kiosk mode)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44012035,
+                "language": "Shell",
+                "last_commit": "2026-07-13T13:21:30Z",
+                "owner": "guysoft",
+                "repo": "FullPageOS",
+                "stars": 4462
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CustomPiOS",
+              "description": "A RaspberryPI and other ARM devices distribution builder",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94749337,
+                "language": "Shell",
+                "last_commit": "2026-08-03T20:03:13Z",
+                "owner": "guysoft",
+                "repo": "CustomPiOS",
+                "stars": 610
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kivun",
+              "description": "Runs Claude Code in the terminal with correct right-to-left rendering for Hebrew, Arabic and Persian.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1216889464,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T07:02:41Z",
+                "owner": "noambrand",
+                "repo": "kivun-terminal-wsl",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "shell"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Appwrite",
+              "description": "End to end backend server for frontend and mobile apps 👩‍💻👨‍💻.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180190854,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:34:15Z",
+                "owner": "appwrite",
+                "repo": "appwrite",
+                "stars": 57056
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Novu",
+              "description": "Notification infrastructure with fully functional embedded notification center",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400215964,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:37:02Z",
+                "owner": "novuhq",
+                "repo": "novu",
+                "stars": 39615
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Postiz",
+              "description": "Postiz offers everything you need to manage your social media posts, build an audience, capture leads, and grow your business.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 664013991,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:34:32Z",
+                "owner": "gitroomhq",
+                "repo": "postiz-app",
+                "stars": 34859
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bit",
+              "description": "An open-source toolchain for component-driven software. Forget monolithic apps and distribute development to components",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79723839,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:43:37Z",
+                "owner": "teambit",
+                "repo": "bit",
+                "stars": 18457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Amplication",
+              "description": "Build quality Node.js applications without spending time on repetitive coding tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262862475,
+                "language": "TypeScript",
+                "last_commit": "2026-06-30T13:46:55Z",
+                "owner": "amplication",
+                "repo": "amplication",
+                "stars": 16010
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pretty-ts-errors",
+              "description": "🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 530861050,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T19:49:47Z",
+                "owner": "yoavbls",
+                "repo": "pretty-ts-errors",
+                "stars": 14104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inbox Zero",
+              "description": "AI-powered email assistant that organizes your inbox, pre-drafts replies, and tracks follow-ups.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 665613753,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T10:06:42Z",
+                "owner": "elie222",
+                "repo": "inbox-zero",
+                "stars": 12033
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vibe",
+              "description": "Transcribe audio / video offline using OpenAI Whisper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 740293013,
+                "language": "TypeScript",
+                "last_commit": "2026-07-26T16:05:31Z",
+                "owner": "thewh1teagle",
+                "repo": "vibe",
+                "stars": 7135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Snyk",
+              "description": "CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45247496,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:37:31Z",
+                "owner": "snyk",
+                "repo": "cli",
+                "stars": 5641
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Remult",
+              "description": "A CRUD framework for full-stack TypeScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108873775,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T07:55:39Z",
+                "owner": "remult",
+                "repo": "remult",
+                "stars": 3207
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vest",
+              "description": "Declarative validations library inspired by the spirit and style of unit testing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 224295067,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T01:21:00Z",
+                "owner": "ealush",
+                "repo": "vest",
+                "stars": 2664
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Configu",
+              "description": "A simple, modern, and secure standard for managing and collaborating software configurations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 543120588,
+                "language": "TypeScript",
+                "last_commit": "2026-02-17T17:08:29Z",
+                "owner": "configu",
+                "repo": "configu",
+                "stars": 1684
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "angular2-moment",
+              "description": "moment.js pipes for Angular",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41093724,
+                "language": "TypeScript",
+                "last_commit": "2023-08-25T10:25:44Z",
+                "owner": "urish",
+                "repo": "ngx-moment",
+                "stars": 1157
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "israeli-bank-scrapers",
+              "description": "Provide scrapers for all major Israeli banks and credit card companies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98721853,
+                "language": "TypeScript",
+                "last_commit": "2026-08-05T00:18:00Z",
+                "owner": "eshaham",
+                "repo": "israeli-bank-scrapers",
+                "stars": 1087
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reduced.to",
+              "description": "Reduced.to is the FREE, Modern, and Open-Source URL Shortener.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 248348687,
+                "language": "TypeScript",
+                "last_commit": "2025-04-25T16:46:53Z",
+                "owner": "origranot",
+                "repo": "reduced.to",
+                "stars": 705
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Automock",
+              "description": "Easier Unit Testing for TypeScript Dependency Injection Frameworks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 429476841,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T19:00:25Z",
+                "owner": "suites-dev",
+                "repo": "suites",
+                "stars": 545
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kysely-ctl",
+              "description": "Command-line tool for Kysely.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 792061162,
+                "language": "TypeScript",
+                "last_commit": "2026-08-06T01:07:08Z",
+                "owner": "kysely-org",
+                "repo": "kysely-ctl",
+                "stars": 315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Caspion",
+              "description": "Automated budget tracking from Israeli financial institutions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183414376,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T02:29:17Z",
+                "owner": "brafdlog",
+                "repo": "caspion",
+                "stars": 263
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neuledge",
+              "description": "Universal language to model, share, and interact with databases.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 533219944,
+                "language": "TypeScript",
+                "last_commit": "2023-11-05T06:15:17Z",
+                "owner": "neuledge",
+                "repo": "engine-js",
+                "stars": 234
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Better Rail",
+              "description": "An alternative mobile client for Israel Railways",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353759096,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T22:22:53Z",
+                "owner": "better-rail",
+                "repo": "app",
+                "stars": 211
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mathberet",
+              "description": "Digital Mathematics Notebook.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 607820050,
+                "language": "TypeScript",
+                "last_commit": "2023-05-24T23:47:54Z",
+                "owner": "yonatanmgr",
+                "repo": "mathberet",
+                "stars": 183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kysely-postgres-js",
+              "description": "Kysely dialect for PostgreSQL using the Postgres.js client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625368721,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T20:41:35Z",
+                "owner": "kysely-org",
+                "repo": "kysely-postgres-js",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CASANET",
+              "description": "Open-source server and dashboard to control IoT devices in a local home network",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102395256,
+                "language": "TypeScript",
+                "last_commit": "2024-09-05T07:40:37Z",
+                "owner": "casanet",
+                "repo": "casanet-server",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TalkGPT",
+              "description": "Easily talk to ChatGPT using your voice",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576585005,
+                "language": "TypeScript",
+                "last_commit": "2023-07-31T09:09:13Z",
+                "owner": "ShadovvBeast",
+                "repo": "TalkGPT",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kysely-supabase",
+              "description": "A toolkit (type translators for now) that allows using your existing Supabase setup with Kysely.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 782611226,
+                "language": "TypeScript",
+                "last_commit": "2026-08-06T19:16:01Z",
+                "owner": "kysely-org",
+                "repo": "kysely-supabase",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kysely-typeorm",
+              "description": "A toolkit (dialect, type translators, etc.) that allows using your existing TypeORM setup with Kysely.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 737907463,
+                "language": "TypeScript",
+                "last_commit": "2026-07-08T02:44:01Z",
+                "owner": "kysely-org",
+                "repo": "kysely-typeorm",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pino-sentry-transport",
+              "description": "Send logs from pino to Sentry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 503491871,
+                "language": "TypeScript",
+                "last_commit": "2025-11-07T11:01:08Z",
+                "owner": "tomer-yechiel",
+                "repo": "pino-sentry-transport",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kysely-knex",
+              "description": "A toolkit (dialect, type translators, custom migration source, etc.) that allows using your existing Knex setup with Kysely.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 737906759,
+                "language": "TypeScript",
+                "last_commit": "2026-04-06T18:54:41Z",
+                "owner": "kysely-org",
+                "repo": "kysely-knex",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kysely-replication",
+              "description": "Replication-aware Kysely query execution.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 906938965,
+                "language": "TypeScript",
+                "last_commit": "2026-07-14T13:08:25Z",
+                "owner": "kysely-org",
+                "repo": "kysely-replication",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kysely-sequelize",
+              "description": "A toolkit (dialect, type translators, etc.) that allows using your existing Sequelize instance with Kysely.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732218673,
+                "language": "TypeScript",
+                "last_commit": "2026-05-13T17:51:21Z",
+                "owner": "kysely-org",
+                "repo": "kysely-sequelize",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DBZar",
+              "description": "Agnostic DB Anonymizer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 445290515,
+                "language": "TypeScript",
+                "last_commit": "2024-05-01T23:34:21Z",
+                "owner": "nitzano",
+                "repo": "dbzar",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bulk-npm-publish",
+              "description": "CLI Tool for Publishing Multiple NPM packages from verdaccio storage",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239373757,
+                "language": "TypeScript",
+                "last_commit": "2024-06-05T10:45:39Z",
+                "owner": "rluvaton",
+                "repo": "bulk-npm-publish",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitShow",
+              "description": "Beautiful developer portfolios from GitHub profiles — just replace github.com with gitshow.dev in any profile URL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1159829630,
+                "language": "TypeScript",
+                "last_commit": "2026-08-09T14:09:34Z",
+                "owner": "ofershap",
+                "repo": "gitshow",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wiki Location",
+              "description": "Displays wikipedia articles based on your current location (currently in hebrew).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614959066,
+                "language": "TypeScript",
+                "last_commit": "2026-03-15T20:41:56Z",
+                "owner": "noam-honig",
+                "repo": "wikiloc",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nolybab-js",
+              "description": "A CLI based tool for converting i18n to csv and csv to i18n files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 489010542,
+                "language": "TypeScript",
+                "last_commit": "2024-02-11T18:07:51Z",
+                "owner": "fima-taf",
+                "repo": "nolybab-js",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopping Cart",
+              "description": "A minimalist shopping cart list when you need to do some groceries shopping in the supermarket (currently in hebrew).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 638485351,
+                "language": "TypeScript",
+                "last_commit": "2023-05-30T19:16:51Z",
+                "owner": "develad",
+                "repo": "cart",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electra-smart-js-client",
+              "description": "Electra Smart js client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 527041307,
+                "language": "TypeScript",
+                "last_commit": "2022-08-20T22:18:15Z",
+                "owner": "rluvaton",
+                "repo": "electra-smart-js-client",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sinon-jest-matchers",
+              "description": "Jest (expect) matchers for sinon",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 535444044,
+                "language": "TypeScript",
+                "last_commit": "2023-02-02T11:28:13Z",
+                "owner": "rluvaton",
+                "repo": "sinon-jest-matchers",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "typescript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Overlay",
+              "description": "Overlay is a browser extension helping developers evaluate open source packages before picking them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 594716752,
+                "language": "JavaScript",
+                "last_commit": "2025-06-22T07:41:52Z",
+                "owner": "os-scar",
+                "repo": "overlay",
+                "stars": 229
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gcp-emulator-ui",
+              "description": "A modern web interface for managing Google Cloud Platform emulator services.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1055172051,
+                "language": "Vue",
+                "last_commit": "2026-08-18T10:44:02Z",
+                "owner": "drehelis",
+                "repo": "gcp-emulator-ui",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "devcontainer.live",
+              "description": "devcontainer.json Live Generator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1184521703,
+                "language": "Vue",
+                "last_commit": "2026-07-09T04:59:06Z",
+                "owner": "drehelis",
+                "repo": "devcontainer.live",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "vue"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cheat-Sheet Collection",
+              "description": "Cheat-Sheet Collection for DevOps, Engineers, IT and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 220934262,
+                "language": "HTML",
+                "last_commit": "2025-05-25T08:44:16Z",
+                "owner": "sk3pp3r",
+                "repo": "cheat-sheet-pdf",
+                "stars": 2387
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-twitter-data",
+              "description": "A list of Twitter datasets and related resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145280020,
+                "language": null,
+                "last_commit": "2026-05-29T10:22:38Z",
+                "owner": "shaypal5",
+                "repo": "awesome-twitter-data",
+                "stars": 1123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HA-Red-Alerts-Model-Automations",
+              "description": "Automations and hardware recommendations for Home Assistant and Pikud HaOref integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 952761407,
+                "language": null,
+                "last_commit": "2025-03-21T21:33:52Z",
+                "owner": "danielrosehill",
+                "repo": "HA-Red-Alerts-Model-Automations",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "unknown language"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "blessed-contrib",
+              "description": "Build terminal dashboards using ascii/ansi art and javascript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29247444,
+                "language": "JavaScript",
+                "last_commit": "2026-05-01T06:16:27Z",
+                "owner": "yaronn",
+                "repo": "blessed-contrib",
+                "stars": 15766
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mean.io",
+              "description": "Mean.io is a popular mean stack boilerplate providing a starting point for angular(6) , express, mongo and node fullstack javascript powered apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10219106,
+                "language": "TypeScript",
+                "last_commit": "2026-02-17T10:51:41Z",
+                "owner": "linnovate",
+                "repo": "mean",
+                "stars": 12053
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mailgen",
+              "description": "A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59653935,
+                "language": "HTML",
+                "last_commit": "2026-08-04T06:55:09Z",
+                "owner": "eladnava",
+                "repo": "mailgen",
+                "stars": 2542
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue Tables 2",
+              "description": "Vue.js 2 grid components.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 68045914,
+                "language": "JavaScript",
+                "last_commit": "2021-11-26T06:49:37Z",
+                "owner": "matfish2",
+                "repo": "vue-tables-2",
+                "stars": 1511
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Intergram",
+              "description": "Free live chat widget linked to your Telegram messenger.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77236059,
+                "language": "JavaScript",
+                "last_commit": "2024-03-25T20:59:27Z",
+                "owner": "idoco",
+                "repo": "intergram",
+                "stars": 1418
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "webpack-node-externals",
+              "description": "A Webpack plugin to list all node modules as bundle externals",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50500419,
+                "language": "JavaScript",
+                "last_commit": "2026-03-03T10:17:50Z",
+                "owner": "liady",
+                "repo": "webpack-node-externals",
+                "stars": 1294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TypeWiz",
+              "description": "Automatically discover and add missing types in your TypeScript code",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 117014891,
+                "language": "TypeScript",
+                "last_commit": "2021-10-05T15:00:24Z",
+                "owner": "mockdeep",
+                "repo": "typewiz",
+                "stars": 1104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "firebase-server",
+              "description": "Firebase Realtime Database server implementation",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 23709739,
+                "language": "TypeScript",
+                "last_commit": "2021-05-10T08:18:15Z",
+                "owner": "urish",
+                "repo": "firebase-server",
+                "stars": 673
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Predator",
+              "description": "An open-source distributed performance testing framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168341860,
+                "language": "JavaScript",
+                "last_commit": "2026-01-02T09:14:03Z",
+                "owner": "Zooz",
+                "repo": "predator",
+                "stars": 593
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-elastic-carousel",
+              "description": "A flexible and responsive carousel component for react.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146773142,
+                "language": "JavaScript",
+                "last_commit": "2026-04-10T00:05:54Z",
+                "owner": "sag1v",
+                "repo": "react-elastic-carousel",
+                "stars": 343
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "muse-js",
+              "description": "Muse 2016 EEG Headset JavaScript Library (using Web Bluetooth)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92633857,
+                "language": "TypeScript",
+                "last_commit": "2024-09-25T19:00:48Z",
+                "owner": "urish",
+                "repo": "muse-js",
+                "stars": 306
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Petri",
+              "description": "Wix experiment system (A/B test and feature toggle framework)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12682610,
+                "language": "JavaScript",
+                "last_commit": "2023-07-07T21:23:35Z",
+                "owner": "wix-incubator",
+                "repo": "petri",
+                "stars": 265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "skift",
+              "description": "scikit-learn wrappers for Python fastText.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120085546,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-06-07T15:07:07Z",
+                "owner": "shaypal5",
+                "repo": "skift",
+                "stars": 234
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mocha-sidebar",
+              "description": "Mocha side bar is a visual studio code extension that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105862828,
+                "language": "JavaScript",
+                "last_commit": "2026-07-20T20:19:18Z",
+                "owner": "maty21",
+                "repo": "mocha-sidebar",
+                "stars": 188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "express-ajv-swagger-validation",
+              "description": "Express middleware for input validation using Swagger (Open API) and ajv",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107256133,
+                "language": "JavaScript",
+                "last_commit": "2025-10-27T11:54:10Z",
+                "owner": "PayU",
+                "repo": "openapi-validator-middleware",
+                "stars": 144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-dynamic-star-rating",
+              "description": "A dynamic stars rating component for vue, similar to Google Play’s rating",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163078623,
+                "language": "Vue",
+                "last_commit": "2021-04-27T21:58:47Z",
+                "owner": "JonathanDn",
+                "repo": "vue-stars-rating",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "express-version-route",
+              "description": "A Node.js express middleware that implements API versioning for route controllers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91352809,
+                "language": "JavaScript",
+                "last_commit": "2026-06-24T18:20:46Z",
+                "owner": "lirantal",
+                "repo": "express-version-route",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "web-bluetooth-polyfill",
+              "description": "Windows 10 Web Bluetooth Polyfill",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91140621,
+                "language": "JavaScript",
+                "last_commit": "2021-05-09T00:32:50Z",
+                "owner": "urish",
+                "repo": "web-bluetooth-polyfill",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yap-csv",
+              "description": "Node.js package that manages CSV to JSON conversion supporting complex field mapping",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102267276,
+                "language": "JavaScript",
+                "last_commit": "2024-04-16T03:09:40Z",
+                "owner": "nielsen-oss",
+                "repo": "yap-csv",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reconstant",
+              "description": "Reconstant lets you share constant and enum definitions between programming languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 344958303,
+                "language": "Python",
+                "last_commit": "2025-11-17T13:36:17Z",
+                "owner": "aantn",
+                "repo": "reconstant",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Litespeed.js",
+              "description": "Lite & fast micro javascript framework that is easy to learn.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29466233,
+                "language": "JavaScript",
+                "last_commit": "2023-03-04T02:58:23Z",
+                "owner": "litespeed-js",
+                "repo": "litespeed.js",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-dynamic-dropdown",
+              "description": "A Highly Customizable, easy-to-use elegant dropdown component for Vue framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159952678,
+                "language": "Vue",
+                "last_commit": "2020-10-11T05:39:17Z",
+                "owner": "JonathanDn",
+                "repo": "vue-dropdown",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vue-toggle-btn",
+              "description": "A Highly Customizable, easy-to-use elegant toggle/switch button component",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150958072,
+                "language": "Vue",
+                "last_commit": "2022-12-29T23:30:45Z",
+                "owner": "JonathanDn",
+                "repo": "vue-toggle-btn",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fugazi",
+              "description": "A web based terminal application for executing local and remote commands",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80307819,
+                "language": "TypeScript",
+                "last_commit": "2018-01-07T23:41:42Z",
+                "owner": "fugazi-io",
+                "repo": "webclient",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apollo",
+              "description": "A simple, lightweight, Continuous Deployment (CD) solution on top of Kubernetes.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 53502006,
+                "language": "Java",
+                "last_commit": "2021-02-22T08:44:40Z",
+                "owner": "logzio",
+                "repo": "apollo",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HspellPy",
+              "description": "A Python wrapper for Hspell.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35288696,
+                "language": "Python",
+                "last_commit": "2017-05-05T14:06:35Z",
+                "owner": "eranroz",
+                "repo": "HspellPy",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mr. M",
+              "description": "Need to easily assume AWS IAM roles? Mr. M has your back!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 438619161,
+                "language": "Python",
+                "last_commit": "2021-12-27T17:53:39Z",
+                "owner": "robusta-dev",
+                "repo": "mr-m",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@lirantal/typeform-client",
+              "description": "a friendlier Typeform Node.js API client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162629715,
+                "language": "JavaScript",
+                "last_commit": "2026-07-18T09:02:30Z",
+                "owner": "lirantal",
+                "repo": "typeform-client",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "express-security-txt",
+              "description": "A Node.js middleware for Express that implements Security.txt - A Method for Web Security Policies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106471669,
+                "language": "JavaScript",
+                "last_commit": "2026-07-23T18:58:12Z",
+                "owner": "lirantal",
+                "repo": "express-security-txt",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cron-to-quartz",
+              "description": "Node.js library to convert unix or linux CRON syntax to Quartz Scheduler",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48604142,
+                "language": "JavaScript",
+                "last_commit": "2026-07-23T18:57:52Z",
+                "owner": "lirantal",
+                "repo": "cron-to-quartz",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ticktok.io",
+              "description": "Efficient, managed and clustered scheduler that allows apps to receive accurate and reliable clock signals at scale.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123014642,
+                "language": "Java",
+                "last_commit": "2021-04-30T12:35:43Z",
+                "owner": "ticktok-io",
+                "repo": "ticktok.io",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "birch",
+              "description": "Simple hierarchical configuration for Python packages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120747161,
+                "language": "Python",
+                "last_commit": "2024-01-14T19:48:45Z",
+                "owner": "shaypal5",
+                "repo": "birch",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Blink-Java",
+              "description": "Simple http server designed for use in tests, written in pure Java (no dependencies).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64565647,
+                "language": "Java",
+                "last_commit": "2022-05-20T20:49:38Z",
+                "owner": "rockem",
+                "repo": "blink-java",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "express-boilerplate",
+              "description": "A simple Node.js app (Express + Sequelize) with the purpose of providing a compact, clear and concise example to how Node.js apps can be built",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144607901,
+                "language": "JavaScript",
+                "last_commit": "2019-06-08T12:36:37Z",
+                "owner": "giladno",
+                "repo": "express-boilerplate",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sequelize-admin",
+              "description": "A simple express based admin middleware for sequelizejs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159944451,
+                "language": "JavaScript",
+                "last_commit": "2019-06-09T14:28:47Z",
+                "owner": "giladno",
+                "repo": "sequelize-admin",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SugoiJS Server",
+              "description": "SugoiJS provides TypeScript decorators which makes the development process faster, easier with less boilerplate code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140748462,
+                "language": "TypeScript",
+                "last_commit": "2023-01-23T21:53:44Z",
+                "owner": "sugoiJS",
+                "repo": "server",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JsonChangeVals",
+              "description": "Translating your JSON structure without paying for it.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162888811,
+                "language": "HTML",
+                "last_commit": "2018-12-25T10:06:06Z",
+                "owner": "erasta",
+                "repo": "JsonChangeVals",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "resume-json-python",
+              "description": "A project to create your resume as JSON and be able to style it easily.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315076879,
+                "language": "HTML",
+                "last_commit": "2021-06-10T21:08:38Z",
+                "owner": "moshe742",
+                "repo": "resume-json-python",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typeform-export-excel",
+              "description": "Export a Typeform survey questionnaire to an Excel format",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162923163,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T01:15:23Z",
+                "owner": "lirantal",
+                "repo": "typeform-export-excel",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dynamodb",
+              "description": "A wrapper for easy access to DynamoDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165389565,
+                "language": "JavaScript",
+                "last_commit": "2019-01-18T22:44:37Z",
+                "owner": "giladno",
+                "repo": "dynamodb",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Old Projects"
+        }
+      ],
       "title": "Projects by main language"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "@ngneat/transloco",
-          "description": "🚀 😍 The internationalization (i18n) library for Angular",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T18:37:37Z",
-            "owner": "jsverse",
-            "repo": "transloco",
-            "stars": 2272
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/transloco-keys-manager",
-          "description": "🦄 The Key to a Better Translation Experience",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2026-08-01T13:43:23Z",
-            "owner": "jsverse",
-            "repo": "transloco-keys-manager",
-            "stars": 223
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/bind-query-params",
-          "description": "Sync URL Query Params with Angular Form Controls",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/cashew",
-          "description": "🐿 A flexible and straightforward library that caches HTTP requests in Angular",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/dialog",
-          "description": "👻 A simple to use, highly customizable, and powerful modal for Angular Applications",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/dirty-check-forms",
-          "description": "🐬Detect Unsaved Changes in Angular Forms",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/elf",
-          "description": "🧙‍♀️ A Reactive Store with Magical Powers",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/error-tailor",
-          "description": "🦄 Making sure your tailor-made error solution is seamless!",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/helipopper",
-          "description": "🚁 A Powerful Tooltip and Popover for Angular Applications",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/overview",
-          "description": "🤖 A collection of tools to make your Angular views more modular, scalable, and maintainable",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/query",
-          "description": "🚀 Powerful asynchronous state management, server-state utilities and data fetching for Angular Applications",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/reactive-forms",
-          "description": "(Angular Reactive) Forms with Benefits 😉",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/spectator",
-          "description": "🦊 🚀 A Powerful Tool to Simplify Your Angular Tests",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/svg-icon",
-          "description": "👻 A lightweight library that makes it easier to use SVG icons in your Angular Application",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/until-destroy",
-          "description": "🦊 RxJS operator that unsubscribe from observables on destroy",
-          "children": []
-        }
-      ],
-      "title": "angular"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ent",
-          "description": "An entity framework for Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-06T20:22:40Z",
-            "owner": "ent",
-            "repo": "ent",
-            "stars": 17172
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gh-ost",
-          "description": "GitHub's Online Schema-migration Tool for MySQL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T15:46:25Z",
-            "owner": "github",
-            "repo": "gh-ost",
-            "stars": 13525
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kor",
-          "description": "A Golang Tool to discover unused Kubernetes Resources",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-02T19:48:46Z",
-            "owner": "yonahd",
-            "repo": "kor",
-            "stars": 1812
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Otterize network mapper",
-          "description": "Map Kubernetes in-cluster traffic and export as text, intents, or an image",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-06-10T08:28:36Z",
-            "owner": "otterize",
-            "repo": "network-mapper",
-            "stars": 674
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "agent-manager",
-          "description": "Terminal UI to manage AI coding-agent sessions in tmux, with live status and in-TUI diff review.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-19T03:21:15Z",
-            "owner": "YoanWai",
-            "repo": "agent-manager",
-            "stars": 337
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@raptor-ml/raptor",
-          "description": "Transform your ic research to an artifact that engineers can deploy easily.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-01-31T14:18:45Z",
-            "owner": "raptor-ml",
-            "repo": "raptor",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "surf CLI",
-          "description": "Free Text Search across your infrastructure, it's like but for your entire infrastructure!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-03-05T07:44:07Z",
-            "owner": "Isan-Rivkin",
-            "repo": "surf",
-            "stars": 114
-          }
-        }
-      ],
-      "title": "go"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Elementary",
-          "description": "Open-source data observability for analytics engineers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-18T10:41:21Z",
-            "owner": "elementary-data",
-            "repo": "elementary",
-            "stars": 2392
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Broadlink Manager",
-          "description": "Flask based application for managing broadlink RM Devices (IR/RF).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-16T18:04:26Z",
-            "owner": "t0mer",
-            "repo": "broadlinkmanager-docker",
-            "stars": 321
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SafeUrl",
-          "description": "Lite web application intended to help us validate any URL safely before clicking it.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-09-03T10:09:43Z",
-            "owner": "t0mer",
-            "repo": "SafeUrl",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gotenberg UI",
-          "description": "Web application for interacting with Gotenberg API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-16T18:05:19Z",
-            "owner": "t0mer",
-            "repo": "gotenberg-ui",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Oref-GPT",
-          "description": "N8N automation that uses TwitterAPI.io to retrieve real-time social media data about rocket alerts in Israel.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-05-22T16:00:38Z",
-            "owner": "danielrosehill",
-            "repo": "Oref-GPT",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "html"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Springwolf",
-          "description": "Automated documentation for async APIs built with Spring Boot",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T22:32:26Z",
-            "owner": "springwolf",
-            "repo": "springwolf-core",
-            "stars": 347
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sawmill",
-          "description": "A JSON transformation open source library for enriching, transforming, and filtering JSON documents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-22T13:07:43Z",
-            "owner": "logzio",
-            "repo": "sawmill",
-            "stars": 123
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "klag",
-          "description": "Lightweight and extendable Kafka Consumer Lag monitor with support for Prometheus, Datadog, and OpenTelemetry and others",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T18:54:58Z",
-            "owner": "themoah",
-            "repo": "klag",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "async-profiler-actuator-endpoint",
-          "description": "A Spring Boot actuator endpoint implementation which serves as a wrapper for Async Profiler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-29T06:39:24Z",
-            "owner": "taboola",
-            "repo": "async-profiler-actuator-endpoint",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tomfi-archetypes",
-          "description": "Quickly spin up an updated Git and GitHub-ready Java project with Maven",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2024-10-26T20:11:46Z",
-            "owner": "TomerFi",
-            "repo": "tomfi-archetypes",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "alexa-skills-tester",
-          "description": "Testing tools for Alexa skills written in Java.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2024-02-27T19:54:12Z",
-            "owner": "TomerFi",
-            "repo": "alexa-skills-tester",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "java"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Node.js best practices",
-          "description": "Over 100 Node.js patterns and practices including code examples",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2026-06-15T11:41:04Z",
-            "owner": "goldbergyoni",
-            "repo": "nodebestpractices",
-            "stars": 105583
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dockly",
-          "description": "Docker console UI and Dashboard for quick managing and inspecting of Containers and Images",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-23T18:52:55Z",
-            "owner": "lirantal",
-            "repo": "dockly",
-            "stars": 4031
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cboard",
-          "description": "Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-14T19:53:05Z",
-            "owner": "cboard-org",
-            "repo": "cboard",
-            "stars": 745
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Broken-Link-Website",
-          "description": "A tool that scans websites for broken links and reports broken links",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T20:24:39Z",
-            "owner": "Deadlink-Hunter",
-            "repo": "Broken-Link-Website",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "branch-name-lint",
-          "description": "Validating and linting the git branch name",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-11-17T17:49:10Z",
-            "owner": "barzik",
-            "repo": "branch-name-lint",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lite-fifo",
-          "description": "Lightweight and efficient implementations of FIFO/Queue, written in pure javascript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-08-05T13:47:44Z",
-            "owner": "kleinron",
-            "repo": "lite-fifo",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DynamoDataTransform",
-          "description": "Dynamo Data Transform is an easy to use data transformation tool for DynamoDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-13T08:28:54Z",
-            "owner": "jitsecurity",
-            "repo": "dynamo-data-transform",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Telenode",
-          "description": "Lightweight Telegram API framework for Node.js",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-12-25T23:08:40Z",
-            "owner": "NivEz",
-            "repo": "telenode",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "licenseye",
-          "description": "Node.js CLI tool to visualize an aggregate list of your dependencies' licenses",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-22T15:43:54Z",
-            "owner": "lirantal",
-            "repo": "licenseye",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "crawling-jobs",
-          "description": "Scans jobs in Israel By scraping public websites using a Node.js, every six hours.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-29T12:16:19Z",
-            "owner": "gal-dahan",
-            "repo": "crawling-jobs",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "auto-me-bot",
-          "description": "GitHub app that takes the repository management load off your shoulders",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T22:34:50Z",
-            "owner": "TomerFi",
-            "repo": "auto-me-bot",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "arXiv",
-          "description": "ChatGPT Plugin that enables the model to access arXiv.org",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-04-07T23:02:07Z",
-            "owner": "ShadovvBeast",
-            "repo": "arXiv",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CoinCapPlugin",
-          "description": "ChatGPT Plugin that enables the model to access CoinCap to get crypto market info",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2023-04-08T14:11:47Z",
-            "owner": "ShadovvBeast",
-            "repo": "CoinCapPlugin",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "connection-monitor",
-          "description": "Monitor multiple IP addresses in your terminal",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-04T22:59:33Z",
-            "owner": "rluvaton",
-            "repo": "connection-monitor",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeriveJS",
-          "description": "Reactive ODM for MongoDB, maps native JS classes to data documents, uses bulk requests for effective DB performance",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-08-30T22:10:07Z",
-            "owner": "yuval-a",
-            "repo": "deriveODM",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "automate-download-paycheck",
-          "description": "Automate download Paychecks from Hargal and Hilan",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-10-07T09:41:12Z",
-            "owner": "rluvaton",
-            "repo": "automate-download-paycheck",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WikipediaGPTPlugin",
-          "description": "ChatGPT Plugins that enables the model to access Wikipedia",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2023-04-07T23:36:05Z",
-            "owner": "ShadovvBeast",
-            "repo": "WikipediaGPTPlugin",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Redash-in-js",
-          "description": "Run Query on multiple environments through Redash",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-08-02T18:54:53Z",
-            "owner": "rluvaton",
-            "repo": "redash-in-js",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "remove-special-quotes",
-          "description": "Remove Special quotes from stdin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-03-31T21:42:16Z",
-            "owner": "rluvaton",
-            "repo": "replace-special-quotes",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shelter-Locator-Jerusalem",
-          "description": "Open source emergency shelter finder web app.",
-          "children": []
-        }
-      ],
-      "title": "javascript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Redash",
-          "description": "Data visualization tool for building dashboards that connect to multiple data sources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:14:11Z",
-            "owner": "getredash",
-            "repo": "redash",
-            "stars": 28756
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PySnooper",
-          "description": "a Python debugging aid. \"Never use print for debugging again.\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-08T19:45:15Z",
-            "owner": "cool-RR",
-            "repo": "PySnooper",
-            "stars": 16581
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "keep",
-          "description": "The open-source alerts management and automation platform",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T19:42:39Z",
-            "owner": "keephq",
-            "repo": "keep",
-            "stars": 12224
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Checkov",
-          "description": "Static analysis for infrastructure as code (Terraform, Kubernetes, Cloudformation, Helm, Serverless, Kustomize, Bicep, Arm and more)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T13:10:05Z",
-            "owner": "bridgecrewio",
-            "repo": "checkov",
-            "stars": 8953
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OPAL",
-          "description": "OPAL is an administration layer for Open Policy Agent (OPA), detecting changes to both policy and policy data in realtime and pushing live updates to your agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T21:53:44Z",
-            "owner": "permitio",
-            "repo": "opal",
-            "stars": 5500
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Robusta",
-          "description": "Open source Kubernetes troubleshooting and automation platform (somewhat like Zapier/IFTTT for devops, but with an emphasis on prebuilt automations)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T06:43:14Z",
-            "owner": "robusta-dev",
-            "repo": "robusta",
-            "stars": 3074
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyNest",
-          "description": "PyNest is a Python framework built on top of FastAPI that follows the modular architecture of NestJS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-28T17:34:49Z",
-            "owner": "PythonNest",
-            "repo": "PyNest",
-            "stars": 860
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pdpipe",
-          "description": "Easy pipelines for pandas DataFrames.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-01T19:05:32Z",
-            "owner": "pdpipe",
-            "repo": "pdpipe",
-            "stars": 729
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AWS Lambda Handler Cookbook",
-          "description": "Serverless service template project that includes AWS CDK, Lambda best practices a CI/CD pipeline.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-09T11:01:16Z",
-            "owner": "ran-isenberg",
-            "repo": "aws-lambda-handler-cookbook",
-            "stars": 679
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cachier",
-          "description": "Persistent, stale-free, local and cross-machine caching for Python functions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-01T20:53:11Z",
-            "owner": "python-cachier",
-            "repo": "cachier",
-            "stars": 662
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cloudify",
-          "description": "Open source tool for orchestrating the lifecycle of infrastructure, network, and application resources on-prem and in the cloud.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-17T13:58:21Z",
-            "owner": "cloudify-cosmo",
-            "repo": "cloudify-manager",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "phonikud",
-          "description": "Hebrew grapheme-to-phoneme (G2P) converter that transforms Hebrew text into International Phonetic Alphabet (IPA) representations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-17T09:28:59Z",
-            "owner": "phonikud",
-            "repo": "phonikud",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "C4dynamics",
-          "description": "A framework for algorithm engineers who work with physical systems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-29T17:52:40Z",
-            "owner": "c4dynamics",
-            "repo": "c4dynamics",
-            "stars": 92
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "llm-client",
-          "description": "an SDK for communicating with generative AI large language models",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-22T20:29:19Z",
-            "owner": "uripeled2",
-            "repo": "llm-client-sdk",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Debug Toolkit",
-          "description": "A modern code-injection framework for Python. Like Pyrasite but Kubernetes-aware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-08T13:44:54Z",
-            "owner": "robusta-dev",
-            "repo": "debug-toolkit",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Red Alert (Home Assistant Integration)",
-          "description": "Home Assistant component for providing alerts from the Israeli Home Front Command system and making them available as sensors in Home Assistant.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-03T17:08:16Z",
-            "owner": "idodov",
-            "repo": "RedAlert",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aioswitcher",
-          "description": "PyPi module integrating with various Switcher smart devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T06:23:48Z",
-            "owner": "TomerFi",
-            "repo": "aioswitcher",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyDigger",
-          "description": "Collecting and analyzing data about Python projects on PyPI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-02T05:09:22Z",
-            "owner": "szabgab",
-            "repo": "pydigger.com",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shmessy",
-          "description": "If your data is messy - Use Shmessy!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-29T07:36:29Z",
-            "owner": "ohadmata",
-            "repo": "shmessy",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "adb-api",
-          "description": "ADB-API is a python-based application to help us control android-based streamers like Xiaomi and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-12T06:21:45Z",
-            "owner": "t0mer",
-            "repo": "adb-api",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deepstack Trainer",
-          "description": "Simple web application for training & Testing Deepstack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T18:04:47Z",
-            "owner": "t0mer",
-            "repo": "deepstack-trainer",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dockerbot",
-          "description": "DockerBot is a Telepot powerd, easy to use Telegram bot written in python that runs as Docker Container.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T18:04:51Z",
-            "owner": "t0mer",
-            "repo": "dockerbot",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ma-nish",
-          "description": "an unofficial python wrapper for Whatsapp cloud api",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-08T11:38:46Z",
-            "owner": "t0mer",
-            "repo": "ma-nish",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wazy",
-          "description": "Wazy a python based telegram bot, that helps us checking travel times using Waze route calculation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T18:13:33Z",
-            "owner": "t0mer",
-            "repo": "Wazy",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Xiaomi Token Extractor",
-          "description": "Small and simple web application for extracting Xiaomi device tokens.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T18:00:31Z",
-            "owner": "t0mer",
-            "repo": "Xiaomi-Token-Extractor",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weatheril",
-          "description": "weatheril is an unofficial IMS (Israel Meteorological Service) python API wrapper.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-04T11:21:12Z",
-            "owner": "t0mer",
-            "repo": "py-weatheril",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Arpspoof Docker",
-          "description": "Cut internet connection for any device in the network, no agent needed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T18:04:07Z",
-            "owner": "t0mer",
-            "repo": "Arpspoof-Docker",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Israel-Related-MCPs",
-          "description": "Small resource list of MCP projects related to Israel.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T17:01:57Z",
-            "owner": "danielrosehill",
-            "repo": "Israeli-AI",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cloudflared-mon",
-          "description": "Cloudflared-Mon is a python based Cloudflare Zero Tunnel monitoring.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T18:04:32Z",
-            "owner": "t0mer",
-            "repo": "cloudflared-mon",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Apprise api bridge",
-          "description": "Send multi channel notification using single endpoint.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T18:04:02Z",
-            "owner": "t0mer",
-            "repo": "apprise-api-bridge",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeCompose",
-          "description": "Create compose file for any existing container.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T18:04:42Z",
-            "owner": "t0mer",
-            "repo": "DeCompose",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tabnet",
-          "description": "PyTorch implementation of TabNet.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T19:28:56Z",
-            "owner": "DanielAvdar",
-            "repo": "tabnet",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "voicy",
-          "description": "Voicy is a Telegram bot written in python that accepts voice command and execute it using HTTP calls or MQTT topics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T18:13:24Z",
-            "owner": "t0mer",
-            "repo": "voicy",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pandas-pyarrow",
-          "description": "Seamlessly switch Pandas DataFrame backend to PyArrow.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-18T16:13:22Z",
-            "owner": "DanielAvdar",
-            "repo": "pandas-pyarrow",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AWS Text to Speech",
-          "description": "This repository deploys a serverless service that takes text files uploaded to a bucket, converts them to an MP3 and sends the output to an email address",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-25T19:11:01Z",
-            "owner": "ran-isenberg",
-            "repo": "aws-text-to-speech",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stremio-mcp",
-          "description": "MCP server that searches Stremio catalogs and plays or controls titles on an Android TV.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-27T12:49:54Z",
-            "owner": "YoanWai",
-            "repo": "stremio-mcp",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ml-orchestrator",
-          "description": "Software engineering approach for building kubeflow components.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-19T04:52:48Z",
-            "owner": "DanielAvdar",
-            "repo": "ml-orchestrator",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SciPi",
-          "description": "Raspberry Pi interactive setup",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-08-20T20:44:49Z",
-            "owner": "NivEz",
-            "repo": "scipi",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "activations-plus",
-          "description": "Collection of advanced activation functions for deep learning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T05:16:23Z",
-            "owner": "DanielAvdar",
-            "repo": "activations-plus",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "prob-spaces",
-          "description": "Probability Distributions from Gymnasium Spaces.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T09:41:07Z",
-            "owner": "DanielAvdar",
-            "repo": "prob-spaces",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Israel-To-ROW-Salary-Converter-V2",
-          "description": "Salary conversion utility for comparing Israeli and rest-of-world salaries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-05T20:59:36Z",
-            "owner": "danielrosehill",
-            "repo": "Israel-To-ROW-Salary-Converter-V2",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "helm-dashboard-v2",
-          "description": "A full re-write version for helm dashboard by Komodor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-10T14:27:36Z",
-            "owner": "komodorio",
-            "repo": "helm-dashboard",
-            "stars": 5745
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "emoji-picker-react",
-          "description": "The most popular emoji picker component for React applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-27T10:02:30Z",
-            "owner": "ealush",
-            "repo": "emoji-picker-react",
-            "stars": 1452
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ostara",
-          "description": "An application that provides various features to monitor and interact with Spring Boot Applications via Actuator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T00:14:23Z",
-            "owner": "krud-dev",
-            "repo": "ostara",
-            "stars": 341
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DataBus",
-          "description": "An Open bus ranking app that presents data on the quality of public transportation lines in the country (reliability, accuracy, route).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T18:54:40Z",
-            "owner": "hasadna",
-            "repo": "open-bus-map-search",
-            "stars": 95
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Geshem",
-          "description": "An interactive rain radar clone running on Mapbox GL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-11-14T12:25:40Z",
-            "owner": "yuvadm",
-            "repo": "geshem.space",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WhizFlow",
-          "description": "A lightweight, headless and extensible React library for building dynamic multi-step forms or troubleshooting workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-05-07T07:09:46Z",
-            "owner": "itamarbareket",
-            "repo": "whizflow",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-input-manager",
-          "description": "A React Input Manager made for Games, supports gamepad keyboard mouse mobile gamepad (razer kishi) and mobile ui joistics",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-02-20T15:20:41Z",
-            "owner": "noti56",
-            "repo": "react-game-input-manager",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "react"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "fnm",
-          "description": "Fast and simple Node.js version manager, built in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-24T14:28:38Z",
-            "owner": "Schniz",
-            "repo": "fnm",
-            "stars": 26605
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mirrord",
-          "description": "Connect your local process and your cloud environment, and run local code in cloud conditions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T20:24:08Z",
-            "owner": "metalbear-co",
-            "repo": "mirrord",
-            "stars": 5268
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Topgrade",
-          "description": "A single command to upgrade multiple package managers.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2022-10-12T12:04:33Z",
-            "owner": "r-darwish",
-            "repo": "topgrade",
-            "stars": 3307
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bob",
-          "description": "Bob is a cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions right from the command line.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T01:43:35Z",
-            "owner": "MordechaiHadad",
-            "repo": "bob",
-            "stars": 2137
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Show Me A Graph",
-          "description": "Easily create graphs from cli commands and view them in the terminal. Like the command but with a graph of the output.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-05-22T15:51:52Z",
-            "owner": "aantn",
-            "repo": "smag",
-            "stars": 172
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "israel-weather-rs",
-          "description": "CLI tool to check the weather in Israel via ims.gov.il data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-11T19:53:29Z",
-            "owner": "barakplasma",
-            "repo": "israel-weather-rs",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "rust"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FullPageOS",
-          "description": "A RaspberryPI distribution to display a full page browser on boot (kiosk mode)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-13T13:21:30Z",
-            "owner": "guysoft",
-            "repo": "FullPageOS",
-            "stars": 4462
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CustomPiOS",
-          "description": "A RaspberryPI and other ARM devices distribution builder",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-03T20:03:13Z",
-            "owner": "guysoft",
-            "repo": "CustomPiOS",
-            "stars": 610
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kivun",
-          "description": "Runs Claude Code in the terminal with correct right-to-left rendering for Hebrew, Arabic and Persian.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T07:02:41Z",
-            "owner": "noambrand",
-            "repo": "kivun-terminal-wsl",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "shell"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Appwrite",
-          "description": "End to end backend server for frontend and mobile apps 👩‍💻👨‍💻.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T00:07:29Z",
-            "owner": "appwrite",
-            "repo": "appwrite",
-            "stars": 57049
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Novu",
-          "description": "Notification infrastructure with fully functional embedded notification center",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T17:38:14Z",
-            "owner": "novuhq",
-            "repo": "novu",
-            "stars": 39611
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Postiz",
-          "description": "Postiz offers everything you need to manage your social media posts, build an audience, capture leads, and grow your business.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T02:58:28Z",
-            "owner": "gitroomhq",
-            "repo": "postiz-app",
-            "stars": 34845
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bit",
-          "description": "An open-source toolchain for component-driven software. Forget monolithic apps and distribute development to components",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T01:34:15Z",
-            "owner": "teambit",
-            "repo": "bit",
-            "stars": 18457
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Amplication",
-          "description": "Build quality Node.js applications without spending time on repetitive coding tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-30T13:46:55Z",
-            "owner": "amplication",
-            "repo": "amplication",
-            "stars": 16010
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pretty-ts-errors",
-          "description": "🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T19:49:47Z",
-            "owner": "yoavbls",
-            "repo": "pretty-ts-errors",
-            "stars": 14104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Inbox Zero",
-          "description": "AI-powered email assistant that organizes your inbox, pre-drafts replies, and tracks follow-ups.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T20:56:20Z",
-            "owner": "elie222",
-            "repo": "inbox-zero",
-            "stars": 12028
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vibe",
-          "description": "Transcribe audio / video offline using OpenAI Whisper.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-26T16:05:31Z",
-            "owner": "thewh1teagle",
-            "repo": "vibe",
-            "stars": 7133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Snyk",
-          "description": "CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T21:07:01Z",
-            "owner": "snyk",
-            "repo": "cli",
-            "stars": 5641
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Remult",
-          "description": "A CRUD framework for full-stack TypeScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T07:55:39Z",
-            "owner": "remult",
-            "repo": "remult",
-            "stars": 3207
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vest",
-          "description": "Declarative validations library inspired by the spirit and style of unit testing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T01:21:00Z",
-            "owner": "ealush",
-            "repo": "vest",
-            "stars": 2664
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Configu",
-          "description": "A simple, modern, and secure standard for managing and collaborating software configurations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-17T17:08:29Z",
-            "owner": "configu",
-            "repo": "configu",
-            "stars": 1684
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "angular2-moment",
-          "description": "moment.js pipes for Angular",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-08-25T10:25:44Z",
-            "owner": "urish",
-            "repo": "ngx-moment",
-            "stars": 1157
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "israeli-bank-scrapers",
-          "description": "Provide scrapers for all major Israeli banks and credit card companies",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-05T00:18:00Z",
-            "owner": "eshaham",
-            "repo": "israeli-bank-scrapers",
-            "stars": 1087
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Reduced.to",
-          "description": "Reduced.to is the FREE, Modern, and Open-Source URL Shortener.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2025-04-25T16:46:53Z",
-            "owner": "origranot",
-            "repo": "reduced.to",
-            "stars": 705
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Automock",
-          "description": "Easier Unit Testing for TypeScript Dependency Injection Frameworks",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T19:00:25Z",
-            "owner": "suites-dev",
-            "repo": "suites",
-            "stars": 544
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kysely-ctl",
-          "description": "Command-line tool for Kysely.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-06T01:07:08Z",
-            "owner": "kysely-org",
-            "repo": "kysely-ctl",
-            "stars": 315
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Caspion",
-          "description": "Automated budget tracking from Israeli financial institutions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T02:29:17Z",
-            "owner": "brafdlog",
-            "repo": "caspion",
-            "stars": 263
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Neuledge",
-          "description": "Universal language to model, share, and interact with databases.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-11-05T06:15:17Z",
-            "owner": "neuledge",
-            "repo": "engine-js",
-            "stars": 234
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Better Rail",
-          "description": "An alternative mobile client for Israel Railways",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T22:22:53Z",
-            "owner": "better-rail",
-            "repo": "app",
-            "stars": 211
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mathberet",
-          "description": "Digital Mathematics Notebook.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-05-24T23:47:54Z",
-            "owner": "yonatanmgr",
-            "repo": "mathberet",
-            "stars": 183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kysely-postgres-js",
-          "description": "Kysely dialect for PostgreSQL using the Postgres.js client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T20:41:35Z",
-            "owner": "kysely-org",
-            "repo": "kysely-postgres-js",
-            "stars": 140
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CASANET",
-          "description": "Open-source server and dashboard to control IoT devices in a local home network",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-09-05T07:40:37Z",
-            "owner": "casanet",
-            "repo": "casanet-server",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TalkGPT",
-          "description": "Easily talk to ChatGPT using your voice",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-07-31T09:09:13Z",
-            "owner": "ShadovvBeast",
-            "repo": "TalkGPT",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kysely-supabase",
-          "description": "A toolkit (type translators for now) that allows using your existing Supabase setup with Kysely.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-06T19:16:01Z",
-            "owner": "kysely-org",
-            "repo": "kysely-supabase",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kysely-typeorm",
-          "description": "A toolkit (dialect, type translators, etc.) that allows using your existing TypeORM setup with Kysely.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-08T02:44:01Z",
-            "owner": "kysely-org",
-            "repo": "kysely-typeorm",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pino-sentry-transport",
-          "description": "Send logs from pino to Sentry.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-11-07T11:01:08Z",
-            "owner": "tomer-yechiel",
-            "repo": "pino-sentry-transport",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kysely-knex",
-          "description": "A toolkit (dialect, type translators, custom migration source, etc.) that allows using your existing Knex setup with Kysely.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-06T18:54:41Z",
-            "owner": "kysely-org",
-            "repo": "kysely-knex",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kysely-replication",
-          "description": "Replication-aware Kysely query execution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-14T13:08:25Z",
-            "owner": "kysely-org",
-            "repo": "kysely-replication",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kysely-sequelize",
-          "description": "A toolkit (dialect, type translators, etc.) that allows using your existing Sequelize instance with Kysely.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-13T17:51:21Z",
-            "owner": "kysely-org",
-            "repo": "kysely-sequelize",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DBZar",
-          "description": "Agnostic DB Anonymizer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-05-01T23:34:21Z",
-            "owner": "nitzano",
-            "repo": "dbzar",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bulk-npm-publish",
-          "description": "CLI Tool for Publishing Multiple NPM packages from verdaccio storage",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-05T10:45:39Z",
-            "owner": "rluvaton",
-            "repo": "bulk-npm-publish",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GitShow",
-          "description": "Beautiful developer portfolios from GitHub profiles — just replace github.com with gitshow.dev in any profile URL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-09T14:09:34Z",
-            "owner": "ofershap",
-            "repo": "gitshow",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wiki Location",
-          "description": "Displays wikipedia articles based on your current location (currently in hebrew).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-15T20:41:56Z",
-            "owner": "noam-honig",
-            "repo": "wikiloc",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nolybab-js",
-          "description": "A CLI based tool for converting i18n to csv and csv to i18n files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-02-11T18:07:51Z",
-            "owner": "fima-taf",
-            "repo": "nolybab-js",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopping Cart",
-          "description": "A minimalist shopping cart list when you need to do some groceries shopping in the supermarket (currently in hebrew).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-05-30T19:16:51Z",
-            "owner": "develad",
-            "repo": "cart",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electra-smart-js-client",
-          "description": "Electra Smart js client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-08-20T22:18:15Z",
-            "owner": "rluvaton",
-            "repo": "electra-smart-js-client",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sinon-jest-matchers",
-          "description": "Jest (expect) matchers for sinon",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-02-02T11:28:13Z",
-            "owner": "rluvaton",
-            "repo": "sinon-jest-matchers",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/effects",
-          "description": "🪄 A framework-agnostic RxJS effects implementation",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/falso",
-          "description": "All the Fake Data for All Your Real Needs 🙂",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Merlinn",
-          "description": "Open-source AI on-call developer that helps teams investigate issues faster.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "WhatsNext (Server)",
-          "description": "WhatsNext, connect through similar life events.",
-          "children": []
-        }
-      ],
-      "title": "typescript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Overlay",
-          "description": "Overlay is a browser extension helping developers evaluate open source packages before picking them.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-06-22T07:41:52Z",
-            "owner": "os-scar",
-            "repo": "overlay",
-            "stars": 229
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gcp-emulator-ui",
-          "description": "A modern web interface for managing Google Cloud Platform emulator services.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-08-18T10:44:02Z",
-            "owner": "drehelis",
-            "repo": "gcp-emulator-ui",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "devcontainer.live",
-          "description": "devcontainer.json Live Generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-07-09T04:59:06Z",
-            "owner": "drehelis",
-            "repo": "devcontainer.live",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WhatsNext (Client)",
-          "description": "WhatsNext, connect through similar life events.",
-          "children": []
-        }
-      ],
-      "title": "vue"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Cheat-Sheet Collection",
-          "description": "Cheat-Sheet Collection for DevOps, Engineers, IT and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-05-25T08:44:16Z",
-            "owner": "sk3pp3r",
-            "repo": "cheat-sheet-pdf",
-            "stars": 2387
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-twitter-data",
-          "description": "A list of Twitter datasets and related resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-29T10:22:38Z",
-            "owner": "shaypal5",
-            "repo": "awesome-twitter-data",
-            "stars": 1123
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HA-Red-Alerts-Model-Automations",
-          "description": "Automations and hardware recommendations for Home Assistant and Pikud HaOref integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-03-21T21:33:52Z",
-            "owner": "danielrosehill",
-            "repo": "HA-Red-Alerts-Model-Automations",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shelter-Finder-Jerusalem",
-          "description": "Android app for finding nearby public shelters in Jerusalem.",
-          "children": []
-        }
-      ],
-      "title": "unknown language"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "blessed-contrib",
-          "description": "Build terminal dashboards using ascii/ansi art and javascript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-01T06:16:27Z",
-            "owner": "yaronn",
-            "repo": "blessed-contrib",
-            "stars": 15766
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mean.io",
-          "description": "Mean.io is a popular mean stack boilerplate providing a starting point for angular(6) , express, mongo and node fullstack javascript powered apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-17T10:51:41Z",
-            "owner": "linnovate",
-            "repo": "mean",
-            "stars": 12053
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mailgen",
-          "description": "A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-04T06:55:09Z",
-            "owner": "eladnava",
-            "repo": "mailgen",
-            "stars": 2542
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vue Tables 2",
-          "description": "Vue.js 2 grid components.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-11-26T06:49:37Z",
-            "owner": "matfish2",
-            "repo": "vue-tables-2",
-            "stars": 1511
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Intergram",
-          "description": "Free live chat widget linked to your Telegram messenger.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-03-25T20:59:27Z",
-            "owner": "idoco",
-            "repo": "intergram",
-            "stars": 1418
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webpack-node-externals",
-          "description": "A Webpack plugin to list all node modules as bundle externals",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-03T10:17:50Z",
-            "owner": "liady",
-            "repo": "webpack-node-externals",
-            "stars": 1294
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeWiz",
-          "description": "Automatically discover and add missing types in your TypeScript code",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2021-10-05T15:00:24Z",
-            "owner": "mockdeep",
-            "repo": "typewiz",
-            "stars": 1104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "firebase-server",
-          "description": "Firebase Realtime Database server implementation",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2021-05-10T08:18:15Z",
-            "owner": "urish",
-            "repo": "firebase-server",
-            "stars": 673
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Predator",
-          "description": "An open-source distributed performance testing framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-02T09:14:03Z",
-            "owner": "Zooz",
-            "repo": "predator",
-            "stars": 593
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-elastic-carousel",
-          "description": "A flexible and responsive carousel component for react.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-10T00:05:54Z",
-            "owner": "sag1v",
-            "repo": "react-elastic-carousel",
-            "stars": 343
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "muse-js",
-          "description": "Muse 2016 EEG Headset JavaScript Library (using Web Bluetooth)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-09-25T19:00:48Z",
-            "owner": "urish",
-            "repo": "muse-js",
-            "stars": 306
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Petri",
-          "description": "Wix experiment system (A/B test and feature toggle framework)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-07-07T21:23:35Z",
-            "owner": "wix-incubator",
-            "repo": "petri",
-            "stars": 265
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "skift",
-          "description": "scikit-learn wrappers for Python fastText.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-06-07T15:07:07Z",
-            "owner": "shaypal5",
-            "repo": "skift",
-            "stars": 234
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mocha-sidebar",
-          "description": "Mocha side bar is a visual studio code extension that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-20T20:19:18Z",
-            "owner": "maty21",
-            "repo": "mocha-sidebar",
-            "stars": 188
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "express-ajv-swagger-validation",
-          "description": "Express middleware for input validation using Swagger (Open API) and ajv",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-10-27T11:54:10Z",
-            "owner": "PayU",
-            "repo": "openapi-validator-middleware",
-            "stars": 144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-dynamic-star-rating",
-          "description": "A dynamic stars rating component for vue, similar to Google Play’s rating",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2021-04-27T21:58:47Z",
-            "owner": "JonathanDn",
-            "repo": "vue-stars-rating",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "express-version-route",
-          "description": "A Node.js express middleware that implements API versioning for route controllers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-24T18:20:46Z",
-            "owner": "lirantal",
-            "repo": "express-version-route",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "web-bluetooth-polyfill",
-          "description": "Windows 10 Web Bluetooth Polyfill",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-05-09T00:32:50Z",
-            "owner": "urish",
-            "repo": "web-bluetooth-polyfill",
-            "stars": 80
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yap-csv",
-          "description": "Node.js package that manages CSV to JSON conversion supporting complex field mapping",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-04-16T03:09:40Z",
-            "owner": "nielsen-oss",
-            "repo": "yap-csv",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Reconstant",
-          "description": "Reconstant lets you share constant and enum definitions between programming languages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-17T13:36:17Z",
-            "owner": "aantn",
-            "repo": "reconstant",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Litespeed.js",
-          "description": "Lite & fast micro javascript framework that is easy to learn.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-04T02:58:23Z",
-            "owner": "litespeed-js",
-            "repo": "litespeed.js",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-dynamic-dropdown",
-          "description": "A Highly Customizable, easy-to-use elegant dropdown component for Vue framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2020-10-11T05:39:17Z",
-            "owner": "JonathanDn",
-            "repo": "vue-dropdown",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-toggle-btn",
-          "description": "A Highly Customizable, easy-to-use elegant toggle/switch button component",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2022-12-29T23:30:45Z",
-            "owner": "JonathanDn",
-            "repo": "vue-toggle-btn",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fugazi",
-          "description": "A web based terminal application for executing local and remote commands",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2018-01-07T23:41:42Z",
-            "owner": "fugazi-io",
-            "repo": "webclient",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Apollo",
-          "description": "A simple, lightweight, Continuous Deployment (CD) solution on top of Kubernetes.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2021-02-22T08:44:40Z",
-            "owner": "logzio",
-            "repo": "apollo",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HspellPy",
-          "description": "A Python wrapper for Hspell.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-05-05T14:06:35Z",
-            "owner": "eranroz",
-            "repo": "HspellPy",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mr. M",
-          "description": "Need to easily assume AWS IAM roles? Mr. M has your back!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-12-27T17:53:39Z",
-            "owner": "robusta-dev",
-            "repo": "mr-m",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@lirantal/typeform-client",
-          "description": "a friendlier Typeform Node.js API client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-18T09:02:30Z",
-            "owner": "lirantal",
-            "repo": "typeform-client",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "express-security-txt",
-          "description": "A Node.js middleware for Express that implements Security.txt - A Method for Web Security Policies",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-23T18:58:12Z",
-            "owner": "lirantal",
-            "repo": "express-security-txt",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cron-to-quartz",
-          "description": "Node.js library to convert unix or linux CRON syntax to Quartz Scheduler",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-23T18:57:52Z",
-            "owner": "lirantal",
-            "repo": "cron-to-quartz",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ticktok.io",
-          "description": "Efficient, managed and clustered scheduler that allows apps to receive accurate and reliable clock signals at scale.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2021-04-30T12:35:43Z",
-            "owner": "ticktok-io",
-            "repo": "ticktok.io",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "birch",
-          "description": "Simple hierarchical configuration for Python packages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-14T19:48:45Z",
-            "owner": "shaypal5",
-            "repo": "birch",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Blink-Java",
-          "description": "Simple http server designed for use in tests, written in pure Java (no dependencies).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-05-20T20:49:38Z",
-            "owner": "rockem",
-            "repo": "blink-java",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "express-boilerplate",
-          "description": "A simple Node.js app (Express + Sequelize) with the purpose of providing a compact, clear and concise example to how Node.js apps can be built",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-06-08T12:36:37Z",
-            "owner": "giladno",
-            "repo": "express-boilerplate",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sequelize-admin",
-          "description": "A simple express based admin middleware for sequelizejs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-06-09T14:28:47Z",
-            "owner": "giladno",
-            "repo": "sequelize-admin",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SugoiJS Server",
-          "description": "SugoiJS provides TypeScript decorators which makes the development process faster, easier with less boilerplate code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-23T21:53:44Z",
-            "owner": "sugoiJS",
-            "repo": "server",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JsonChangeVals",
-          "description": "Translating your JSON structure without paying for it.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2018-12-25T10:06:06Z",
-            "owner": "erasta",
-            "repo": "JsonChangeVals",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "resume-json-python",
-          "description": "A project to create your resume as JSON and be able to style it easily.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2021-06-10T21:08:38Z",
-            "owner": "moshe742",
-            "repo": "resume-json-python",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typeform-export-excel",
-          "description": "Export a Typeform survey questionnaire to an Excel format",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T01:15:23Z",
-            "owner": "lirantal",
-            "repo": "typeform-export-excel",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dynamodb",
-          "description": "A wrapper for easy access to DynamoDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-01-18T22:44:37Z",
-            "owner": "giladno",
-            "repo": "dynamodb",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@ngneat/hotkeys",
-          "description": "🤖 A declarative library for handling hotkeys in Angular applications",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "infinite-autocomplete",
-          "description": "Pluggable infinite-autocomplete component that can accept any implementations of yours",
-          "children": []
-        }
-      ],
-      "title": "Old Projects"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2745,6 +2807,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301348045,
             "language": null,
             "last_commit": "2024-07-25T18:45:33Z",
             "owner": "JonathanDn",
@@ -2759,6 +2822,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 627157081,
             "language": null,
             "last_commit": "2026-02-18T13:56:01Z",
             "owner": "KaplanOpenSource",
@@ -2773,6 +2837,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 183882119,
             "language": null,
             "last_commit": "2023-05-16T14:00:59Z",
             "owner": "vue-js-israel",
@@ -2787,6 +2852,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302109794,
             "language": null,
             "last_commit": "2024-08-13T11:07:04Z",
             "owner": "eranshmil",
@@ -2801,6 +2867,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1097120032,
             "language": "Python",
             "last_commit": "2026-08-10T17:01:57Z",
             "owner": "danielrosehill",
@@ -2815,6 +2882,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175199109,
             "language": null,
             "last_commit": "2022-09-18T09:13:57Z",
             "owner": "rust-tlv",
@@ -2829,6 +2897,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 785704420,
             "language": null,
             "last_commit": "2024-04-12T13:55:04Z",
             "owner": "danielrosehill",
@@ -2843,6 +2912,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1190512264,
             "language": null,
             "last_commit": "2026-04-06T14:14:22Z",
             "owner": "danielrosehill",
@@ -2852,21 +2922,12 @@
         }
       ],
       "title": "Israeli Tech AwesomeLists"
-    },
-    {
-      "description": "Found an awesome project, package, article, blog, video etc.? Send me a pull request! Just follow the guidelines. Thank you!\nsay hi on Twitter.**",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:42:47.569Z",
+    "last_updated": "2026-08-19T12:44:14.078Z",
     "original_repository": "lirantal/awesome-opensource-israel",
+    "original_repository_id": 107890515,
     "original_repository_sha": "884c2595f6b08056f9995b07448c219c4212af4f",
     "enhanced_repository": "enhansome/enhansome-opensource-israel",
     "enhanced_repository_description": null,
