@@ -142,7 +142,7 @@
                 "last_commit": "2026-08-06T20:22:40Z",
                 "owner": "ent",
                 "repo": "ent",
-                "stars": 17174
+                "stars": 17175
               }
             },
             {
@@ -433,7 +433,7 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105602
+                "stars": 105601
               }
             },
             {
@@ -478,7 +478,7 @@
                 "last_commit": "2026-08-17T20:24:39Z",
                 "owner": "Deadlink-Hunter",
                 "repo": "Broken-Link-Website",
-                "stars": 110
+                "stars": 109
               }
             },
             {
@@ -588,7 +588,7 @@
             },
             {
               "node_type": "item",
-              "title": "arXiv",
+              "title": "ShadovvBeast/arXiv",
               "description": "ChatGPT Plugin that enables the model to access arXiv.org",
               "children": [],
               "repo_info": {
@@ -766,7 +766,7 @@
                 "archived": false,
                 "id": 60010673,
                 "language": "PHP",
-                "last_commit": "2026-08-25T03:33:28Z",
+                "last_commit": "2026-08-25T05:25:08Z",
                 "owner": "elementor",
                 "repo": "elementor",
                 "stars": 7061
@@ -821,7 +821,7 @@
                 "last_commit": "2026-08-24T07:26:38Z",
                 "owner": "keephq",
                 "repo": "keep",
-                "stars": 12241
+                "stars": 12242
               }
             },
             {
@@ -863,7 +863,7 @@
                 "archived": false,
                 "id": 378598624,
                 "language": "Python",
-                "last_commit": "2026-08-24T18:27:14Z",
+                "last_commit": "2026-08-25T06:17:16Z",
                 "owner": "robusta-dev",
                 "repo": "robusta",
                 "stars": 3077
@@ -896,7 +896,7 @@
                 "last_commit": "2026-08-01T19:05:32Z",
                 "owner": "pdpipe",
                 "repo": "pdpipe",
-                "stars": 729
+                "stars": 730
               }
             },
             {
@@ -1522,7 +1522,7 @@
                 "archived": false,
                 "id": 550060344,
                 "language": "Ruby",
-                "last_commit": "2026-08-25T03:18:44Z",
+                "last_commit": "2026-08-25T06:09:14Z",
                 "owner": "szabgab",
                 "repo": "ruby-digger",
                 "stars": 7
@@ -1559,7 +1559,7 @@
                 "archived": false,
                 "id": 454467716,
                 "language": "Rust",
-                "last_commit": "2026-08-24T21:58:41Z",
+                "last_commit": "2026-08-25T04:28:43Z",
                 "owner": "metalbear-co",
                 "repo": "mirrord",
                 "stars": 5274
@@ -1592,7 +1592,7 @@
                 "last_commit": "2026-08-25T01:44:45Z",
                 "owner": "MordechaiHadad",
                 "repo": "bob",
-                "stars": 2140
+                "stars": 2139
               }
             },
             {
@@ -1715,7 +1715,7 @@
                 "archived": false,
                 "id": 180190854,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T03:42:42Z",
+                "last_commit": "2026-08-25T06:20:30Z",
                 "owner": "appwrite",
                 "repo": "appwrite",
                 "stars": 57114
@@ -1730,10 +1730,10 @@
                 "archived": false,
                 "id": 400215964,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T21:24:09Z",
+                "last_commit": "2026-08-25T05:41:43Z",
                 "owner": "novuhq",
                 "repo": "novu",
-                "stars": 39663
+                "stars": 39662
               }
             },
             {
@@ -1748,7 +1748,7 @@
                 "last_commit": "2026-08-25T02:37:27Z",
                 "owner": "gitroomhq",
                 "repo": "postiz-app",
-                "stars": 35095
+                "stars": 35098
               }
             },
             {
@@ -1808,7 +1808,7 @@
                 "last_commit": "2026-08-24T22:21:45Z",
                 "owner": "elie222",
                 "repo": "inbox-zero",
-                "stars": 12076
+                "stars": 12079
               }
             },
             {
@@ -2362,7 +2362,7 @@
                 "last_commit": "2026-05-29T10:22:38Z",
                 "owner": "shaypal5",
                 "repo": "awesome-twitter-data",
-                "stars": 1123
+                "stars": 1124
               }
             },
             {
@@ -3122,7 +3122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:45:26.664Z",
+    "last_updated": "2026-08-25T06:22:09.367Z",
     "original_repository": "lirantal/awesome-opensource-israel",
     "original_repository_id": 107890515,
     "original_repository_sha": "884c2595f6b08056f9995b07448c219c4212af4f",
