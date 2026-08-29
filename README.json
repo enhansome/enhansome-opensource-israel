@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 😍 The internationalization (i18n) library for Angular",
+                "homepage": "https://jsverse.gitbook.io/transloco/",
                 "id": 201458091,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T19:04:35Z",
+                "open_issues": 152,
                 "owner": "jsverse",
                 "repo": "transloco",
-                "stars": 2279
+                "stars": 2279,
+                "topics": [
+                  "angular",
+                  "i18n",
+                  "internationalization",
+                  "languages",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -28,12 +39,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🦄 The Key to a Better Translation Experience",
+                "homepage": "https://jsverse.gitbook.io/transloco/tools/keys-manager-tkm",
                 "id": 211653344,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-01T13:43:23Z",
+                "open_issues": 0,
                 "owner": "jsverse",
                 "repo": "transloco-keys-manager",
-                "stars": 223
+                "stars": 223,
+                "topics": [
+                  "angular",
+                  "cli",
+                  "extract",
+                  "i18n",
+                  "translate",
+                  "transloco"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -51,12 +74,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 54 bytes snake game in x86 assembly ",
+                "homepage": "https://donno2048.github.io/snake/",
                 "id": 344617026,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2026-07-13T19:57:19Z",
+                "open_issues": 0,
                 "owner": "donno2048",
                 "repo": "snake",
-                "stars": 1424
+                "stars": 1424,
+                "topics": [
+                  "assembly-language",
+                  "code-golf",
+                  "dos",
+                  "low-level",
+                  "sizecoding",
+                  "snake-game",
+                  "x86"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -74,12 +110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GNU FriBidi",
+                "homepage": null,
                 "id": 5575048,
                 "language": "C",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-27T18:08:13Z",
+                "open_issues": 21,
                 "owner": "fribidi",
                 "repo": "fribidi",
-                "stars": 434
+                "stars": 434,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -97,12 +138,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ocr-docker is small, Flask powerd web app, helps us to extract text from images and pdf document using OCR",
+                "homepage": null,
                 "id": 354230607,
                 "language": "CSS",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T18:05:47Z",
+                "open_issues": 4,
                 "owner": "t0mer",
                 "repo": "ocr-docker",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "docker",
+                  "flask",
+                  "ocr",
+                  "python",
+                  "tesseract"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -120,12 +172,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nerlnet is a framework for research and development of distributed machine learning models on IoT",
+                "homepage": null,
                 "id": 263516562,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-08T17:01:47Z",
+                "open_issues": 4,
                 "owner": "leondavi",
                 "repo": "NErlNet",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence-projects",
+                  "cowboy",
+                  "distributed-machine-learning",
+                  "distributed-ml",
+                  "distributed-systems",
+                  "erlang",
+                  "fault-tolerance",
+                  "federated",
+                  "federated-learning",
+                  "federated-learning-framework",
+                  "iot",
+                  "machine-learning",
+                  "ml",
+                  "nerlnet",
+                  "neural-network",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -143,12 +218,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An entity framework for Go",
+                "homepage": "https://entgo.io",
                 "id": 191655189,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T20:22:40Z",
+                "open_issues": 620,
                 "owner": "ent",
                 "repo": "ent",
-                "stars": 17177
+                "stars": 17177,
+                "topics": [
+                  "ent",
+                  "entity-framework",
+                  "orm"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -159,12 +243,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub's Online Schema-migration Tool for MySQL",
+                "homepage": null,
                 "id": 54378638,
                 "language": "Go",
-                "last_commit": "2026-08-28T10:22:03Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T15:29:44Z",
+                "open_issues": 328,
                 "owner": "github",
                 "repo": "gh-ost",
-                "stars": 13543
+                "stars": 13543,
+                "topics": [
+                  "mysql",
+                  "schema-migrations"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -175,12 +267,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Golang Tool to discover unused Kubernetes Resources ",
+                "homepage": null,
                 "id": 662734440,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-02T19:48:46Z",
+                "open_issues": 23,
                 "owner": "yonahd",
                 "repo": "kor",
-                "stars": 1814
+                "stars": 1814,
+                "topics": [
+                  "go",
+                  "golang",
+                  "k8s",
+                  "kubernetes",
+                  "resource-management"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -191,12 +294,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Map Kubernetes traffic: in-cluster, to the Internet, and to AWS IAM and export as text, intents, or an image",
+                "homepage": null,
                 "id": 505498076,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-10T08:28:36Z",
+                "open_issues": 6,
                 "owner": "otterize",
                 "repo": "network-mapper",
-                "stars": 674
+                "stars": 674,
+                "topics": [
+                  "cloud-native",
+                  "devops-tools",
+                  "go",
+                  "golang",
+                  "hacktoberfest",
+                  "intents",
+                  "kubernetes",
+                  "mapping",
+                  "microservices",
+                  "monitoring",
+                  "network",
+                  "network-discovery",
+                  "network-visualization",
+                  "observability",
+                  "service-discovery",
+                  "traffic-viewer",
+                  "visibility"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -207,12 +333,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The fastest workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.",
+                "homepage": "https://agent-manager.dev",
                 "id": 1301824521,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T01:13:42Z",
+                "open_issues": 19,
                 "owner": "YoanWai",
                 "repo": "agent-manager",
-                "stars": 371
+                "stars": 372,
+                "topics": [
+                  "agentic",
+                  "ai-agents",
+                  "bubbletea",
+                  "claude-code",
+                  "cli",
+                  "code-review",
+                  "codex",
+                  "coding-agent",
+                  "developer-tools",
+                  "gemini-cli",
+                  "golang",
+                  "grok",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "opencode",
+                  "terminal",
+                  "tmux",
+                  "tui",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -223,12 +374,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transform your pythonic research to an artifact that engineers can deploy easily.",
+                "homepage": "https://raptor.ml",
                 "id": 478110812,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-31T14:18:45Z",
+                "open_issues": 24,
                 "owner": "raptor-ml",
                 "repo": "raptor",
-                "stars": 164
+                "stars": 164,
+                "topics": [
+                  "ai-infra",
+                  "data-engineering",
+                  "data-science",
+                  "dataops",
+                  "feature-engineering",
+                  "feature-extraction",
+                  "feature-platform",
+                  "featurestore",
+                  "kubeflow",
+                  "kubernetes",
+                  "machine-learning",
+                  "ml",
+                  "mlops",
+                  "model-deployment",
+                  "production",
+                  "raptor",
+                  "raptor-ml",
+                  "reactive-ml"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -239,12 +414,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI Text Search across your infrastructure platforms, Universal Ctrl+F for infra",
+                "homepage": null,
                 "id": 471098430,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-05T07:44:07Z",
+                "open_issues": 4,
                 "owner": "Isan-Rivkin",
                 "repo": "surf",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "aws",
+                  "devops",
+                  "dynamodb",
+                  "elasticsearch",
+                  "golang",
+                  "infrastructure",
+                  "kubernetes",
+                  "router",
+                  "s3",
+                  "secrets",
+                  "vault"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -262,12 +454,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.",
+                "homepage": "https://www.elementary-data.com/",
                 "id": 401275197,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T13:09:27Z",
+                "open_issues": 24,
                 "owner": "elementary-data",
                 "repo": "elementary",
-                "stars": 2400
+                "stars": 2400,
+                "topics": [
+                  "analytics-engineer",
+                  "bigquery",
+                  "data-analysis",
+                  "data-governance",
+                  "data-lineage",
+                  "data-observability",
+                  "data-pipeline",
+                  "data-pipelines",
+                  "data-reliability",
+                  "data-warehouse",
+                  "dataops",
+                  "dbt",
+                  "dbt-artifacts",
+                  "dbt-packages",
+                  "lineage",
+                  "redshift",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -278,12 +493,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Broadlink Manager is a python based project that allows you to contorol your broadlink devices. Discover, Leran and send command in a very easy way",
+                "homepage": null,
                 "id": 269122261,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T18:04:26Z",
+                "open_issues": 37,
                 "owner": "t0mer",
                 "repo": "broadlinkmanager-docker",
-                "stars": 322
+                "stars": 322,
+                "topics": [
+                  "broadlink",
+                  "broadlink-devices",
+                  "broadlink-rm",
+                  "flask",
+                  "home-assistant",
+                  "home-automation",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -294,12 +522,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SafeUrl is a small and lite [FastAPI]( https://fastapi.tiangolo.com/)  based web application intended to help us validate any URL safely before clicking it.",
+                "homepage": null,
                 "id": 451401043,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-03T10:09:43Z",
+                "open_issues": 1,
                 "owner": "t0mer",
                 "repo": "SafeUrl",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "docker",
+                  "fastapi",
+                  "ipinfo",
+                  "python",
+                  "security",
+                  "spam",
+                  "virustotal"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -310,12 +551,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 419854526,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T18:05:19Z",
+                "open_issues": 0,
                 "owner": "t0mer",
                 "repo": "gotenberg-ui",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "docker",
+                  "fastapi",
+                  "html",
+                  "pdf",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -326,12 +578,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "N8N automation that uses TwitterAPI.io to rertieve real-time social media data about the source of rocket alerts in Israel",
+                "homepage": null,
                 "id": 988313613,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-05-22T16:00:38Z",
+                "open_issues": 0,
                 "owner": "danielrosehill",
                 "repo": "Oref-GPT",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "ai-agents",
+                  "n8n",
+                  "n8n-workflows",
+                  "pikud-haoref",
+                  "red-alert"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -349,12 +612,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated documentation for event-driven applications built with Spring Boot",
+                "homepage": "https://www.springwolf.dev",
                 "id": 163955174,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T10:15:34Z",
+                "open_issues": 16,
                 "owner": "springwolf",
                 "repo": "springwolf-core",
-                "stars": 350
+                "stars": 350,
+                "topics": [
+                  "ampq",
+                  "asyncapi",
+                  "documentation-generator",
+                  "hacktoberfest",
+                  "java",
+                  "kafka",
+                  "sns",
+                  "spring-boot",
+                  "spring-cloud-stream",
+                  "spring-jms",
+                  "spring-kafka",
+                  "spring-rabbitmq",
+                  "spring-websockets-stomp",
+                  "springfox",
+                  "sqs",
+                  "swagger"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -365,12 +650,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sawmill is a JSON transformation Java library",
+                "homepage": null,
                 "id": 69273058,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-22T13:07:43Z",
+                "open_issues": 16,
                 "owner": "logzio",
                 "repo": "sawmill",
-                "stars": 123
+                "stars": 124,
+                "topics": [
+                  "geoip",
+                  "grok",
+                  "json",
+                  "maxmind",
+                  "mustache",
+                  "opensource",
+                  "transformation",
+                  "user-agent"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -381,12 +680,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "new kafka lag exporter: lightweight and extendable.",
+                "homepage": null,
                 "id": 1103429229,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T16:36:41Z",
+                "open_issues": 10,
                 "owner": "themoah",
                 "repo": "klag",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "kafka",
+                  "kafka-consumer",
+                  "monitoring"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -397,12 +705,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 313560145,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-29T06:39:24Z",
+                "open_issues": 1,
                 "owner": "taboola",
                 "repo": "async-profiler-actuator-endpoint",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -413,12 +726,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Deployment ready Java archetypes for Maven",
+                "homepage": "https://archetypes.tomfi.info",
                 "id": 452992637,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2024-10-26T20:11:46Z",
+                "open_issues": 4,
                 "owner": "TomerFi",
                 "repo": "tomfi-archetypes",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "java",
+                  "jpms",
+                  "maven",
+                  "maven-archetypes"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -429,12 +752,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "No hassle testing tools for Java Alexa Skills",
+                "homepage": null,
                 "id": 338147252,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-27T19:54:12Z",
+                "open_issues": 0,
                 "owner": "TomerFi",
                 "repo": "alexa-skills-tester",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "alexa",
+                  "bdd",
+                  "dsl",
+                  "fluent",
+                  "hacktoberfest",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -452,12 +787,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✅ The Node.js best practices list (July 2026)",
+                "homepage": "https://twitter.com/nodepractices/",
                 "id": 103633984,
                 "language": "Dockerfile",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-06-15T11:41:04Z",
+                "open_issues": 137,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105604
+                "stars": 105605,
+                "topics": [
+                  "best-practices",
+                  "es6",
+                  "eslint",
+                  "express",
+                  "expressjs",
+                  "javascript",
+                  "jest",
+                  "microservices",
+                  "mocha",
+                  "node-js",
+                  "nodejs",
+                  "nodejs-development",
+                  "npm",
+                  "rest",
+                  "style-guide",
+                  "styleguide",
+                  "testing",
+                  "types"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -468,12 +827,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Immersive terminal interface for managing docker containers and services",
+                "homepage": "https://lirantal.github.io/dockly/",
                 "id": 71667498,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-23T18:52:55Z",
+                "open_issues": 5,
                 "owner": "lirantal",
                 "repo": "dockly",
-                "stars": 4032
+                "stars": 4032,
+                "topics": [
+                  "cli",
+                  "command-line-tool",
+                  "console",
+                  "containers",
+                  "docker",
+                  "hacktoberfest",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -484,12 +856,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser",
+                "homepage": "https://www.cboard.io",
                 "id": 81575759,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-21T22:00:04Z",
+                "open_issues": 250,
                 "owner": "cboard-org",
                 "repo": "cboard",
-                "stars": 745
+                "stars": 746,
+                "topics": [
+                  "aac",
+                  "accessibility",
+                  "assistive-technology",
+                  "autism",
+                  "cerebral-palsy",
+                  "communication",
+                  "communication-board",
+                  "disabilities",
+                  "javascript",
+                  "progressive-web-app",
+                  "react",
+                  "speech",
+                  "symbols",
+                  "text-to-speech",
+                  "tts"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -500,12 +893,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "No more broken links in old unmaintained README",
+                "homepage": "https://deadlink-hunter.github.io/Broken-Link-Website",
                 "id": 1025626861,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-17T20:24:39Z",
+                "open_issues": 19,
                 "owner": "Deadlink-Hunter",
                 "repo": "Broken-Link-Website",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "help-wanted",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -516,12 +917,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lint your branch names",
+                "homepage": null,
                 "id": 106296638,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-11-17T17:49:10Z",
+                "open_issues": 5,
                 "owner": "barzik",
                 "repo": "branch-name-lint",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "branch",
+                  "continuous-integration",
+                  "git",
+                  "linter"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -532,12 +943,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight and efficient implementations of FIFO/Queue, written in pure javascript",
+                "homepage": null,
                 "id": 411016896,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-08-05T13:47:44Z",
+                "open_issues": 0,
                 "owner": "kleinron",
                 "repo": "lite-fifo",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "data-structures",
+                  "fifo",
+                  "fifo-queue",
+                  "lightweight",
+                  "queue",
+                  "zero-dependency"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -548,12 +971,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamo Data Transform is an easy to use data transformation tool for DynamoDB",
+                "homepage": null,
                 "id": 499310496,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-02-13T08:28:54Z",
+                "open_issues": 5,
                 "owner": "jitsecurity",
                 "repo": "dynamo-data-transform",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "aws",
+                  "dyanmodt",
+                  "dynamo",
+                  "dynamodb",
+                  "migration-tool",
+                  "transform",
+                  "transformation-tool"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -564,12 +1000,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight Telegram API framework for Node.js",
+                "homepage": null,
                 "id": 591323472,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-12-25T23:08:40Z",
+                "open_issues": 0,
                 "owner": "NivEz",
                 "repo": "telenode",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "node-js",
+                  "nodejs",
+                  "npm",
+                  "telegram",
+                  "telegram-bot",
+                  "telegram-bot-api"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -580,12 +1028,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js CLI tool to visualize an aggregate list of your dependencies' licenses",
+                "homepage": null,
                 "id": 86101258,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-22T15:43:54Z",
+                "open_issues": 2,
                 "owner": "lirantal",
                 "repo": "licenseye",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "hacktoberfest-accepted",
+                  "hacktoberfest2022",
+                  "license",
+                  "license-management",
+                  "node-cli"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -596,12 +1055,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scans jobs in Israel By scraping public websites using a Node.js, every six hours.",
+                "homepage": "https://jobs-israel.netlify.app",
                 "id": 526707783,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-03-29T12:16:19Z",
+                "open_issues": 4,
                 "owner": "gal-dahan",
                 "repo": "crawling-jobs",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "cheerio",
+                  "crawling-jobs",
+                  "israel",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -612,12 +1081,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Probot app that takes care of your GitHub repos for you",
+                "homepage": "https://github.com/apps/auto-me-bot",
                 "id": 480026791,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2026-08-26T01:22:49Z",
+                "open_issues": 3,
                 "owner": "TomerFi",
                 "repo": "auto-me-bot",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "conventional-commits",
+                  "github",
+                  "probot",
+                  "probot-app",
+                  "semantic-versioning"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -628,12 +1108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "arXiv.org ChatGPT Plugin",
+                "homepage": null,
                 "id": 625007703,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-04-07T23:02:07Z",
+                "open_issues": 0,
                 "owner": "ShadovvBeast",
                 "repo": "arXiv",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -644,12 +1129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChatGPT Plugin to enable access to CoinCap for crypto market information",
+                "homepage": null,
                 "id": 625244227,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2023-04-08T14:11:47Z",
+                "open_issues": 0,
                 "owner": "ShadovvBeast",
                 "repo": "CoinCapPlugin",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -660,12 +1150,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "monitoring connections using ping and display it in a compact way!",
+                "homepage": "https://www.npmjs.com/package/connection-monitor",
                 "id": 257320969,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T22:59:33Z",
+                "open_issues": 16,
                 "owner": "rluvaton",
                 "repo": "connection-monitor",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "cli",
+                  "connection-monitor",
+                  "hacktoberfest",
+                  "nodejs",
+                  "npm",
+                  "ping",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -676,12 +1179,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeriveODM is a reactive ODM - Object Document Mapper - framework, a \"wrapper\" around MongoDB,  that removes all the hassle of data-persistence by handling it transparently in the background, in a DRY manner.",
+                "homepage": null,
                 "id": 118806102,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-08-30T22:10:07Z",
+                "open_issues": 5,
                 "owner": "yuval-a",
                 "repo": "deriveODM",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "collection",
+                  "data",
+                  "data-mapper",
+                  "data-science",
+                  "database",
+                  "db",
+                  "document",
+                  "dry",
+                  "mapper",
+                  "mongo",
+                  "mongodb",
+                  "mongoose",
+                  "node",
+                  "nodejs",
+                  "object",
+                  "odm",
+                  "persistence",
+                  "persistent",
+                  "react",
+                  "reactive"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -692,12 +1221,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automate download paychecks and send email with that paycheck from Hargal and Hilan ",
+                "homepage": null,
                 "id": 560605614,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-10-07T09:41:12Z",
+                "open_issues": 0,
                 "owner": "rluvaton",
                 "repo": "automate-download-paycheck",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -708,12 +1242,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wikipedia ChatGPT Plugin",
+                "homepage": null,
                 "id": 625049222,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2023-04-07T23:36:05Z",
+                "open_issues": 0,
                 "owner": "ShadovvBeast",
                 "repo": "WikipediaGPTPlugin",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -724,12 +1263,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redash in JavaScript - run query in multiple envs",
+                "homepage": null,
                 "id": 572434680,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-08-02T18:54:53Z",
+                "open_issues": 0,
                 "owner": "rluvaton",
                 "repo": "redash-in-js",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -740,12 +1284,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Replace Special quotes from stdin",
+                "homepage": null,
                 "id": 476310269,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-03-31T21:42:16Z",
+                "open_issues": 0,
                 "owner": "rluvaton",
                 "repo": "replace-special-quotes",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -763,12 +1312,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete native navigation solution for React Native",
+                "homepage": "https://wix.github.io/react-native-navigation/",
                 "id": 53662249,
                 "language": "MDX",
+                "license": "MIT",
                 "last_commit": "2026-08-02T10:56:50Z",
+                "open_issues": 42,
                 "owner": "wix",
                 "repo": "react-native-navigation",
-                "stars": 13176
+                "stars": 13176,
+                "topics": [
+                  "hacktoberfest",
+                  "navigation",
+                  "navigator",
+                  "react-native",
+                  "react-native-navigation"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -786,12 +1346,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CPAN Digger to analyze CPAN modules and other Perl-based applications",
+                "homepage": "https://cpan-digger.perlmaven.com/",
                 "id": 286247801,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2026-07-02T05:06:25Z",
+                "open_issues": 20,
                 "owner": "szabgab",
                 "repo": "CPAN-Digger",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -809,12 +1374,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.",
+                "homepage": "https://elementor.com/",
                 "id": 60010673,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T18:03:50Z",
+                "open_issues": 3884,
                 "owner": "elementor",
                 "repo": "elementor",
-                "stars": 7063
+                "stars": 7063,
+                "topics": [
+                  "editor-shared"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -832,12 +1404,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+                "homepage": "http://redash.io/",
                 "id": 13926404,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-18T16:14:11Z",
+                "open_issues": 802,
                 "owner": "getredash",
                 "repo": "redash",
-                "stars": 28766
+                "stars": 28766,
+                "topics": [
+                  "analytics",
+                  "athena",
+                  "bi",
+                  "bigquery",
+                  "business-intelligence",
+                  "dashboard",
+                  "databricks",
+                  "hacktoberfest",
+                  "javascript",
+                  "mariadb",
+                  "mysql",
+                  "postgresql",
+                  "python",
+                  "redash",
+                  "redshift",
+                  "snowflake",
+                  "spark",
+                  "spark-sql",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -848,12 +1445,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Never use print for debugging again",
+                "homepage": null,
                 "id": 182097305,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-08T19:45:15Z",
+                "open_issues": 32,
                 "owner": "cool-RR",
                 "repo": "PySnooper",
-                "stars": 16581
+                "stars": 16581,
+                "topics": [
+                  "debug",
+                  "debugger",
+                  "introspection",
+                  "logging",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -864,12 +1472,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open-source AIOps and alert management platform",
+                "homepage": "https://keephq.dev",
                 "id": 597502256,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T07:26:38Z",
+                "open_issues": 579,
                 "owner": "keephq",
                 "repo": "keep",
-                "stars": 12259
+                "stars": 12260,
+                "topics": [
+                  "aiops",
+                  "alarm",
+                  "alarms",
+                  "alerting",
+                  "alerts",
+                  "monitoring",
+                  "monitoring-tool",
+                  "python",
+                  "python3",
+                  "workflow-automation"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -880,12 +1504,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+                "homepage": "https://www.checkov.io/",
                 "id": 224386599,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T00:07:25Z",
+                "open_issues": 167,
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 8976
+                "stars": 8975,
+                "topics": [
+                  "aws",
+                  "aws-security",
+                  "azure",
+                  "cloudformation",
+                  "compliance",
+                  "devops",
+                  "gcp",
+                  "hacktoberfest",
+                  "infrastructure-as-code",
+                  "kubernetes",
+                  "scans",
+                  "static-analysis",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -896,12 +1539,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)",
+                "homepage": "https://opal.ac",
                 "id": 338791379,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T15:31:06Z",
+                "open_issues": 63,
                 "owner": "permitio",
                 "repo": "opal",
-                "stars": 5505
+                "stars": 5505,
+                "topics": [
+                  "authorization",
+                  "cedar",
+                  "hacktoberfest",
+                  "microservices",
+                  "opa",
+                  "opal",
+                  "open-policy-agent",
+                  "openfga",
+                  "policy",
+                  "policy-as-code",
+                  "pubsub",
+                  "realtime",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -912,12 +1574,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation",
+                "homepage": "https://home.robusta.dev/",
                 "id": 378598624,
                 "language": "Python",
-                "last_commit": "2026-08-28T03:53:32Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T17:48:00Z",
+                "open_issues": 202,
                 "owner": "robusta-dev",
                 "repo": "robusta",
-                "stars": 3082
+                "stars": 3082,
+                "topics": [
+                  "alerting",
+                  "alertmanager",
+                  "automation",
+                  "containers",
+                  "dashboard",
+                  "devops",
+                  "docker",
+                  "grafana",
+                  "kubernetes",
+                  "kubernetes-dashboard",
+                  "kubernetes-monitoring",
+                  "monitoring",
+                  "monitoring-tool",
+                  "notifications",
+                  "observability",
+                  "prometheus",
+                  "prometheus-alertmanager",
+                  "python",
+                  "runbooks",
+                  "slack"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -928,12 +1616,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyNest is a Python framework built on top of FastAPI that follows the modular architecture of NestJS",
+                "homepage": "https://pythonnest.github.io/PyNest",
                 "id": 642661495,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-28T17:34:49Z",
+                "open_issues": 34,
                 "owner": "PythonNest",
                 "repo": "PyNest",
-                "stars": 860
+                "stars": 860,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -944,12 +1637,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy pipelines for pandas DataFrames.",
+                "homepage": "https://pdpipe.readthedocs.io/en/latest/",
                 "id": 79951853,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-01T19:05:32Z",
+                "open_issues": 10,
                 "owner": "pdpipe",
                 "repo": "pdpipe",
-                "stars": 730
+                "stars": 730,
+                "topics": [
+                  "data",
+                  "data-science",
+                  "dataframe",
+                  "dataframes",
+                  "pandas",
+                  "pandas-dataframe",
+                  "pipeline"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -960,12 +1666,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository provides a working, deployable, open source-based, serverless service blueprint with an AWS Lambda function and AWS CDK Python code with all the best practices and a complete CI/CD pipeline.",
+                "homepage": "https://ran-isenberg.github.io/aws-lambda-handler-cookbook/",
                 "id": 343110484,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-09T11:01:16Z",
+                "open_issues": 7,
                 "owner": "ran-isenberg",
                 "repo": "aws-lambda-handler-cookbook",
-                "stars": 680
+                "stars": 680,
+                "topics": [
+                  "aws",
+                  "aws-lambda",
+                  "best-practices",
+                  "blueprint",
+                  "cdk",
+                  "cookbook",
+                  "pipeline",
+                  "python",
+                  "serverless",
+                  "serverless-aws",
+                  "template",
+                  "template-repository"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -976,12 +1700,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Persistent, stale-free, local and cross-machine caching for Python functions.",
+                "homepage": null,
                 "id": 66466789,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-01T20:53:11Z",
+                "open_issues": 19,
                 "owner": "python-cachier",
                 "repo": "cachier",
-                "stars": 663
+                "stars": 663,
+                "topics": [
+                  "cache",
+                  "cache-storage",
+                  "cachemanager",
+                  "caching",
+                  "decorator",
+                  "decorators",
+                  "memoization",
+                  "memoize",
+                  "mongodb",
+                  "pickle",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -992,12 +1733,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloudify's manager related code",
+                "homepage": null,
                 "id": 18326574,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-17T13:58:21Z",
+                "open_issues": 76,
                 "owner": "cloudify-cosmo",
                 "repo": "cloudify-manager",
-                "stars": 155
+                "stars": 155,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1008,12 +1754,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hebrew grapheme to phoneme (INTERSPEECH 2026)",
+                "homepage": "https://phonikud.github.io",
                 "id": 928627574,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-17T09:28:59Z",
+                "open_issues": 19,
                 "owner": "phonikud",
                 "repo": "phonikud",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "arxiv",
+                  "g2p",
+                  "hebrew",
+                  "linguistics",
+                  "phonetics",
+                  "tts"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1024,12 +1782,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Python framework for state-space modeling and algorithm development",
+                "homepage": "https://c4dynamics.github.io/c4dynamics/",
                 "id": 550843762,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-29T17:52:40Z",
+                "open_issues": 19,
                 "owner": "c4dynamics",
                 "repo": "c4dynamics",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "algorithms",
+                  "dynamics",
+                  "guidance",
+                  "kalman",
+                  "motion-planning",
+                  "navigation",
+                  "python",
+                  "slam",
+                  "state-space",
+                  "state-vector"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1040,12 +1814,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SDK for using LLM",
+                "homepage": null,
                 "id": 632060664,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-22T20:29:19Z",
+                "open_issues": 6,
                 "owner": "uripeled2",
                 "repo": "llm-client-sdk",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "ai",
+                  "ai21labs",
+                  "api",
+                  "async",
+                  "bard",
+                  "bard-api",
+                  "chatgpt-api",
+                  "generative-ai",
+                  "gpt",
+                  "huggingface",
+                  "huggingface-transformers",
+                  "large-language-models",
+                  "llm",
+                  "llms",
+                  "nlp",
+                  "openai",
+                  "openai-api",
+                  "palm-api",
+                  "python",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1056,12 +1856,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern code-injection framework for Python. Like Pyrasite but Kubernetes-aware.",
+                "homepage": "http://robusta.dev/",
                 "id": 379885726,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-08T13:44:54Z",
+                "open_issues": 1,
                 "owner": "robusta-dev",
                 "repo": "debug-toolkit",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1072,12 +1877,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Israeli Red Alert Service for Home Assistant",
+                "homepage": null,
                 "id": 703464829,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-03T17:08:16Z",
+                "open_issues": 1,
                 "owner": "idodov",
                 "repo": "RedAlert",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "appdaemon",
+                  "appdaemon-apps",
+                  "automation",
+                  "hacs",
+                  "hacs-custom",
+                  "home-assistant",
+                  "israeli"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1088,12 +1906,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyPi module integrating with various Switcher devices",
+                "homepage": "http://aioswitcher.figenblat.com/",
                 "id": 169257284,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T20:37:50Z",
+                "open_issues": 6,
                 "owner": "TomerFi",
                 "repo": "aioswitcher",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "home-automation",
+                  "pypi-package",
+                  "smart-switch",
+                  "smarthome"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1104,12 +1932,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyDigger - unearthing stuff in Python",
+                "homepage": "http://pydigger.com/",
                 "id": 46584427,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-02T05:09:22Z",
+                "open_issues": 66,
                 "owner": "szabgab",
                 "repo": "pydigger.com",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1120,12 +1955,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "If your data is messy - Use Shmessy!",
+                "homepage": "https://medium.com/pecan-ai/if-your-data-is-messy-use-shmessy-26818a7a8486",
                 "id": 736404972,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-29T07:36:29Z",
+                "open_issues": 5,
                 "owner": "ohadmata",
                 "repo": "shmessy",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1136,12 +1976,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ADB based virtual remote for android tv devices",
+                "homepage": null,
                 "id": 584149834,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-12T06:21:45Z",
+                "open_issues": 3,
                 "owner": "t0mer",
                 "repo": "adb-api",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "adb",
+                  "android",
+                  "android-tv",
+                  "api-rest",
+                  "docker",
+                  "docker-compose",
+                  "fastapi",
+                  "home-automation",
+                  "python3",
+                  "remote-control",
+                  "streamer"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1152,12 +2009,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "deepstack trainer is a Flask powerd, easy to use web app, hepls us to train and test Deepstack AI",
+                "homepage": null,
                 "id": 363251545,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-16T18:04:47Z",
+                "open_issues": 5,
                 "owner": "t0mer",
                 "repo": "deepstack-trainer",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "deepstack",
+                  "docker",
+                  "face-detection",
+                  "face-recognition",
+                  "fastapi",
+                  "home-assistant",
+                  "home-automation",
+                  "machine-learning",
+                  "object-detection",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1168,12 +2041,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DockerBot is a Telepot powerd, easy to use Telegram bot written in python that runs as Docker Container.",
+                "homepage": null,
                 "id": 278475483,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T18:04:51Z",
+                "open_issues": 3,
                 "owner": "t0mer",
                 "repo": "dockerbot",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "bot",
+                  "docker",
+                  "python",
+                  "telegram",
+                  "telegram-bot"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1184,12 +2068,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ma-nish is an unofficial python wrapper for Whatsapp cloud api",
+                "homepage": null,
                 "id": 571191282,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-08T11:38:46Z",
+                "open_issues": 4,
                 "owner": "t0mer",
                 "repo": "ma-nish",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "api",
+                  "fastapi",
+                  "python",
+                  "python3",
+                  "uvicorn",
+                  "whatsapp",
+                  "whatsapp-bot"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1200,12 +2097,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Wazy a python based telegram bot, that helps us checking travel times using Waze route calculation.",
+                "homepage": null,
                 "id": 557162310,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T18:13:33Z",
+                "open_issues": 0,
                 "owner": "t0mer",
                 "repo": "Wazy",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "bot",
+                  "fastapi",
+                  "telegram",
+                  "telegram-bot",
+                  "traffic",
+                  "waze"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1216,12 +2125,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 354782702,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T18:00:31Z",
+                "open_issues": 1,
                 "owner": "t0mer",
                 "repo": "Xiaomi-Token-Extractor",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "docker",
+                  "flask",
+                  "home-assistant",
+                  "home-automation",
+                  "python",
+                  "xiaomi"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1232,12 +2153,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "weatheril is an unofficial [IMS](https://ims.gov.il) (Israel Meteorological Service) python API wrapper.",
+                "homepage": "https://pypi.org/project/weatheril/",
                 "id": 588997105,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-04T11:21:12Z",
+                "open_issues": 2,
                 "owner": "t0mer",
                 "repo": "py-weatheril",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "api",
+                  "forcasting",
+                  "ims",
+                  "python3",
+                  "weather",
+                  "weather-api",
+                  "weather-forecast"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1248,12 +2182,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adding ability to block internet connection for network devices",
+                "homepage": null,
                 "id": 338842671,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T18:04:07Z",
+                "open_issues": 0,
                 "owner": "t0mer",
                 "repo": "Arpspoof-Docker",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1264,12 +2203,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Israel-specific agent skills, MCPs, and builders ",
+                "homepage": null,
                 "id": 1097120032,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-10T17:01:57Z",
+                "open_issues": 1,
                 "owner": "danielrosehill",
                 "repo": "Israeli-AI",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "agenetic-ai",
+                  "mcp",
+                  "resource-lists"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1280,12 +2228,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloudflared-Mon is a python based Cloudflare Zero Tunnel monitoring. With Cloudflare you will be notified when tunnel health has changed.",
+                "homepage": null,
                 "id": 621032297,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-16T18:04:32Z",
+                "open_issues": 0,
                 "owner": "t0mer",
                 "repo": "cloudflared-mon",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "apprise",
+                  "bot",
+                  "cloudflare",
+                  "cloudflare-tunnel",
+                  "cloudflared",
+                  "docker",
+                  "docker-compose",
+                  "home-automation",
+                  "python3",
+                  "zero-trust"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1296,12 +2260,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apprise API - Send multi channel notification using single endpoint",
+                "homepage": null,
                 "id": 427779817,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T18:04:02Z",
+                "open_issues": 0,
                 "owner": "t0mer",
                 "repo": "apprise-api-bridge",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "api",
+                  "apprise",
+                  "docker",
+                  "fastapi",
+                  "notifications",
+                  "python",
+                  "techblog"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1312,12 +2289,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeCompose is FastAPI based application helps us to generate docker-compose file from existing containers ",
+                "homepage": null,
                 "id": 418463045,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T18:04:42Z",
+                "open_issues": 1,
                 "owner": "t0mer",
                 "repo": "DeCompose",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "docker",
+                  "docker-compose",
+                  "fastapi",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1328,12 +2315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of TabNet ",
+                "homepage": "https://arxiv.org/pdf/1908.07442.pdf",
                 "id": 755129778,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T19:34:31Z",
+                "open_issues": 13,
                 "owner": "DanielAvdar",
                 "repo": "tabnet",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1344,12 +2336,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Voicy is a Telegram bot written in python that accepts voice command and execute it using HTTP calls or MQTT topics. Voicy can be easely integrated with HomeAssistant or other Smart Home application that supports MQTT protocol.",
+                "homepage": null,
                 "id": 478590910,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T18:13:24Z",
+                "open_issues": 1,
                 "owner": "t0mer",
                 "repo": "voicy",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1360,12 +2357,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Seamlessly switch Pandas DataFrame backend to PyArrow.",
+                "homepage": null,
                 "id": 766905445,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-18T16:13:22Z",
+                "open_issues": 10,
                 "owner": "DanielAvdar",
                 "repo": "pandas-pyarrow",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "arrow",
+                  "backend",
+                  "db-dtypes",
+                  "dtypes",
+                  "pandas",
+                  "pandas-arrow",
+                  "pandas-dataframe",
+                  "pandas-pyarrow",
+                  "pyarrow",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1376,12 +2389,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository deploys a serverless service that takes text files uploaded to a bucket, converts them to an MP3 and sends the output to an email address",
+                "homepage": null,
                 "id": 636354535,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-25T19:11:01Z",
+                "open_issues": 4,
                 "owner": "ran-isenberg",
                 "repo": "aws-text-to-speech",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1392,12 +2410,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unified MCP server for Stremio: search movies/series, browse catalogs, list streams via addons, and play/control content on an Android TV. Works with Claude and any MCP client.",
+                "homepage": null,
                 "id": 1305020456,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-27T12:49:54Z",
+                "open_issues": 0,
                 "owner": "YoanWai",
                 "repo": "stremio-mcp",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "adb",
+                  "android-tv",
+                  "claude",
+                  "mcp",
+                  "mcp-server",
+                  "media",
+                  "model-context-protocol",
+                  "python",
+                  "streaming",
+                  "stremio"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1408,12 +2442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Software engineering approach for building kubeflow components",
+                "homepage": "https://ml-orchestrator.readthedocs.io/en/latest/",
                 "id": 759359328,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-19T04:52:48Z",
+                "open_issues": 6,
                 "owner": "DanielAvdar",
                 "repo": "ml-orchestrator",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1424,12 +2463,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Raspberry Pi interactive setup",
+                "homepage": null,
                 "id": 584948456,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-20T20:44:49Z",
+                "open_issues": 0,
                 "owner": "NivEz",
                 "repo": "scipi",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "platform-engineering",
+                  "python",
+                  "raspberry-pi",
+                  "scipy",
+                  "twingate"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1440,12 +2490,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of advanced activation functions for deep learning",
+                "homepage": "https://activations-plus.readthedocs.io/en/latest/",
                 "id": 965590142,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T02:03:39Z",
+                "open_issues": 8,
                 "owner": "DanielAvdar",
                 "repo": "activations-plus",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "entmax",
+                  "pytorch",
+                  "sparsemax"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1456,12 +2515,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Probability Distributions from Gymnasium Spaces",
+                "homepage": "https://prob-spaces.readthedocs.io/en/latest/",
                 "id": 949580047,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T20:37:57Z",
+                "open_issues": 13,
                 "owner": "DanielAvdar",
                 "repo": "prob-spaces",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1472,12 +2536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "V2 of Israel to ROW salary conversion utility (Streamlit)",
+                "homepage": null,
                 "id": 927948636,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-05T20:59:36Z",
+                "open_issues": 0,
                 "owner": "danielrosehill",
                 "repo": "Israel-To-ROW-Salary-Converter-V2",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -1495,12 +2564,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The missing UI for Helm - visualize your releases",
+                "homepage": null,
                 "id": 527578222,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-10T14:27:36Z",
+                "open_issues": 19,
                 "owner": "komodorio",
                 "repo": "helm-dashboard",
-                "stars": 5748
+                "stars": 5748,
+                "topics": [
+                  "gui",
+                  "helm",
+                  "helm-plugin",
+                  "helm-plugins",
+                  "k8s",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1511,12 +2592,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The most popular React Emoji Picker",
+                "homepage": "https://ealush.com/emoji-picker-react/",
                 "id": 91800758,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T21:18:26Z",
+                "open_issues": 61,
                 "owner": "ealush",
                 "repo": "emoji-picker-react",
-                "stars": 1453
+                "stars": 1453,
+                "topics": [
+                  "component",
+                  "emoji",
+                  "emoji-picker",
+                  "emoji-picker-react",
+                  "emojis",
+                  "hacktoberfest",
+                  "picker",
+                  "react",
+                  "react-emoji-picker",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1527,12 +2624,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ostara is a cross-platform desktop app for managing and monitoring Spring Boot applications using the Actuator API, providing comprehensive insights and effortless control.",
+                "homepage": "https://ostara.dev",
                 "id": 576882508,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T00:14:23Z",
+                "open_issues": 45,
                 "owner": "krud-dev",
                 "repo": "ostara",
-                "stars": 341
+                "stars": 341,
+                "topics": [
+                  "actuator",
+                  "electron",
+                  "electron-app",
+                  "java",
+                  "kotlin",
+                  "react",
+                  "spring",
+                  "spring-boot",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1543,12 +2655,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The purpose of the site is to improve the quality of public transportation in Israel by providing reliable information to journalists, citizens, transportation companies, and government officials in Israel.",
+                "homepage": "https://open-bus-map-search.hasadna.org.il",
                 "id": 616824114,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T14:38:35Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T16:02:13Z",
+                "open_issues": 159,
                 "owner": "hasadna",
                 "repo": "open-bus-map-search",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "bus",
+                  "hacktoberfest",
+                  "israel",
+                  "jest",
+                  "mot",
+                  "playwright",
+                  "playwright-javascript",
+                  "react",
+                  "transportation",
+                  "transportation-planning"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1559,12 +2687,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Let it rain!",
+                "homepage": "https://geshem.space",
                 "id": 45645190,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-11-14T12:25:40Z",
+                "open_issues": 11,
                 "owner": "yuvadm",
                 "repo": "geshem.space",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1575,12 +2710,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a lightweight, headless and extensible React library for building dynamic multi-step forms or troubleshooting workflows.",
+                "homepage": null,
                 "id": 626378973,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-05-07T07:09:46Z",
+                "open_issues": 0,
                 "owner": "itamarbareket",
                 "repo": "whizflow",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1591,12 +2731,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React Compoent that handels Gamepad ,Keyboard  & Mouse And VIrtual Joystic on a mobile. Plus  A Vibrate util function that works with Android and gamepad on a pc .",
+                "homepage": null,
                 "id": 518424313,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-02-20T15:20:41Z",
+                "open_issues": 0,
                 "owner": "noti56",
                 "repo": "react-game-input-manager",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -1614,12 +2759,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby Digger analyzes Ruby Gems",
+                "homepage": "https://ruby-digger.code-maven.com/",
                 "id": 550060344,
                 "language": "Ruby",
-                "last_commit": "2026-08-28T11:49:33Z",
+                "license": null,
+                "last_commit": "2026-08-29T04:08:21Z",
+                "open_issues": 0,
                 "owner": "szabgab",
                 "repo": "ruby-digger",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "ci",
+                  "continuous-integration",
+                  "gems",
+                  "github",
+                  "github-actions",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -1637,12 +2794,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Fast and simple Node.js version manager, built in Rust",
+                "homepage": "https://fnm.vercel.app",
                 "id": 166045424,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-24T14:28:38Z",
+                "open_issues": 241,
                 "owner": "Schniz",
                 "repo": "fnm",
-                "stars": 26723
+                "stars": 26725,
+                "topics": [
+                  "hacktoberfest",
+                  "javascript",
+                  "nodejs",
+                  "nvm",
+                  "reasonml",
+                  "version"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1653,12 +2822,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.",
+                "homepage": "https://metalbear.com/mirrord",
                 "id": 454467716,
                 "language": "Rust",
-                "last_commit": "2026-08-28T13:07:04Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:37:19Z",
+                "open_issues": 73,
                 "owner": "metalbear-co",
                 "repo": "mirrord",
-                "stars": 5279
+                "stars": 5281,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "ai-coding",
+                  "api",
+                  "backend",
+                  "claude-code",
+                  "cli",
+                  "cloud",
+                  "cloud-native",
+                  "debug",
+                  "developer-tools",
+                  "development",
+                  "devops",
+                  "devtool",
+                  "ide",
+                  "jetbrains",
+                  "kubernetes",
+                  "rust",
+                  "traffic",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1669,12 +2864,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Upgrade everything",
+                "homepage": null,
                 "id": 135351354,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2022-10-12T12:04:33Z",
+                "open_issues": 65,
                 "owner": "r-darwish",
                 "repo": "topgrade",
-                "stars": 3307
+                "stars": 3307,
+                "topics": [
+                  "automation",
+                  "package-manager",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1685,12 +2889,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A version manager for neovim",
+                "homepage": null,
                 "id": 456199616,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:03:59Z",
+                "open_issues": 18,
                 "owner": "MordechaiHadad",
                 "repo": "bob",
-                "stars": 2142
+                "stars": 2142,
+                "topics": [
+                  "command-line",
+                  "hacktoberfest",
+                  "neovim",
+                  "neovim-version-manager",
+                  "rust",
+                  "tool",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1701,12 +2918,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Show Me A Graph - Command Line Graphing",
+                "homepage": null,
                 "id": 314779951,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-05-22T15:51:52Z",
+                "open_issues": 4,
                 "owner": "aantn",
                 "repo": "smag",
-                "stars": 172
+                "stars": 172,
+                "topics": [
+                  "chart",
+                  "cli",
+                  "command-line",
+                  "console",
+                  "cpu",
+                  "graph",
+                  "kubernetes",
+                  "pipeline",
+                  "plot",
+                  "realtime",
+                  "stdout"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1717,12 +2951,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gets weather forecast xml from ims.gov.il and parses it into rust structs / json",
+                "homepage": null,
                 "id": 582323765,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-03-11T19:53:29Z",
+                "open_issues": 0,
                 "owner": "barakplasma",
                 "repo": "israel-weather-rs",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "android",
+                  "android-app",
+                  "automate",
+                  "ci",
+                  "cli",
+                  "cross-compilation",
+                  "rust",
+                  "serde",
+                  "serde-xml-rs",
+                  "termux",
+                  "weather",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -1740,12 +2992,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A raspberrypi distro to display a full page browser on boot",
+                "homepage": null,
                 "id": 44012035,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-13T13:21:30Z",
+                "open_issues": 181,
                 "owner": "guysoft",
                 "repo": "FullPageOS",
-                "stars": 4463
+                "stars": 4463,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1756,12 +3013,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Raspberry Pi and other ARM devices distribution builder",
+                "homepage": null,
                 "id": 94749337,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-03T20:03:13Z",
+                "open_issues": 32,
                 "owner": "guysoft",
                 "repo": "CustomPiOS",
-                "stars": 610
+                "stars": 610,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1772,12 +3034,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code with Hebrew, Arabic and Persian rendered correctly. Most terminals have no bidirectional text engine, so right-to-left output comes out scrambled. This runs Anthropic's AI agent in a terminal that gets it right, with a folder picker instead of commands. Windows and Linux, free and open source.",
+                "homepage": "https://claudecode-launchpad.netlify.app/",
                 "id": 1216889464,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T17:37:11Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T18:40:06Z",
+                "open_issues": 0,
                 "owner": "noambrand",
                 "repo": "kivun-terminal-wsl",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "ai-agents",
+                  "ai-tools",
+                  "anthropic",
+                  "arabic",
+                  "bidi",
+                  "claude",
+                  "claude-code",
+                  "developer-tools",
+                  "farsi",
+                  "hebrew",
+                  "i18n",
+                  "installer",
+                  "konsole",
+                  "persian",
+                  "right-to-left",
+                  "rtl",
+                  "terminal",
+                  "ubuntu",
+                  "urdu",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -1795,12 +3083,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Israel Rail menu-bar for MacOS",
+                "homepage": null,
                 "id": 967330523,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-06-01T18:13:38Z",
+                "open_issues": 1,
                 "owner": "drehelis",
                 "repo": "ILrail-bar",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -1818,12 +3111,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+                "homepage": "https://appwrite.io",
                 "id": 180190854,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T14:51:31Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T03:39:00Z",
+                "open_issues": 1027,
                 "owner": "appwrite",
                 "repo": "appwrite",
-                "stars": 57151
+                "stars": 57155,
+                "topics": [
+                  "android",
+                  "appwrite",
+                  "backend",
+                  "backend-as-a-service",
+                  "docker",
+                  "firebase",
+                  "flutter",
+                  "hosting",
+                  "ios",
+                  "javascript",
+                  "nextjs",
+                  "react",
+                  "react-native",
+                  "reactnative",
+                  "self-hosted",
+                  "selfhosted",
+                  "serverless",
+                  "supabase",
+                  "swift",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1834,12 +3153,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open-source communication infrastructure for agents and products",
+                "homepage": "https://go.novu.co/github",
                 "id": 400215964,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T14:36:45Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T15:16:44Z",
+                "open_issues": 104,
                 "owner": "novuhq",
                 "repo": "novu",
-                "stars": 39681
+                "stars": 39680,
+                "topics": [
+                  "agents",
+                  "communication",
+                  "email",
+                  "inbox",
+                  "infrastructure",
+                  "nodejs",
+                  "notification-center",
+                  "notifications",
+                  "novu",
+                  "push-notifications",
+                  "react",
+                  "reactjs",
+                  "sms",
+                  "transactional",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1850,12 +3190,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+                "homepage": "https://postiz.com",
                 "id": 664013991,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T12:15:20Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T00:07:57Z",
+                "open_issues": 272,
                 "owner": "gitroomhq",
                 "repo": "postiz-app",
-                "stars": 35225
+                "stars": 35239,
+                "topics": [
+                  "nextjs",
+                  "open-source",
+                  "open-source-social-media-scheduling-tool",
+                  "oss",
+                  "redis",
+                  "scheduling-tool",
+                  "social-media-scheduling-tool",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1866,12 +3220,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-powered development workspaces with reusable components, architectural clarity and zero overhead.",
+                "homepage": "https://bit.dev",
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T14:45:01Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T22:30:27Z",
+                "open_issues": 86,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18465
+                "stars": 18466,
+                "topics": [
+                  "ai",
+                  "collaboration",
+                  "component-driven",
+                  "composable",
+                  "composable-architecture",
+                  "distributed",
+                  "front-end",
+                  "javascript",
+                  "micro-frontend",
+                  "micro-services",
+                  "monorepo",
+                  "multirepo",
+                  "multirepo-maintenance",
+                  "node-js",
+                  "polyrepo",
+                  "react",
+                  "service-oriented-architecture",
+                  "typescript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1882,12 +3261,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams.",
+                "homepage": "https://amplication.com",
                 "id": 262862475,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-30T13:46:55Z",
+                "open_issues": 661,
                 "owner": "amplication",
                 "repo": "amplication",
-                "stars": 16015
+                "stars": 16015,
+                "topics": [
+                  "api",
+                  "code-generation",
+                  "csharp",
+                  "csharp-code",
+                  "dotnet",
+                  "dotnet-core",
+                  "graphql",
+                  "hacktoberfest",
+                  "javascript",
+                  "low-code",
+                  "nestjs",
+                  "nodejs",
+                  "prisma",
+                  "typescript",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1898,12 +3298,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors",
                 "id": 530861050,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T10:24:38Z",
+                "open_issues": 18,
                 "owner": "yoavbls",
                 "repo": "pretty-ts-errors",
-                "stars": 14105
+                "stars": 14106,
+                "topics": [
+                  "astro",
+                  "deno",
+                  "errors",
+                  "svelte",
+                  "typescript",
+                  "vscode",
+                  "vscode-extension",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1914,12 +3328,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+                "homepage": "https://getinboxzero.com",
                 "id": 665613753,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T14:18:41Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T19:01:10Z",
+                "open_issues": 176,
                 "owner": "elie222",
                 "repo": "inbox-zero",
-                "stars": 12101
+                "stars": 12105,
+                "topics": [
+                  "ai",
+                  "email",
+                  "gmail",
+                  "loops",
+                  "nextjs",
+                  "openai",
+                  "postgresql",
+                  "posthog",
+                  "prisma",
+                  "productivity",
+                  "resend",
+                  "shadcn-ui",
+                  "tailwind",
+                  "tinybird",
+                  "turborepo",
+                  "typescript",
+                  "upstash"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1930,12 +3367,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transcribe on your own!",
+                "homepage": "https://thewh1teagle.github.io/vibe/",
                 "id": 740293013,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:45:18Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T17:44:34Z",
+                "open_issues": 134,
                 "owner": "thewh1teagle",
                 "repo": "vibe",
-                "stars": 7220
+                "stars": 7225,
+                "topics": [
+                  "ai",
+                  "cross-platform",
+                  "desktop",
+                  "openai",
+                  "rust",
+                  "transcribe",
+                  "whisper"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1946,12 +3396,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snyk CLI scans and monitors your projects for security vulnerabilities.",
+                "homepage": "https://snyk.io",
                 "id": 45247496,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T14:49:58Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T19:11:32Z",
+                "open_issues": 135,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5650
+                "stars": 5651,
+                "topics": [
+                  "monitor",
+                  "security",
+                  "snyk",
+                  "vulnerabilities"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1962,12 +3422,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full-stack CRUD, simplified, with SSOT TypeScript entities",
+                "homepage": "https://remult.dev",
                 "id": 108873775,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T19:38:28Z",
+                "open_issues": 119,
                 "owner": "remult",
                 "repo": "remult",
-                "stars": 3208
+                "stars": 3209,
+                "topics": [
+                  "angular",
+                  "api",
+                  "crud",
+                  "express-middleware",
+                  "fullstack",
+                  "fullstack-typescript",
+                  "jamstack",
+                  "nextjs",
+                  "orm",
+                  "postgresql",
+                  "react",
+                  "rest",
+                  "typescript",
+                  "validation",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1978,12 +3459,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vest ✅ Declarative validations framework",
+                "homepage": "https://vestjs.dev/",
                 "id": 224295067,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:03:50Z",
+                "open_issues": 45,
                 "owner": "ealush",
                 "repo": "vest",
-                "stars": 2665
+                "stars": 2665,
+                "topics": [
+                  "form",
+                  "form-validation",
+                  "forms",
+                  "hacktoberfest",
+                  "javascript",
+                  "react-validation",
+                  "react-validation-library",
+                  "svelte-validation",
+                  "typescript",
+                  "unit-testing",
+                  "validation",
+                  "validation-library",
+                  "vue-validation"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -1994,12 +3494,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source ConfigOps infrastructure ⚙️",
+                "homepage": "https://configu.com",
                 "id": 543120588,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-17T17:08:29Z",
+                "open_issues": 86,
                 "owner": "configu",
                 "repo": "configu",
-                "stars": 1684
+                "stars": 1684,
+                "topics": [
+                  "application-configuration",
+                  "configuration",
+                  "configuration-file",
+                  "configuration-management",
+                  "hacktoberfest",
+                  "software-configurations"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2010,12 +3522,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "moment.js pipes for Angular",
+                "homepage": null,
                 "id": 41093724,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-08-25T10:25:44Z",
+                "open_issues": 43,
                 "owner": "urish",
                 "repo": "ngx-moment",
-                "stars": 1157
+                "stars": 1157,
+                "topics": [
+                  "angular",
+                  "angular-pipes",
+                  "moment",
+                  "moment-pipes",
+                  "time-ago"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2026,12 +3549,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provide scrapers for all major Israeli banks and credit card companies",
+                "homepage": null,
                 "id": 98721853,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-05T00:18:00Z",
+                "open_issues": 36,
                 "owner": "eshaham",
                 "repo": "israeli-bank-scrapers",
-                "stars": 1091
+                "stars": 1091,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2042,12 +3570,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Free Modern URL Reducer. Make sure to share love by giving it a star.🌟 Have a great day!",
+                "homepage": null,
                 "id": 248348687,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-04-25T16:46:53Z",
+                "open_issues": 29,
                 "owner": "origranot",
                 "repo": "reduced.to",
-                "stars": 705
+                "stars": 705,
+                "topics": [
+                  "contributions-welcome",
+                  "css",
+                  "docker",
+                  "hacktoberfest",
+                  "html",
+                  "nestjs",
+                  "nodejs",
+                  "nx",
+                  "qwik",
+                  "tailwindcss",
+                  "typescript",
+                  "url-shortener"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2058,12 +3604,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A unit testing framework for TypeScript backends working with inversion of control and dependency injection",
+                "homepage": "https://suites.dev",
                 "id": 429476841,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T17:48:48Z",
+                "open_issues": 10,
                 "owner": "suites-dev",
                 "repo": "suites",
-                "stars": 546
+                "stars": 546,
+                "topics": [
+                  "dependency-injection",
+                  "inversifyjs",
+                  "inversion-of-control",
+                  "ioc",
+                  "ioc-container",
+                  "jest",
+                  "mock",
+                  "mocking",
+                  "nestjs",
+                  "sinon",
+                  "sinonjs",
+                  "spec",
+                  "tdd",
+                  "testing",
+                  "typescript",
+                  "unit-test",
+                  "unit-testing",
+                  "unit-testing-nodejs",
+                  "vitest"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2074,12 +3645,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command-line tool for Kysely, Knex-compatible, works in Node.js, Deno, Bun, etc.",
+                "homepage": "https://kysely.dev",
                 "id": 792061162,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-06T01:07:08Z",
+                "open_issues": 22,
                 "owner": "kysely-org",
                 "repo": "kysely-ctl",
-                "stars": 316
+                "stars": 316,
+                "topics": [
+                  "automation",
+                  "cli",
+                  "ctl",
+                  "knex",
+                  "kysely",
+                  "migrations",
+                  "mssql",
+                  "mysql",
+                  "postgres",
+                  "seeds",
+                  "sql",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2090,12 +3679,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated budget tracking from Israeli financial institutions",
+                "homepage": "https://www.caspion.org",
                 "id": 183414376,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-15T02:29:17Z",
+                "open_issues": 19,
                 "owner": "brafdlog",
                 "repo": "caspion",
-                "stars": 266
+                "stars": 266,
+                "topics": [
+                  "budget",
+                  "budget-tracking",
+                  "finance",
+                  "finance-management",
+                  "israeli",
+                  "ynab"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2106,12 +3707,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "⚡️ Neuledge streamlines database modeling with clear data entity definitions, customizable validation, and advanced business-logic representation.",
+                "homepage": null,
                 "id": 533219944,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-05T06:15:17Z",
+                "open_issues": 1,
                 "owner": "neuledge",
                 "repo": "engine-js",
-                "stars": 234
+                "stars": 234,
+                "topics": [
+                  "business-logic",
+                  "data-access-layer",
+                  "language",
+                  "mongodb",
+                  "mysql",
+                  "orm",
+                  "postgres",
+                  "state-machine",
+                  "state-management",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2122,12 +3739,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An alternative mobile client for Israel Railways",
+                "homepage": "https://better-rail.co.il",
                 "id": 353759096,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T17:57:07Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T22:52:16Z",
+                "open_issues": 5,
                 "owner": "better-rail",
                 "repo": "app",
-                "stars": 211
+                "stars": 211,
+                "topics": [
+                  "israel",
+                  "public-transport",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2138,12 +3764,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mathberet is a self-hosted digital mathematics notebook written in React and Typescript, designed for math students who need a platform for graphing, sketching, and writing in LaTeX.",
+                "homepage": null,
                 "id": 607820050,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-05-24T23:47:54Z",
+                "open_issues": 11,
                 "owner": "yonatanmgr",
                 "repo": "mathberet",
-                "stars": 183
+                "stars": 183,
+                "topics": [
+                  "javascript",
+                  "math",
+                  "mathematics",
+                  "notebook",
+                  "notes",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2154,12 +3793,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kysely dialect for PostgreSQL that supports the Postgres.js client and Bun's SQL native binding.",
+                "homepage": null,
                 "id": 625368721,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-22T20:09:39Z",
+                "open_issues": 6,
                 "owner": "kysely-org",
                 "repo": "kysely-postgres-js",
-                "stars": 140
+                "stars": 140,
+                "topics": [
+                  "dialect",
+                  "kysely",
+                  "postgres",
+                  "postgresql",
+                  "query-builder",
+                  "sql",
+                  "type-safety",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2170,12 +3823,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source server and dashboard to control IoT devices in a local home network",
+                "homepage": null,
                 "id": 102395256,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-09-05T07:40:37Z",
+                "open_issues": 12,
                 "owner": "casanet",
                 "repo": "casanet-server",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "broadlink",
+                  "ifttt",
+                  "iot",
+                  "iot-device",
+                  "iot-devices",
+                  "iot-server",
+                  "miio",
+                  "mqtt",
+                  "orvibo",
+                  "smart-home",
+                  "tasmota",
+                  "tuya",
+                  "yeelight"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2186,12 +3858,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Allows you to easily talk with ChatGPT",
+                "homepage": null,
                 "id": 576585005,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-07-31T09:09:13Z",
+                "open_issues": 2,
                 "owner": "ShadovvBeast",
                 "repo": "TalkGPT",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2202,12 +3879,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit (type translators for now) that allows using your existing Supabase setup with Kysely.",
+                "homepage": null,
                 "id": 782611226,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-06T19:16:01Z",
+                "open_issues": 13,
                 "owner": "kysely-org",
                 "repo": "kysely-supabase",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2218,12 +3900,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit (dialect, type translators, etc.) that allows using your existing TypeORM setup with Kysely.",
+                "homepage": null,
                 "id": 737907463,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-08T02:44:01Z",
+                "open_issues": 12,
                 "owner": "kysely-org",
                 "repo": "kysely-typeorm",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2234,12 +3921,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 503491871,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-11-07T11:01:08Z",
+                "open_issues": 8,
                 "owner": "tomer-yechiel",
                 "repo": "pino-sentry-transport",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2250,12 +3942,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit (dialect, type translators, custom migration source, etc.) that allows using your existing Knex setup with Kysely.",
+                "homepage": null,
                 "id": 737906759,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-06T18:54:41Z",
+                "open_issues": 11,
                 "owner": "kysely-org",
                 "repo": "kysely-knex",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2266,12 +3963,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Replication-aware Kysely query execution",
+                "homepage": "https://kysely.dev",
                 "id": 906938965,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-14T13:08:25Z",
+                "open_issues": 10,
                 "owner": "kysely-org",
                 "repo": "kysely-replication",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2282,12 +3984,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit (dialect, type translators, etc.) that allows using your existing Sequelize instance with Kysely.",
+                "homepage": null,
                 "id": 732218673,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-13T17:51:21Z",
+                "open_issues": 5,
                 "owner": "kysely-org",
                 "repo": "kysely-sequelize",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2298,12 +4005,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔁👻 Agnostic DB Anonymizer ",
+                "homepage": "https://nitzano.github.io/dbzar",
                 "id": 445290515,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-05-01T23:34:21Z",
+                "open_issues": 43,
                 "owner": "nitzano",
                 "repo": "dbzar",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "anonymization",
+                  "anonymizer",
+                  "database",
+                  "database-anonymizer",
+                  "db",
+                  "devops",
+                  "devops-tools",
+                  "fake",
+                  "gdpr",
+                  "mariadb",
+                  "mock",
+                  "mongodb",
+                  "mysql",
+                  "postgressql"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2314,12 +4041,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create a bash/batch script to publish multiple NPM packages from verdaccio storage ",
+                "homepage": "https://www.npmjs.com/package/bulk-npm-publish",
                 "id": 239373757,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-05T10:45:39Z",
+                "open_issues": 9,
                 "owner": "rluvaton",
                 "repo": "bulk-npm-publish",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "batch",
+                  "hacktoberfest",
+                  "npm-publish",
+                  "verdaccio"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2330,12 +4067,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Replace github.com with gitshow.dev in any profile URL - beautiful developer portfolios from GitHub data",
+                "homepage": "https://gitshow.dev",
                 "id": 1159829630,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-09T14:09:34Z",
+                "open_issues": 0,
                 "owner": "ofershap",
                 "repo": "gitshow",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "developer",
+                  "github",
+                  "nextjs",
+                  "og-image",
+                  "open-source",
+                  "portfolio",
+                  "profile",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2346,12 +4097,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 614959066,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-03-15T20:41:56Z",
+                "open_issues": 8,
                 "owner": "noam-honig",
                 "repo": "wikiloc",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2362,12 +4118,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CLI based tool for converting i18n to csv and csv to i18n files.",
+                "homepage": null,
                 "id": 489010542,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-02-11T18:07:51Z",
+                "open_issues": 0,
                 "owner": "fima-taf",
                 "repo": "nolybab-js",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2378,12 +4139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source project that everyone can contribute. It is a great project for juniors to practice their coding skills",
+                "homepage": "https://develad.github.io/cart/",
                 "id": 638485351,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-05-30T19:16:51Z",
+                "open_issues": 0,
                 "owner": "develad",
                 "repo": "cart",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2394,12 +4160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Electra Smart Javascript Client",
+                "homepage": null,
                 "id": 527041307,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-08-20T22:18:15Z",
+                "open_issues": 0,
                 "owner": "rluvaton",
                 "repo": "electra-smart-js-client",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2410,12 +4181,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest Matchers for sinon",
+                "homepage": null,
                 "id": 535444044,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-02-02T11:28:13Z",
+                "open_issues": 0,
                 "owner": "rluvaton",
                 "repo": "sinon-jest-matchers",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "hacktoberfest",
+                  "javascript",
+                  "jest",
+                  "sinonjs",
+                  "testing",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -2433,12 +4216,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Overlay is a browser extension helping developers evaluate open source packages before picking them",
+                "homepage": null,
                 "id": 594716752,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-06-22T07:41:52Z",
+                "open_issues": 17,
                 "owner": "os-scar",
                 "repo": "overlay",
-                "stars": 229
+                "stars": 229,
+                "topics": [
+                  "advisory",
+                  "extension",
+                  "supply-chain"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2449,12 +4241,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern web interface for managing Google Cloud Platform emulator services 🎮",
+                "homepage": null,
                 "id": 1055172051,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:49:19Z",
+                "open_issues": 5,
                 "owner": "drehelis",
                 "repo": "gcp-emulator-ui",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "cloud",
+                  "datastore",
+                  "emulator",
+                  "fake-gcs",
+                  "firestore",
+                  "gcp",
+                  "gcs",
+                  "google",
+                  "pubsub",
+                  "storage",
+                  "ui",
+                  "webui"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2465,12 +4275,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "devcontainer.json Live Generator",
+                "homepage": "https://devcontainer.live/",
                 "id": 1184521703,
                 "language": "Vue",
+                "license": null,
                 "last_commit": "2026-08-25T14:07:48Z",
+                "open_issues": 1,
                 "owner": "drehelis",
                 "repo": "devcontainer.live",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "config-generator",
+                  "container",
+                  "containers",
+                  "devcontainer",
+                  "devcontainers",
+                  "development",
+                  "docker",
+                  "generator",
+                  "ide",
+                  "vscode",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -2488,12 +4315,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📜 A Cheat-Sheet Collection from the WWW",
+                "homepage": null,
                 "id": 220934262,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-05-25T08:44:16Z",
+                "open_issues": 1,
                 "owner": "sk3pp3r",
                 "repo": "cheat-sheet-pdf",
-                "stars": 2389
+                "stars": 2389,
+                "topics": [
+                  "ai",
+                  "ansible",
+                  "bash",
+                  "cheat-sheet",
+                  "cheat-sheets",
+                  "cheatsheet",
+                  "ci-cd",
+                  "devops-tools",
+                  "docker",
+                  "jenkins",
+                  "linux",
+                  "nginx",
+                  "pdf",
+                  "powershell",
+                  "python",
+                  "redis",
+                  "regex",
+                  "regular-expression",
+                  "slack",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2504,12 +4357,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of Twitter datasets and related resources.",
+                "homepage": null,
                 "id": 145280020,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-05-29T10:22:38Z",
+                "open_issues": 3,
                 "owner": "shaypal5",
                 "repo": "awesome-twitter-data",
-                "stars": 1124
+                "stars": 1124,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "data",
+                  "data-science",
+                  "dataset",
+                  "datasets",
+                  "machine-learning",
+                  "sentiment-analysis",
+                  "social-network",
+                  "social-network-analysis",
+                  "social-networks",
+                  "twitter"
+                ]
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             },
@@ -2520,12 +4391,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A few automations and hardware recommendations for HA + Pikud HaOref integration",
+                "homepage": null,
                 "id": 952761407,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-03-21T21:33:52Z",
+                "open_issues": 0,
                 "owner": "danielrosehill",
                 "repo": "HA-Red-Alerts-Model-Automations",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
             }
@@ -2547,12 +4423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build terminal dashboards using ascii/ansi art and javascript",
+            "homepage": null,
             "id": 29247444,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-01T06:16:27Z",
+            "open_issues": 97,
             "owner": "yaronn",
             "repo": "blessed-contrib",
-            "stars": 15767
+            "stars": 15767,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2563,12 +4444,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications",
+            "homepage": "http://mean.io",
             "id": 10219106,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-02-17T10:51:41Z",
+            "open_issues": 97,
             "owner": "linnovate",
             "repo": "mean",
-            "stars": 12054
+            "stars": 12054,
+            "topics": [
+              "angular",
+              "express",
+              "javascript",
+              "mongodb",
+              "node",
+              "stack"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2579,12 +4472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.",
+            "homepage": null,
             "id": 59653935,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T06:55:09Z",
+            "open_issues": 2,
             "owner": "eladnava",
             "repo": "mailgen",
-            "stars": 2542
+            "stars": 2542,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2595,12 +4493,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Vue.js 2 grid components",
+            "homepage": "https://matanya.gitbook.io/vue-tables-2/",
             "id": 68045914,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2021-11-26T06:49:37Z",
+            "open_issues": 0,
             "owner": "matfish2",
             "repo": "vue-tables-2",
-            "stars": 1511
+            "stars": 1511,
+            "topics": [
+              "datatable",
+              "grid",
+              "table",
+              "vue",
+              "vue-components"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2611,12 +4520,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free live chat widget linked to your Telegram messenger",
+            "homepage": "https://www.intergram.xyz",
             "id": 77236059,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2024-03-25T20:59:27Z",
+            "open_issues": 73,
             "owner": "idoco",
             "repo": "intergram",
-            "stars": 1416
+            "stars": 1416,
+            "topics": [
+              "chat-widget",
+              "telegram",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2627,12 +4545,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily exclude node modules in Webpack",
+            "homepage": null,
             "id": 50500419,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-03T10:17:50Z",
+            "open_issues": 56,
             "owner": "liady",
             "repo": "webpack-node-externals",
-            "stars": 1294
+            "stars": 1294,
+            "topics": [
+              "external",
+              "hacktoberfest",
+              "modules",
+              "node",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2643,12 +4572,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Automatically discover and add missing types in your TypeScript code",
+            "homepage": "https://medium.com/@urish/manual-typing-is-no-fun-introducing-typewiz-58e3e8813f4c",
             "id": 117014891,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-10-05T15:00:24Z",
+            "open_issues": 35,
             "owner": "mockdeep",
             "repo": "typewiz",
-            "stars": 1104
+            "stars": 1104,
+            "topics": [
+              "automation",
+              "code-quality",
+              "type-safety",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2659,12 +4598,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Firebase Realtime Database Server Implementation",
+            "homepage": null,
             "id": 23709739,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-05-10T08:18:15Z",
+            "open_issues": 0,
             "owner": "urish",
             "repo": "firebase-server",
-            "stars": 673
+            "stars": 673,
+            "topics": [
+              "database",
+              "firebase",
+              "firebase-database",
+              "firebase-server",
+              "javascript",
+              "server-socket",
+              "testing-tools",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2675,12 +4628,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful open-source platform for load testing APIs. ",
+            "homepage": "https://zooz.github.io/predator/",
             "id": 168341860,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-02T09:14:03Z",
+            "open_issues": 82,
             "owner": "Zooz",
             "repo": "predator",
-            "stars": 593
+            "stars": 593,
+            "topics": [
+              "dcos",
+              "distributed-tests",
+              "docker",
+              "functional-testing",
+              "hacktoberfest",
+              "kubernetes",
+              "load-testing",
+              "nodejs",
+              "performance",
+              "stress-test"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2691,12 +4660,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible and responsive carousel component for react https://sag1v.github.io/react-elastic-carousel",
+            "homepage": null,
             "id": 146773142,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-10T00:05:54Z",
+            "open_issues": 9,
             "owner": "sag1v",
             "repo": "react-elastic-carousel",
-            "stars": 343
+            "stars": 343,
+            "topics": [
+              "carousel",
+              "flexible",
+              "javascript",
+              "react",
+              "responsive",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2707,12 +4688,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Muse 2016 EEG Headset JavaScript Library (using Web Bluetooth)",
+            "homepage": "https://medium.com/@urish/reactive-brain-waves-af07864bb7d4",
             "id": 92633857,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-09-25T19:00:48Z",
+            "open_issues": 26,
             "owner": "urish",
             "repo": "muse-js",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "bci",
+              "brain-computer-interface",
+              "brain-connectivity",
+              "eeg",
+              "eeg-data",
+              "eeg-headband",
+              "eeg-headset",
+              "typescript-library",
+              "web-bluetooth"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2723,12 +4719,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wix experiment system (A/B test and feature toggle framework)",
+            "homepage": null,
             "id": 12682610,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-07-07T21:23:35Z",
+            "open_issues": 17,
             "owner": "wix-incubator",
             "repo": "petri",
-            "stars": 265
+            "stars": 265,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2739,12 +4740,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "scikit-learn wrappers for Python fastText.",
+            "homepage": null,
             "id": 120085546,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-06-07T15:07:07Z",
+            "open_issues": 1,
             "owner": "shaypal5",
             "repo": "skift",
-            "stars": 234
+            "stars": 234,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2755,12 +4761,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mocha side bar viewer that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course)",
+            "homepage": null,
             "id": 105862828,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-20T20:19:18Z",
+            "open_issues": 230,
             "owner": "maty21",
             "repo": "mocha-sidebar",
-            "stars": 188
+            "stars": 188,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2771,12 +4782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Input validation using Swagger (Open API) and ajv",
+            "homepage": null,
             "id": 107256133,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-27T11:54:10Z",
+            "open_issues": 32,
             "owner": "PayU",
             "repo": "openapi-validator-middleware",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2787,12 +4803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A highly dynamic vue stars rating component, similar to google play stars rating",
+            "homepage": null,
             "id": 163078623,
             "language": "Vue",
+            "license": null,
             "last_commit": "2021-04-27T21:58:47Z",
+            "open_issues": 11,
             "owner": "JonathanDn",
             "repo": "vue-stars-rating",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2803,12 +4824,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Node.js express middleware that implements API versioning for route controllers",
+            "homepage": null,
             "id": 91352809,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-24T18:20:46Z",
+            "open_issues": 0,
             "owner": "lirantal",
             "repo": "express-version-route",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "api",
+              "api-versioning",
+              "expessjs",
+              "expressjs-middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2819,12 +4851,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows 10 Web Bluetooth Polyfill",
+            "homepage": null,
             "id": 91140621,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-05-09T00:32:50Z",
+            "open_issues": 7,
             "owner": "urish",
             "repo": "web-bluetooth-polyfill",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "chrome-extension",
+              "gatt",
+              "polyfill",
+              "web-bluetooth",
+              "windows-10"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2835,12 +4878,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js package that manages CSV to JSON conversion supporting complex field mapping",
+            "homepage": null,
             "id": 102267276,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-16T03:09:40Z",
+            "open_issues": 26,
             "owner": "nielsen-oss",
             "repo": "yap-csv",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "csv",
+              "excel",
+              "json",
+              "nodejs",
+              "parser"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2851,12 +4905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Share constant definitions between programming languages and make your constants constant again",
+            "homepage": null,
             "id": 344958303,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-17T13:36:17Z",
+            "open_issues": 8,
             "owner": "aantn",
             "repo": "reconstant",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2867,12 +4926,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lite & fast micro javascript framework that is **easy to learn**.",
+            "homepage": null,
             "id": 29466233,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-04T02:58:23Z",
+            "open_issues": 4,
             "owner": "litespeed-js",
             "repo": "litespeed.js",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "framework",
+              "javascript",
+              "litespeed",
+              "litespeed-js",
+              "simple",
+              "speed"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2883,12 +4954,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A highly dynamic vue dropdown component",
+            "homepage": null,
             "id": 159952678,
             "language": "Vue",
+            "license": null,
             "last_commit": "2020-10-11T05:39:17Z",
+            "open_issues": 6,
             "owner": "JonathanDn",
             "repo": "vue-dropdown",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2899,12 +4975,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vue.js Toggle Button - A dynamic, fully customizable toggle button aka toggle switch",
+            "homepage": null,
             "id": 150958072,
             "language": "Vue",
+            "license": null,
             "last_commit": "2022-12-29T23:30:45Z",
+            "open_issues": 27,
             "owner": "JonathanDn",
             "repo": "vue-toggle-btn",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2915,12 +4996,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "web based terminal application for executing local and remote commands",
+            "homepage": "http://fugazi.io",
             "id": 80307819,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2018-01-07T23:41:42Z",
+            "open_issues": 43,
             "owner": "fugazi-io",
             "repo": "webclient",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "cli",
+              "cli-client",
+              "console",
+              "dsl",
+              "fugazi",
+              "rpc",
+              "rpc-client",
+              "shell",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2931,12 +5027,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "NOT MAINTAINED. Apollo - The logz.io continuous deployment solution over kubernetes",
+            "homepage": null,
             "id": 53502006,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-02-22T08:44:40Z",
+            "open_issues": 54,
             "owner": "logzio",
             "repo": "apollo",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "continous-deployment",
+              "jenkins",
+              "kubernetes",
+              "microservices",
+              "no-longer-maintained",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2947,12 +5055,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python wrapper for Hspell",
+            "homepage": null,
             "id": 35288696,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2017-05-05T14:06:35Z",
+            "open_issues": 0,
             "owner": "eranroz",
             "repo": "HspellPy",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2963,12 +5076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Need to easily assume AWS IAM roles? Mr. M has your back!",
+            "homepage": null,
             "id": 438619161,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-27T17:53:39Z",
+            "open_issues": 0,
             "owner": "robusta-dev",
             "repo": "mr-m",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2979,12 +5097,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A friendlier Typeform Node.js API client",
+            "homepage": null,
             "id": 162629715,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-18T09:02:30Z",
+            "open_issues": 2,
             "owner": "lirantal",
             "repo": "typeform-client",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "api",
+              "nodejs",
+              "survey",
+              "typeform",
+              "typeform-api"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -2995,12 +5124,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Node.js middleware for Express that implements Security.txt - A Method for Web Security Policies",
+            "homepage": null,
             "id": 106471669,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-23T18:58:12Z",
+            "open_issues": 2,
             "owner": "lirantal",
             "repo": "express-security-txt",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "express",
+              "hacktoberfest",
+              "nodejs",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3011,12 +5150,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js library to convert unix or linux CRON syntax to Quartz Scheduler",
+            "homepage": null,
             "id": 48604142,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-23T18:57:52Z",
+            "open_issues": 0,
             "owner": "lirantal",
             "repo": "cron-to-quartz",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "cron",
+              "cron-notation",
+              "cron-syntax",
+              "nodejs",
+              "quartz-scheduler"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3027,12 +5177,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clock As a Service",
+            "homepage": "https://ticktok.io",
             "id": 123014642,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-30T12:35:43Z",
+            "open_issues": 19,
             "owner": "ticktok-io",
             "repo": "ticktok.io",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "circleci",
+              "clock",
+              "docker",
+              "gitter",
+              "java",
+              "kotlin",
+              "schedule",
+              "spring-boot",
+              "ticktok",
+              "ticktok-io"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3043,12 +5209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple hierarchical configuration for Python packages.",
+            "homepage": null,
             "id": 120747161,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-14T19:48:45Z",
+            "open_issues": 1,
             "owner": "shaypal5",
             "repo": "birch",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3059,12 +5230,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simplified pure Java http server",
+            "homepage": null,
             "id": 64565647,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-20T20:49:38Z",
+            "open_issues": 10,
             "owner": "rockem",
             "repo": "blink-java",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "http",
+              "java",
+              "pure",
+              "server",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3075,12 +5257,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Node.js app (Express + Sequelize) with the purpose of providing a compact, clear and concise example to how Node.js apps can be built",
+            "homepage": null,
             "id": 144607901,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-06-08T12:36:37Z",
+            "open_issues": 0,
             "owner": "giladno",
             "repo": "express-boilerplate",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "expressjs",
+              "nodejs",
+              "sequelizejs"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3091,12 +5282,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple express based admin middleware for sequelizejs",
+            "homepage": null,
             "id": 159944451,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-06-09T14:28:47Z",
+            "open_issues": 1,
             "owner": "giladno",
             "repo": "sequelize-admin",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "admin",
+              "express",
+              "expressjs",
+              "sequelize",
+              "sequelizejs"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3107,12 +5309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SugoiJS server module - web server based on decoration design pattern",
+            "homepage": "https://wiki.sugoijs.com/sugoi-server/getting-started",
             "id": 140748462,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-23T21:53:44Z",
+            "open_issues": 11,
             "owner": "sugoiJS",
             "repo": "server",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3123,12 +5330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Change only the values of a JSON structure (use for translate)",
+            "homepage": "https://erasta.github.io/JsonChangeVals/index.html",
             "id": 162888811,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2018-12-25T10:06:06Z",
+            "open_issues": 0,
             "owner": "erasta",
             "repo": "JsonChangeVals",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3139,12 +5351,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "this is a repo to work with resume.json, one can create, validate, export to other formats and serve their json file",
+            "homepage": null,
             "id": 315076879,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2021-06-10T21:08:38Z",
+            "open_issues": 4,
             "owner": "moshe742",
             "repo": "resume-json-python",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3155,12 +5372,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Export a Typeform survey questionnaire to an Excel format",
+            "homepage": null,
             "id": 162923163,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T01:15:23Z",
+            "open_issues": 16,
             "owner": "lirantal",
             "repo": "typeform-export-excel",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "excel",
+              "export",
+              "nodejs",
+              "typeform"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3171,12 +5398,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple DynamoDB wrapper for Node.js",
+            "homepage": null,
             "id": 165389565,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-18T22:44:37Z",
+            "open_issues": 0,
             "owner": "giladno",
             "repo": "dynamodb",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "amazon-dynamodb",
+              "dynamodb",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         }
@@ -3193,12 +5429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Israeli product companies/product companies who hire Israelis - who work with Vue JS (Sorted alphabetically)",
+            "homepage": null,
             "id": 301348045,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-25T18:45:33Z",
+            "open_issues": 5,
             "owner": "JonathanDn",
             "repo": "vue-companies-israel",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3209,12 +5450,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Israeli companies which create Open Source projects",
+            "homepage": null,
             "id": 627157081,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-02-18T13:56:01Z",
+            "open_issues": 3,
             "owner": "KaplanOpenSource",
             "repo": "israeli-opensource-companies",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "awsome",
+              "awsome-list",
+              "companies",
+              "hacktoberfest",
+              "israel",
+              "israeli",
+              "open-srouce",
+              "opensource"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3225,12 +5480,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Israeli companies & organisations who chose Vue JS",
+            "homepage": null,
             "id": 183882119,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-16T14:00:59Z",
+            "open_issues": 1,
             "owner": "vue-js-israel",
             "repo": "awesome-vuejs-israel",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3241,12 +5501,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list (sorted alphabetically) of Israeli companies (or remote positions from Israel) that uses Angular.",
+            "homepage": null,
             "id": 302109794,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-08-13T11:07:04Z",
+            "open_issues": 2,
             "owner": "eranshmil",
             "repo": "angular-companies-israel",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "angular",
+              "awesome",
+              "awesome-list",
+              "companies",
+              "company",
+              "israel",
+              "israeli",
+              "javascript",
+              "list",
+              "work"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3257,12 +5533,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Israel-specific agent skills, MCPs, and builders ",
+            "homepage": null,
             "id": 1097120032,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-10T17:01:57Z",
+            "open_issues": 1,
             "owner": "danielrosehill",
             "repo": "Israeli-AI",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "agenetic-ai",
+              "mcp",
+              "resource-lists"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3273,12 +5558,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Israeli companies working with Rust",
+            "homepage": null,
             "id": 175199109,
             "language": null,
+            "license": null,
             "last_commit": "2022-09-18T09:13:57Z",
+            "open_issues": 0,
             "owner": "rust-tlv",
             "repo": "companies",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3289,12 +5579,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Home automation projects that are relevant to people in Israel or Jews generally (e.g. Shabbat and zmanim time integrations)",
+            "homepage": null,
             "id": 785704420,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-12T13:55:04Z",
+            "open_issues": 0,
             "owner": "danielrosehill",
             "repo": "Awesome-Israeli-Jewish-Home-Assistant",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         },
@@ -3305,12 +5600,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of red alert (צבע אדום) civilian notification projects for Israel",
+            "homepage": null,
             "id": 1190512264,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-06T14:14:22Z",
+            "open_issues": 0,
             "owner": "danielrosehill",
             "repo": "Awesome-Red-Alerts",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "israel",
+              "pikud-haoref",
+              "preparedness",
+              "red-alert"
+            ]
           },
           "first_seen": "2026-08-28T14:52:01.585Z"
         }
@@ -3319,15 +5624,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:52:01.585Z",
+    "last_updated": "2026-08-29T04:45:02.291Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Israeli-made projects, events, and individuals",
+      "homepage": null,
       "id": 107890515,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-07T08:56:28Z",
+      "open_issues": 1,
       "owner": "lirantal",
       "repo": "awesome-opensource-israel",
-      "stars": 434
+      "stars": 434,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "israel",
+        "israeli",
+        "open-source",
+        "opensource"
+      ]
     },
     "original_repository_sha": "884c2595f6b08056f9995b07448c219c4212af4f",
     "enhanced_repository": "enhansome/enhansome-opensource-israel",
