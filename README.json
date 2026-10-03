@@ -79,8 +79,8 @@
                 "id": 344617026,
                 "language": "Assembly",
                 "license": "MIT",
-                "last_commit": "2026-07-13T19:57:19Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-02T22:10:03Z",
+                "open_issues": 1,
                 "owner": "donno2048",
                 "repo": "snake",
                 "stars": 1429,
@@ -235,7 +235,7 @@
                 "open_issues": 630,
                 "owner": "ent",
                 "repo": "ent",
-                "stars": 17209,
+                "stars": 17206,
                 "topics": [
                   "ent",
                   "entity-framework",
@@ -260,7 +260,7 @@
                 "open_issues": 340,
                 "owner": "github",
                 "repo": "gh-ost",
-                "stars": 13589,
+                "stars": 13591,
                 "topics": [
                   "mysql",
                   "schema-migrations"
@@ -284,7 +284,7 @@
                 "open_issues": 25,
                 "owner": "yonahd",
                 "repo": "kor",
-                "stars": 1875,
+                "stars": 1877,
                 "topics": [
                   "go",
                   "golang",
@@ -346,11 +346,11 @@
                 "id": 1301824521,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T23:06:00Z",
-                "open_issues": 69,
+                "last_commit": "2026-10-02T13:58:20Z",
+                "open_issues": 65,
                 "owner": "YoanWai",
                 "repo": "agent-manager",
-                "stars": 556,
+                "stars": 559,
                 "topics": [
                   "ai-agents",
                   "bubbletea",
@@ -827,7 +827,7 @@
                 "open_issues": 137,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105652,
+                "stars": 105651,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -867,7 +867,7 @@
                 "open_issues": 5,
                 "owner": "lirantal",
                 "repo": "dockly",
-                "stars": 4034,
+                "stars": 4033,
                 "topics": [
                   "cli",
                   "command-line-tool",
@@ -1410,11 +1410,11 @@
                 "id": 60010673,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T04:54:08Z",
-                "open_issues": 3948,
+                "last_commit": "2026-10-02T16:55:44Z",
+                "open_issues": 3947,
                 "owner": "elementor",
                 "repo": "elementor",
-                "stars": 7083,
+                "stars": 7085,
                 "topics": [
                   "editor-shared"
                 ]
@@ -1440,7 +1440,7 @@
                 "id": 13926404,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-01T02:04:06Z",
+                "last_commit": "2026-10-02T19:49:12Z",
                 "open_issues": 812,
                 "owner": "getredash",
                 "repo": "redash",
@@ -1544,7 +1544,7 @@
                 "open_issues": 183,
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 9050,
+                "stars": 9052,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -1579,7 +1579,7 @@
                 "open_issues": 65,
                 "owner": "permitio",
                 "repo": "opal",
-                "stars": 5513,
+                "stars": 5512,
                 "topics": [
                   "authorization",
                   "cedar",
@@ -1610,11 +1610,11 @@
                 "id": 378598624,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T18:20:14Z",
+                "last_commit": "2026-10-02T17:46:03Z",
                 "open_issues": 207,
                 "owner": "robusta-dev",
                 "repo": "robusta",
-                "stars": 3106,
+                "stars": 3105,
                 "topics": [
                   "alerting",
                   "alertmanager",
@@ -1773,7 +1773,7 @@
                 "open_issues": 76,
                 "owner": "cloudify-cosmo",
                 "repo": "cloudify-manager",
-                "stars": 155,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
@@ -1943,7 +1943,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T17:24:18Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "TomerFi",
                 "repo": "aioswitcher",
                 "stars": 39,
@@ -2681,7 +2681,7 @@
                 "open_issues": 17,
                 "owner": "komodorio",
                 "repo": "helm-dashboard",
-                "stars": 5759,
+                "stars": 5761,
                 "topics": [
                   "gui",
                   "helm",
@@ -2709,7 +2709,7 @@
                 "open_issues": 32,
                 "owner": "ealush",
                 "repo": "emoji-picker-react",
-                "stars": 1458,
+                "stars": 1459,
                 "topics": [
                   "component",
                   "emoji",
@@ -2872,7 +2872,7 @@
                 "id": 550060344,
                 "language": "Ruby",
                 "license": null,
-                "last_commit": "2026-10-02T09:09:15Z",
+                "last_commit": "2026-10-03T04:14:01Z",
                 "open_issues": 0,
                 "owner": "szabgab",
                 "repo": "ruby-digger",
@@ -2911,7 +2911,7 @@
                 "open_issues": 248,
                 "owner": "Schniz",
                 "repo": "fnm",
-                "stars": 27003,
+                "stars": 27010,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -2935,11 +2935,11 @@
                 "id": 454467716,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-02T08:55:25Z",
-                "open_issues": 77,
+                "last_commit": "2026-10-03T01:51:56Z",
+                "open_issues": 81,
                 "owner": "metalbear-co",
                 "repo": "mirrord",
-                "stars": 5353,
+                "stars": 5354,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -3006,7 +3006,7 @@
                 "open_issues": 13,
                 "owner": "MordechaiHadad",
                 "repo": "bob",
-                "stars": 2145,
+                "stars": 2146,
                 "topics": [
                   "command-line",
                   "hacktoberfest",
@@ -3064,8 +3064,8 @@
                 "id": 582323765,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-09-30T19:33:42Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-02T21:45:53Z",
+                "open_issues": 0,
                 "owner": "barakplasma",
                 "repo": "israel-weather-rs",
                 "stars": 9,
@@ -3147,7 +3147,7 @@
                 "id": 1216889464,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T13:10:45Z",
+                "last_commit": "2026-10-02T12:32:01Z",
                 "open_issues": 0,
                 "owner": "noambrand",
                 "repo": "kivun-terminal-wsl",
@@ -3224,11 +3224,11 @@
                 "id": 180190854,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T08:33:44Z",
-                "open_issues": 684,
+                "last_commit": "2026-10-03T03:46:15Z",
+                "open_issues": 683,
                 "owner": "appwrite",
                 "repo": "appwrite",
-                "stars": 57537,
+                "stars": 57546,
                 "topics": [
                   "android",
                   "appwrite",
@@ -3266,11 +3266,11 @@
                 "id": 400215964,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T08:16:27Z",
-                "open_issues": 120,
+                "last_commit": "2026-10-02T16:08:03Z",
+                "open_issues": 122,
                 "owner": "novuhq",
                 "repo": "novu",
-                "stars": 40103,
+                "stars": 40104,
                 "topics": [
                   "agents",
                   "communication",
@@ -3303,11 +3303,11 @@
                 "id": 664013991,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T09:09:27Z",
-                "open_issues": 240,
+                "last_commit": "2026-10-02T22:23:52Z",
+                "open_issues": 241,
                 "owner": "gitroomhq",
                 "repo": "postiz-app",
-                "stars": 36610,
+                "stars": 36640,
                 "topics": [
                   "nextjs",
                   "open-source",
@@ -3335,11 +3335,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T20:02:45Z",
-                "open_issues": 77,
+                "last_commit": "2026-10-03T00:03:36Z",
+                "open_issues": 76,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18492,
+                "stars": 18493,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -3380,7 +3380,7 @@
                 "open_issues": 665,
                 "owner": "amplication",
                 "repo": "amplication",
-                "stars": 16016,
+                "stars": 16015,
                 "topics": [
                   "api",
                   "code-generation",
@@ -3443,11 +3443,11 @@
                 "id": 665613753,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T07:03:54Z",
+                "last_commit": "2026-10-03T02:04:03Z",
                 "open_issues": 167,
                 "owner": "elie222",
                 "repo": "inbox-zero",
-                "stars": 12391,
+                "stars": 12397,
                 "topics": [
                   "ai",
                   "email",
@@ -3486,7 +3486,7 @@
                 "open_issues": 206,
                 "owner": "thewh1teagle",
                 "repo": "vibe",
-                "stars": 7676,
+                "stars": 7675,
                 "topics": [
                   "ai",
                   "cross-platform",
@@ -3511,8 +3511,8 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T09:08:49Z",
-                "open_issues": 122,
+                "last_commit": "2026-10-03T00:05:33Z",
+                "open_issues": 124,
                 "owner": "snyk",
                 "repo": "cli",
                 "stars": 5670,
@@ -3537,7 +3537,7 @@
                 "id": 108873775,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T15:39:01Z",
+                "last_commit": "2026-10-02T13:29:46Z",
                 "open_issues": 119,
                 "owner": "remult",
                 "repo": "remult",
@@ -3574,7 +3574,7 @@
                 "id": 224295067,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T04:33:07Z",
+                "last_commit": "2026-10-03T04:15:44Z",
                 "open_issues": 63,
                 "owner": "ealush",
                 "repo": "vest",
@@ -3664,11 +3664,11 @@
                 "id": 98721853,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T03:34:59Z",
-                "open_issues": 43,
+                "last_commit": "2026-10-02T15:21:37Z",
+                "open_issues": 44,
                 "owner": "eshaham",
                 "repo": "israeli-bank-scrapers",
-                "stars": 1127,
+                "stars": 1133,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:52:01.585Z"
@@ -3794,8 +3794,8 @@
                 "id": 353759096,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T08:27:45Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-02T13:36:03Z",
+                "open_issues": 14,
                 "owner": "better-rail",
                 "repo": "app",
                 "stars": 309,
@@ -3912,7 +3912,7 @@
                 "open_issues": 6,
                 "owner": "kysely-org",
                 "repo": "kysely-postgres-js",
-                "stars": 143,
+                "stars": 142,
                 "topics": [
                   "dialect",
                   "kysely",
@@ -4357,7 +4357,7 @@
                 "language": "Vue",
                 "license": "MIT",
                 "last_commit": "2026-09-21T13:56:41Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "drehelis",
                 "repo": "gcp-emulator-ui",
                 "stars": 46,
@@ -4434,7 +4434,7 @@
                 "open_issues": 1,
                 "owner": "sk3pp3r",
                 "repo": "cheat-sheet-pdf",
-                "stars": 2451,
+                "stars": 2450,
                 "topics": [
                   "ai",
                   "ansible",
@@ -4476,7 +4476,7 @@
                 "open_issues": 3,
                 "owner": "shaypal5",
                 "repo": "awesome-twitter-data",
-                "stars": 1133,
+                "stars": 1132,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4519,6 +4519,1020 @@
           "description": null,
           "node_type": "group",
           "title": "unknown language"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "blessed-contrib",
+                  "description": "Build terminal dashboards using ascii/ansi art and javascript",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Build terminal dashboards using ascii/ansi art and javascript",
+                    "homepage": null,
+                    "id": 29247444,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2026-05-01T06:16:27Z",
+                    "open_issues": 97,
+                    "owner": "yaronn",
+                    "repo": "blessed-contrib",
+                    "stars": 15774,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "mean.io",
+                  "description": "Mean.io is a popular mean stack boilerplate providing a starting point for angular(6) , express, mongo and node fullstack javascript powered apps.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications",
+                    "homepage": "http://mean.io",
+                    "id": 10219106,
+                    "language": "TypeScript",
+                    "license": null,
+                    "last_commit": "2026-02-17T10:51:41Z",
+                    "open_issues": 97,
+                    "owner": "linnovate",
+                    "repo": "mean",
+                    "stars": 12045,
+                    "topics": [
+                      "angular",
+                      "express",
+                      "javascript",
+                      "mongodb",
+                      "node",
+                      "stack"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "mailgen",
+                  "description": "A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.",
+                    "homepage": null,
+                    "id": 59653935,
+                    "language": "HTML",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-04T06:55:09Z",
+                    "open_issues": 2,
+                    "owner": "eladnava",
+                    "repo": "mailgen",
+                    "stars": 2540,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Vue Tables 2",
+                  "description": "Vue.js 2 grid components.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Vue.js 2 grid components",
+                    "homepage": "https://matanya.gitbook.io/vue-tables-2/",
+                    "id": 68045914,
+                    "language": "JavaScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2021-11-26T06:49:37Z",
+                    "open_issues": 0,
+                    "owner": "matfish2",
+                    "repo": "vue-tables-2",
+                    "stars": 1511,
+                    "topics": [
+                      "datatable",
+                      "grid",
+                      "table",
+                      "vue",
+                      "vue-components"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Intergram",
+                  "description": "Free live chat widget linked to your Telegram messenger.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Free live chat widget linked to your Telegram messenger",
+                    "homepage": "https://www.intergram.xyz",
+                    "id": 77236059,
+                    "language": "JavaScript",
+                    "license": "MPL-2.0",
+                    "last_commit": "2024-03-25T20:59:27Z",
+                    "open_issues": 73,
+                    "owner": "idoco",
+                    "repo": "intergram",
+                    "stars": 1415,
+                    "topics": [
+                      "chat-widget",
+                      "telegram",
+                      "telegram-bot"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "webpack-node-externals",
+                  "description": "A Webpack plugin to list all node modules as bundle externals",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Easily exclude node modules in Webpack",
+                    "homepage": null,
+                    "id": 50500419,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2026-03-03T10:17:50Z",
+                    "open_issues": 56,
+                    "owner": "liady",
+                    "repo": "webpack-node-externals",
+                    "stars": 1292,
+                    "topics": [
+                      "external",
+                      "hacktoberfest",
+                      "modules",
+                      "node",
+                      "webpack"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "TypeWiz",
+                  "description": "Automatically discover and add missing types in your TypeScript code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Automatically discover and add missing types in your TypeScript code",
+                    "homepage": "https://medium.com/@urish/manual-typing-is-no-fun-introducing-typewiz-58e3e8813f4c",
+                    "id": 117014891,
+                    "language": "TypeScript",
+                    "license": null,
+                    "last_commit": "2021-10-05T15:00:24Z",
+                    "open_issues": 35,
+                    "owner": "mockdeep",
+                    "repo": "typewiz",
+                    "stars": 1104,
+                    "topics": [
+                      "automation",
+                      "code-quality",
+                      "type-safety",
+                      "typescript"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "firebase-server",
+                  "description": "Firebase Realtime Database server implementation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Firebase Realtime Database Server Implementation",
+                    "homepage": null,
+                    "id": 23709739,
+                    "language": "TypeScript",
+                    "license": null,
+                    "last_commit": "2021-05-10T08:18:15Z",
+                    "open_issues": 0,
+                    "owner": "urish",
+                    "repo": "firebase-server",
+                    "stars": 671,
+                    "topics": [
+                      "database",
+                      "firebase",
+                      "firebase-database",
+                      "firebase-server",
+                      "javascript",
+                      "server-socket",
+                      "testing-tools",
+                      "typescript"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Predator",
+                  "description": "An open-source distributed performance testing framework",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A powerful open-source platform for load testing APIs. ",
+                    "homepage": "https://zooz.github.io/predator/",
+                    "id": 168341860,
+                    "language": "JavaScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-01-02T09:14:03Z",
+                    "open_issues": 82,
+                    "owner": "Zooz",
+                    "repo": "predator",
+                    "stars": 596,
+                    "topics": [
+                      "dcos",
+                      "distributed-tests",
+                      "docker",
+                      "functional-testing",
+                      "hacktoberfest",
+                      "kubernetes",
+                      "load-testing",
+                      "nodejs",
+                      "performance",
+                      "stress-test"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "react-elastic-carousel",
+                  "description": "A flexible and responsive carousel component for react.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A flexible and responsive carousel component for react https://sag1v.github.io/react-elastic-carousel",
+                    "homepage": null,
+                    "id": 146773142,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2026-04-10T00:05:54Z",
+                    "open_issues": 9,
+                    "owner": "sag1v",
+                    "repo": "react-elastic-carousel",
+                    "stars": 343,
+                    "topics": [
+                      "carousel",
+                      "flexible",
+                      "javascript",
+                      "react",
+                      "responsive",
+                      "styled-components"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "muse-js",
+                  "description": "Muse 2016 EEG Headset JavaScript Library (using Web Bluetooth)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Muse 2016 EEG Headset JavaScript Library (using Web Bluetooth)",
+                    "homepage": "https://medium.com/@urish/reactive-brain-waves-af07864bb7d4",
+                    "id": 92633857,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2024-09-25T19:00:48Z",
+                    "open_issues": 26,
+                    "owner": "urish",
+                    "repo": "muse-js",
+                    "stars": 306,
+                    "topics": [
+                      "bci",
+                      "brain-computer-interface",
+                      "brain-connectivity",
+                      "eeg",
+                      "eeg-data",
+                      "eeg-headband",
+                      "eeg-headset",
+                      "typescript-library",
+                      "web-bluetooth"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Petri",
+                  "description": "Wix experiment system (A/B test and feature toggle framework)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Wix experiment system (A/B test and feature toggle framework)",
+                    "homepage": null,
+                    "id": 12682610,
+                    "language": "JavaScript",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2023-07-07T21:23:35Z",
+                    "open_issues": 17,
+                    "owner": "wix-incubator",
+                    "repo": "petri",
+                    "stars": 265,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "skift",
+                  "description": "scikit-learn wrappers for Python fastText.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "scikit-learn wrappers for Python fastText.",
+                    "homepage": null,
+                    "id": 120085546,
+                    "language": "Jupyter Notebook",
+                    "license": "MIT",
+                    "last_commit": "2022-06-07T15:07:07Z",
+                    "open_issues": 1,
+                    "owner": "shaypal5",
+                    "repo": "skift",
+                    "stars": 234,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "mocha-sidebar",
+                  "description": "Mocha side bar is a visual studio code extension that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Mocha side bar viewer that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course)",
+                    "homepage": null,
+                    "id": 105862828,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2026-07-20T20:19:18Z",
+                    "open_issues": 230,
+                    "owner": "maty21",
+                    "repo": "mocha-sidebar",
+                    "stars": 188,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "express-ajv-swagger-validation",
+                  "description": "Express middleware for input validation using Swagger (Open API) and ajv",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Input validation using Swagger (Open API) and ajv",
+                    "homepage": null,
+                    "id": 107256133,
+                    "language": "JavaScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-10-27T11:54:10Z",
+                    "open_issues": 32,
+                    "owner": "PayU",
+                    "repo": "openapi-validator-middleware",
+                    "stars": 144,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "vue-dynamic-star-rating",
+                  "description": "A dynamic stars rating component for vue, similar to Google Play’s rating",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A highly dynamic vue stars rating component, similar to google play stars rating",
+                    "homepage": null,
+                    "id": 163078623,
+                    "language": "Vue",
+                    "license": null,
+                    "last_commit": "2021-04-27T21:58:47Z",
+                    "open_issues": 11,
+                    "owner": "JonathanDn",
+                    "repo": "vue-stars-rating",
+                    "stars": 103,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "express-version-route",
+                  "description": "A Node.js express middleware that implements API versioning for route controllers",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A Node.js express middleware that implements API versioning for route controllers",
+                    "homepage": null,
+                    "id": 91352809,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2026-06-24T18:20:46Z",
+                    "open_issues": 0,
+                    "owner": "lirantal",
+                    "repo": "express-version-route",
+                    "stars": 90,
+                    "topics": [
+                      "api",
+                      "api-versioning",
+                      "expessjs",
+                      "expressjs-middleware",
+                      "nodejs"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "web-bluetooth-polyfill",
+                  "description": "Windows 10 Web Bluetooth Polyfill",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Windows 10 Web Bluetooth Polyfill",
+                    "homepage": null,
+                    "id": 91140621,
+                    "language": "JavaScript",
+                    "license": null,
+                    "last_commit": "2021-05-09T00:32:50Z",
+                    "open_issues": 7,
+                    "owner": "urish",
+                    "repo": "web-bluetooth-polyfill",
+                    "stars": 80,
+                    "topics": [
+                      "chrome-extension",
+                      "gatt",
+                      "polyfill",
+                      "web-bluetooth",
+                      "windows-10"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "yap-csv",
+                  "description": "Node.js package that manages CSV to JSON conversion supporting complex field mapping",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Node.js package that manages CSV to JSON conversion supporting complex field mapping",
+                    "homepage": null,
+                    "id": 102267276,
+                    "language": "JavaScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2024-04-16T03:09:40Z",
+                    "open_issues": 26,
+                    "owner": "nielsen-oss",
+                    "repo": "yap-csv",
+                    "stars": 61,
+                    "topics": [
+                      "csv",
+                      "excel",
+                      "json",
+                      "nodejs",
+                      "parser"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Reconstant",
+                  "description": "Reconstant lets you share constant and enum definitions between programming languages.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Share constant definitions between programming languages and make your constants constant again",
+                    "homepage": null,
+                    "id": 344958303,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-11-17T13:36:17Z",
+                    "open_issues": 8,
+                    "owner": "aantn",
+                    "repo": "reconstant",
+                    "stars": 59,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Litespeed.js",
+                  "description": "Lite & fast micro javascript framework that is easy to learn.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Lite & fast micro javascript framework that is **easy to learn**.",
+                    "homepage": null,
+                    "id": 29466233,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2023-03-04T02:58:23Z",
+                    "open_issues": 4,
+                    "owner": "litespeed-js",
+                    "repo": "litespeed.js",
+                    "stars": 45,
+                    "topics": [
+                      "framework",
+                      "javascript",
+                      "litespeed",
+                      "litespeed-js",
+                      "simple",
+                      "speed"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "vue-dynamic-dropdown",
+                  "description": "A Highly Customizable, easy-to-use elegant dropdown component for Vue framework",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A highly dynamic vue dropdown component",
+                    "homepage": null,
+                    "id": 159952678,
+                    "language": "Vue",
+                    "license": null,
+                    "last_commit": "2020-10-11T05:39:17Z",
+                    "open_issues": 6,
+                    "owner": "JonathanDn",
+                    "repo": "vue-dropdown",
+                    "stars": 40,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "vue-toggle-btn",
+                  "description": "A Highly Customizable, easy-to-use elegant toggle/switch button component",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Vue.js Toggle Button - A dynamic, fully customizable toggle button aka toggle switch",
+                    "homepage": null,
+                    "id": 150958072,
+                    "language": "Vue",
+                    "license": null,
+                    "last_commit": "2022-12-29T23:30:45Z",
+                    "open_issues": 27,
+                    "owner": "JonathanDn",
+                    "repo": "vue-toggle-btn",
+                    "stars": 40,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Fugazi",
+                  "description": "A web based terminal application for executing local and remote commands",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "web based terminal application for executing local and remote commands",
+                    "homepage": "http://fugazi.io",
+                    "id": 80307819,
+                    "language": "TypeScript",
+                    "license": null,
+                    "last_commit": "2018-01-07T23:41:42Z",
+                    "open_issues": 43,
+                    "owner": "fugazi-io",
+                    "repo": "webclient",
+                    "stars": 29,
+                    "topics": [
+                      "cli",
+                      "cli-client",
+                      "console",
+                      "dsl",
+                      "fugazi",
+                      "rpc",
+                      "rpc-client",
+                      "shell",
+                      "terminal"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Apollo",
+                  "description": "A simple, lightweight, Continuous Deployment (CD) solution on top of Kubernetes.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "NOT MAINTAINED. Apollo - The logz.io continuous deployment solution over kubernetes",
+                    "homepage": null,
+                    "id": 53502006,
+                    "language": "Java",
+                    "license": "Apache-2.0",
+                    "last_commit": "2021-02-22T08:44:40Z",
+                    "open_issues": 54,
+                    "owner": "logzio",
+                    "repo": "apollo",
+                    "stars": 24,
+                    "topics": [
+                      "continous-deployment",
+                      "jenkins",
+                      "kubernetes",
+                      "microservices",
+                      "no-longer-maintained",
+                      "ui"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "HspellPy",
+                  "description": "A Python wrapper for Hspell.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Python wrapper for Hspell",
+                    "homepage": null,
+                    "id": 35288696,
+                    "language": "Python",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2017-05-05T14:06:35Z",
+                    "open_issues": 0,
+                    "owner": "eranroz",
+                    "repo": "HspellPy",
+                    "stars": 22,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mr. M",
+                  "description": "Need to easily assume AWS IAM roles? Mr. M has your back!",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Need to easily assume AWS IAM roles? Mr. M has your back!",
+                    "homepage": null,
+                    "id": 438619161,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2021-12-27T17:53:39Z",
+                    "open_issues": 0,
+                    "owner": "robusta-dev",
+                    "repo": "mr-m",
+                    "stars": 19,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "@lirantal/typeform-client",
+                  "description": "a friendlier Typeform Node.js API client",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A friendlier Typeform Node.js API client",
+                    "homepage": null,
+                    "id": 162629715,
+                    "language": "JavaScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-07-18T09:02:30Z",
+                    "open_issues": 2,
+                    "owner": "lirantal",
+                    "repo": "typeform-client",
+                    "stars": 18,
+                    "topics": [
+                      "api",
+                      "nodejs",
+                      "survey",
+                      "typeform",
+                      "typeform-api"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "express-security-txt",
+                  "description": "A Node.js middleware for Express that implements Security.txt - A Method for Web Security Policies",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A Node.js middleware for Express that implements Security.txt - A Method for Web Security Policies",
+                    "homepage": null,
+                    "id": 106471669,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2026-07-23T18:58:12Z",
+                    "open_issues": 2,
+                    "owner": "lirantal",
+                    "repo": "express-security-txt",
+                    "stars": 18,
+                    "topics": [
+                      "express",
+                      "hacktoberfest",
+                      "nodejs",
+                      "security"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "cron-to-quartz",
+                  "description": "Node.js library to convert unix or linux CRON syntax to Quartz Scheduler",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Node.js library to convert unix or linux CRON syntax to Quartz Scheduler",
+                    "homepage": null,
+                    "id": 48604142,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2026-07-23T18:57:52Z",
+                    "open_issues": 0,
+                    "owner": "lirantal",
+                    "repo": "cron-to-quartz",
+                    "stars": 15,
+                    "topics": [
+                      "cron",
+                      "cron-notation",
+                      "cron-syntax",
+                      "nodejs",
+                      "quartz-scheduler"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ticktok.io",
+                  "description": "Efficient, managed and clustered scheduler that allows apps to receive accurate and reliable clock signals at scale.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Clock As a Service",
+                    "homepage": "https://ticktok.io",
+                    "id": 123014642,
+                    "language": "Java",
+                    "license": "Apache-2.0",
+                    "last_commit": "2021-04-30T12:35:43Z",
+                    "open_issues": 19,
+                    "owner": "ticktok-io",
+                    "repo": "ticktok.io",
+                    "stars": 15,
+                    "topics": [
+                      "circleci",
+                      "clock",
+                      "docker",
+                      "gitter",
+                      "java",
+                      "kotlin",
+                      "schedule",
+                      "spring-boot",
+                      "ticktok",
+                      "ticktok-io"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "birch",
+                  "description": "Simple hierarchical configuration for Python packages.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Simple hierarchical configuration for Python packages.",
+                    "homepage": null,
+                    "id": 120747161,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2024-01-14T19:48:45Z",
+                    "open_issues": 1,
+                    "owner": "shaypal5",
+                    "repo": "birch",
+                    "stars": 14,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Blink-Java",
+                  "description": "Simple http server designed for use in tests, written in pure Java (no dependencies).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Simplified pure Java http server",
+                    "homepage": null,
+                    "id": 64565647,
+                    "language": "Java",
+                    "license": "Apache-2.0",
+                    "last_commit": "2022-05-20T20:49:38Z",
+                    "open_issues": 10,
+                    "owner": "rockem",
+                    "repo": "blink-java",
+                    "stars": 11,
+                    "topics": [
+                      "http",
+                      "java",
+                      "pure",
+                      "server",
+                      "test"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "express-boilerplate",
+                  "description": "A simple Node.js app (Express + Sequelize) with the purpose of providing a compact, clear and concise example to how Node.js apps can be built",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A simple Node.js app (Express + Sequelize) with the purpose of providing a compact, clear and concise example to how Node.js apps can be built",
+                    "homepage": null,
+                    "id": 144607901,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2019-06-08T12:36:37Z",
+                    "open_issues": 0,
+                    "owner": "giladno",
+                    "repo": "express-boilerplate",
+                    "stars": 9,
+                    "topics": [
+                      "expressjs",
+                      "nodejs",
+                      "sequelizejs"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "sequelize-admin",
+                  "description": "A simple express based admin middleware for sequelizejs",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A simple express based admin middleware for sequelizejs",
+                    "homepage": null,
+                    "id": 159944451,
+                    "language": "JavaScript",
+                    "license": null,
+                    "last_commit": "2019-06-09T14:28:47Z",
+                    "open_issues": 1,
+                    "owner": "giladno",
+                    "repo": "sequelize-admin",
+                    "stars": 7,
+                    "topics": [
+                      "admin",
+                      "express",
+                      "expressjs",
+                      "sequelize",
+                      "sequelizejs"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "SugoiJS Server",
+                  "description": "SugoiJS provides TypeScript decorators which makes the development process faster, easier with less boilerplate code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "SugoiJS server module - web server based on decoration design pattern",
+                    "homepage": "https://wiki.sugoijs.com/sugoi-server/getting-started",
+                    "id": 140748462,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2023-01-23T21:53:44Z",
+                    "open_issues": 11,
+                    "owner": "sugoiJS",
+                    "repo": "server",
+                    "stars": 7,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "JsonChangeVals",
+                  "description": "Translating your JSON structure without paying for it.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Change only the values of a JSON structure (use for translate)",
+                    "homepage": "https://erasta.github.io/JsonChangeVals/index.html",
+                    "id": 162888811,
+                    "language": "HTML",
+                    "license": "MIT",
+                    "last_commit": "2018-12-25T10:06:06Z",
+                    "open_issues": 0,
+                    "owner": "erasta",
+                    "repo": "JsonChangeVals",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "resume-json-python",
+                  "description": "A project to create your resume as JSON and be able to style it easily.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "this is a repo to work with resume.json, one can create, validate, export to other formats and serve their json file",
+                    "homepage": null,
+                    "id": 315076879,
+                    "language": "HTML",
+                    "license": "MIT",
+                    "last_commit": "2021-06-10T21:08:38Z",
+                    "open_issues": 4,
+                    "owner": "moshe742",
+                    "repo": "resume-json-python",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "typeform-export-excel",
+                  "description": "Export a Typeform survey questionnaire to an Excel format",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Export a Typeform survey questionnaire to an Excel format",
+                    "homepage": null,
+                    "id": 162923163,
+                    "language": "JavaScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-01T01:15:43Z",
+                    "open_issues": 3,
+                    "owner": "lirantal",
+                    "repo": "typeform-export-excel",
+                    "stars": 5,
+                    "topics": [
+                      "excel",
+                      "export",
+                      "nodejs",
+                      "typeform"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "dynamodb",
+                  "description": "A wrapper for easy access to DynamoDB",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Simple DynamoDB wrapper for Node.js",
+                    "homepage": null,
+                    "id": 165389565,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2019-01-18T22:44:37Z",
+                    "open_issues": 0,
+                    "owner": "giladno",
+                    "repo": "dynamodb",
+                    "stars": 1,
+                    "topics": [
+                      "amazon-dynamodb",
+                      "dynamodb",
+                      "javascript"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T14:52:01.585Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "More than half a year since the last commit"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Old Projects"
         }
       ],
       "title": "Projects by main language"
@@ -4528,1014 +5542,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "blessed-contrib",
-          "description": "Build terminal dashboards using ascii/ansi art and javascript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Build terminal dashboards using ascii/ansi art and javascript",
-            "homepage": null,
-            "id": 29247444,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-05-01T06:16:27Z",
-            "open_issues": 97,
-            "owner": "yaronn",
-            "repo": "blessed-contrib",
-            "stars": 15776,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mean.io",
-          "description": "Mean.io is a popular mean stack boilerplate providing a starting point for angular(6) , express, mongo and node fullstack javascript powered apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications",
-            "homepage": "http://mean.io",
-            "id": 10219106,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-02-17T10:51:41Z",
-            "open_issues": 97,
-            "owner": "linnovate",
-            "repo": "mean",
-            "stars": 12044,
-            "topics": [
-              "angular",
-              "express",
-              "javascript",
-              "mongodb",
-              "node",
-              "stack"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mailgen",
-          "description": "A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.",
-            "homepage": null,
-            "id": 59653935,
-            "language": "HTML",
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-04T06:55:09Z",
-            "open_issues": 2,
-            "owner": "eladnava",
-            "repo": "mailgen",
-            "stars": 2540,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Vue Tables 2",
-          "description": "Vue.js 2 grid components.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Vue.js 2 grid components",
-            "homepage": "https://matanya.gitbook.io/vue-tables-2/",
-            "id": 68045914,
-            "language": "JavaScript",
-            "license": "GPL-3.0",
-            "last_commit": "2021-11-26T06:49:37Z",
-            "open_issues": 0,
-            "owner": "matfish2",
-            "repo": "vue-tables-2",
-            "stars": 1511,
-            "topics": [
-              "datatable",
-              "grid",
-              "table",
-              "vue",
-              "vue-components"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Intergram",
-          "description": "Free live chat widget linked to your Telegram messenger.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Free live chat widget linked to your Telegram messenger",
-            "homepage": "https://www.intergram.xyz",
-            "id": 77236059,
-            "language": "JavaScript",
-            "license": "MPL-2.0",
-            "last_commit": "2024-03-25T20:59:27Z",
-            "open_issues": 73,
-            "owner": "idoco",
-            "repo": "intergram",
-            "stars": 1415,
-            "topics": [
-              "chat-widget",
-              "telegram",
-              "telegram-bot"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "webpack-node-externals",
-          "description": "A Webpack plugin to list all node modules as bundle externals",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Easily exclude node modules in Webpack",
-            "homepage": null,
-            "id": 50500419,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-03-03T10:17:50Z",
-            "open_issues": 56,
-            "owner": "liady",
-            "repo": "webpack-node-externals",
-            "stars": 1292,
-            "topics": [
-              "external",
-              "hacktoberfest",
-              "modules",
-              "node",
-              "webpack"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TypeWiz",
-          "description": "Automatically discover and add missing types in your TypeScript code",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Automatically discover and add missing types in your TypeScript code",
-            "homepage": "https://medium.com/@urish/manual-typing-is-no-fun-introducing-typewiz-58e3e8813f4c",
-            "id": 117014891,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2021-10-05T15:00:24Z",
-            "open_issues": 35,
-            "owner": "mockdeep",
-            "repo": "typewiz",
-            "stars": 1104,
-            "topics": [
-              "automation",
-              "code-quality",
-              "type-safety",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "firebase-server",
-          "description": "Firebase Realtime Database server implementation",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Firebase Realtime Database Server Implementation",
-            "homepage": null,
-            "id": 23709739,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2021-05-10T08:18:15Z",
-            "open_issues": 0,
-            "owner": "urish",
-            "repo": "firebase-server",
-            "stars": 672,
-            "topics": [
-              "database",
-              "firebase",
-              "firebase-database",
-              "firebase-server",
-              "javascript",
-              "server-socket",
-              "testing-tools",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Predator",
-          "description": "An open-source distributed performance testing framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A powerful open-source platform for load testing APIs. ",
-            "homepage": "https://zooz.github.io/predator/",
-            "id": 168341860,
-            "language": "JavaScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-01-02T09:14:03Z",
-            "open_issues": 82,
-            "owner": "Zooz",
-            "repo": "predator",
-            "stars": 595,
-            "topics": [
-              "dcos",
-              "distributed-tests",
-              "docker",
-              "functional-testing",
-              "hacktoberfest",
-              "kubernetes",
-              "load-testing",
-              "nodejs",
-              "performance",
-              "stress-test"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "react-elastic-carousel",
-          "description": "A flexible and responsive carousel component for react.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A flexible and responsive carousel component for react https://sag1v.github.io/react-elastic-carousel",
-            "homepage": null,
-            "id": 146773142,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-04-10T00:05:54Z",
-            "open_issues": 9,
-            "owner": "sag1v",
-            "repo": "react-elastic-carousel",
-            "stars": 343,
-            "topics": [
-              "carousel",
-              "flexible",
-              "javascript",
-              "react",
-              "responsive",
-              "styled-components"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "muse-js",
-          "description": "Muse 2016 EEG Headset JavaScript Library (using Web Bluetooth)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Muse 2016 EEG Headset JavaScript Library (using Web Bluetooth)",
-            "homepage": "https://medium.com/@urish/reactive-brain-waves-af07864bb7d4",
-            "id": 92633857,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2024-09-25T19:00:48Z",
-            "open_issues": 26,
-            "owner": "urish",
-            "repo": "muse-js",
-            "stars": 306,
-            "topics": [
-              "bci",
-              "brain-computer-interface",
-              "brain-connectivity",
-              "eeg",
-              "eeg-data",
-              "eeg-headband",
-              "eeg-headset",
-              "typescript-library",
-              "web-bluetooth"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Petri",
-          "description": "Wix experiment system (A/B test and feature toggle framework)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Wix experiment system (A/B test and feature toggle framework)",
-            "homepage": null,
-            "id": 12682610,
-            "language": "JavaScript",
-            "license": "BSD-3-Clause",
-            "last_commit": "2023-07-07T21:23:35Z",
-            "open_issues": 17,
-            "owner": "wix-incubator",
-            "repo": "petri",
-            "stars": 265,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "skift",
-          "description": "scikit-learn wrappers for Python fastText.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "scikit-learn wrappers for Python fastText.",
-            "homepage": null,
-            "id": 120085546,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2022-06-07T15:07:07Z",
-            "open_issues": 1,
-            "owner": "shaypal5",
-            "repo": "skift",
-            "stars": 234,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mocha-sidebar",
-          "description": "Mocha side bar is a visual studio code extension that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Mocha side bar viewer that allows you to run Mocha tests from side bar menu and view results can run each level hierarchy from all tests to a single test(and each describer of course)",
-            "homepage": null,
-            "id": 105862828,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-07-20T20:19:18Z",
-            "open_issues": 230,
-            "owner": "maty21",
-            "repo": "mocha-sidebar",
-            "stars": 188,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "express-ajv-swagger-validation",
-          "description": "Express middleware for input validation using Swagger (Open API) and ajv",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Input validation using Swagger (Open API) and ajv",
-            "homepage": null,
-            "id": 107256133,
-            "language": "JavaScript",
-            "license": "Apache-2.0",
-            "last_commit": "2025-10-27T11:54:10Z",
-            "open_issues": 32,
-            "owner": "PayU",
-            "repo": "openapi-validator-middleware",
-            "stars": 144,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "vue-dynamic-star-rating",
-          "description": "A dynamic stars rating component for vue, similar to Google Play’s rating",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A highly dynamic vue stars rating component, similar to google play stars rating",
-            "homepage": null,
-            "id": 163078623,
-            "language": "Vue",
-            "license": null,
-            "last_commit": "2021-04-27T21:58:47Z",
-            "open_issues": 11,
-            "owner": "JonathanDn",
-            "repo": "vue-stars-rating",
-            "stars": 103,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "express-version-route",
-          "description": "A Node.js express middleware that implements API versioning for route controllers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Node.js express middleware that implements API versioning for route controllers",
-            "homepage": null,
-            "id": 91352809,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-06-24T18:20:46Z",
-            "open_issues": 0,
-            "owner": "lirantal",
-            "repo": "express-version-route",
-            "stars": 90,
-            "topics": [
-              "api",
-              "api-versioning",
-              "expessjs",
-              "expressjs-middleware",
-              "nodejs"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "web-bluetooth-polyfill",
-          "description": "Windows 10 Web Bluetooth Polyfill",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Windows 10 Web Bluetooth Polyfill",
-            "homepage": null,
-            "id": 91140621,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2021-05-09T00:32:50Z",
-            "open_issues": 7,
-            "owner": "urish",
-            "repo": "web-bluetooth-polyfill",
-            "stars": 80,
-            "topics": [
-              "chrome-extension",
-              "gatt",
-              "polyfill",
-              "web-bluetooth",
-              "windows-10"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "yap-csv",
-          "description": "Node.js package that manages CSV to JSON conversion supporting complex field mapping",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Node.js package that manages CSV to JSON conversion supporting complex field mapping",
-            "homepage": null,
-            "id": 102267276,
-            "language": "JavaScript",
-            "license": "Apache-2.0",
-            "last_commit": "2024-04-16T03:09:40Z",
-            "open_issues": 26,
-            "owner": "nielsen-oss",
-            "repo": "yap-csv",
-            "stars": 61,
-            "topics": [
-              "csv",
-              "excel",
-              "json",
-              "nodejs",
-              "parser"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Reconstant",
-          "description": "Reconstant lets you share constant and enum definitions between programming languages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Share constant definitions between programming languages and make your constants constant again",
-            "homepage": null,
-            "id": 344958303,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-11-17T13:36:17Z",
-            "open_issues": 8,
-            "owner": "aantn",
-            "repo": "reconstant",
-            "stars": 59,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Litespeed.js",
-          "description": "Lite & fast micro javascript framework that is easy to learn.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Lite & fast micro javascript framework that is **easy to learn**.",
-            "homepage": null,
-            "id": 29466233,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2023-03-04T02:58:23Z",
-            "open_issues": 4,
-            "owner": "litespeed-js",
-            "repo": "litespeed.js",
-            "stars": 45,
-            "topics": [
-              "framework",
-              "javascript",
-              "litespeed",
-              "litespeed-js",
-              "simple",
-              "speed"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "vue-dynamic-dropdown",
-          "description": "A Highly Customizable, easy-to-use elegant dropdown component for Vue framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A highly dynamic vue dropdown component",
-            "homepage": null,
-            "id": 159952678,
-            "language": "Vue",
-            "license": null,
-            "last_commit": "2020-10-11T05:39:17Z",
-            "open_issues": 6,
-            "owner": "JonathanDn",
-            "repo": "vue-dropdown",
-            "stars": 40,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "vue-toggle-btn",
-          "description": "A Highly Customizable, easy-to-use elegant toggle/switch button component",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Vue.js Toggle Button - A dynamic, fully customizable toggle button aka toggle switch",
-            "homepage": null,
-            "id": 150958072,
-            "language": "Vue",
-            "license": null,
-            "last_commit": "2022-12-29T23:30:45Z",
-            "open_issues": 27,
-            "owner": "JonathanDn",
-            "repo": "vue-toggle-btn",
-            "stars": 40,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Fugazi",
-          "description": "A web based terminal application for executing local and remote commands",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "web based terminal application for executing local and remote commands",
-            "homepage": "http://fugazi.io",
-            "id": 80307819,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2018-01-07T23:41:42Z",
-            "open_issues": 43,
-            "owner": "fugazi-io",
-            "repo": "webclient",
-            "stars": 29,
-            "topics": [
-              "cli",
-              "cli-client",
-              "console",
-              "dsl",
-              "fugazi",
-              "rpc",
-              "rpc-client",
-              "shell",
-              "terminal"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Apollo",
-          "description": "A simple, lightweight, Continuous Deployment (CD) solution on top of Kubernetes.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "NOT MAINTAINED. Apollo - The logz.io continuous deployment solution over kubernetes",
-            "homepage": null,
-            "id": 53502006,
-            "language": "Java",
-            "license": "Apache-2.0",
-            "last_commit": "2021-02-22T08:44:40Z",
-            "open_issues": 54,
-            "owner": "logzio",
-            "repo": "apollo",
-            "stars": 24,
-            "topics": [
-              "continous-deployment",
-              "jenkins",
-              "kubernetes",
-              "microservices",
-              "no-longer-maintained",
-              "ui"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "HspellPy",
-          "description": "A Python wrapper for Hspell.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Python wrapper for Hspell",
-            "homepage": null,
-            "id": 35288696,
-            "language": "Python",
-            "license": "AGPL-3.0",
-            "last_commit": "2017-05-05T14:06:35Z",
-            "open_issues": 0,
-            "owner": "eranroz",
-            "repo": "HspellPy",
-            "stars": 22,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Mr. M",
-          "description": "Need to easily assume AWS IAM roles? Mr. M has your back!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Need to easily assume AWS IAM roles? Mr. M has your back!",
-            "homepage": null,
-            "id": 438619161,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2021-12-27T17:53:39Z",
-            "open_issues": 0,
-            "owner": "robusta-dev",
-            "repo": "mr-m",
-            "stars": 19,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "@lirantal/typeform-client",
-          "description": "a friendlier Typeform Node.js API client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A friendlier Typeform Node.js API client",
-            "homepage": null,
-            "id": 162629715,
-            "language": "JavaScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-07-18T09:02:30Z",
-            "open_issues": 2,
-            "owner": "lirantal",
-            "repo": "typeform-client",
-            "stars": 18,
-            "topics": [
-              "api",
-              "nodejs",
-              "survey",
-              "typeform",
-              "typeform-api"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "express-security-txt",
-          "description": "A Node.js middleware for Express that implements Security.txt - A Method for Web Security Policies",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Node.js middleware for Express that implements Security.txt - A Method for Web Security Policies",
-            "homepage": null,
-            "id": 106471669,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-07-23T18:58:12Z",
-            "open_issues": 2,
-            "owner": "lirantal",
-            "repo": "express-security-txt",
-            "stars": 18,
-            "topics": [
-              "express",
-              "hacktoberfest",
-              "nodejs",
-              "security"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "cron-to-quartz",
-          "description": "Node.js library to convert unix or linux CRON syntax to Quartz Scheduler",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Node.js library to convert unix or linux CRON syntax to Quartz Scheduler",
-            "homepage": null,
-            "id": 48604142,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-07-23T18:57:52Z",
-            "open_issues": 0,
-            "owner": "lirantal",
-            "repo": "cron-to-quartz",
-            "stars": 15,
-            "topics": [
-              "cron",
-              "cron-notation",
-              "cron-syntax",
-              "nodejs",
-              "quartz-scheduler"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Ticktok.io",
-          "description": "Efficient, managed and clustered scheduler that allows apps to receive accurate and reliable clock signals at scale.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Clock As a Service",
-            "homepage": "https://ticktok.io",
-            "id": 123014642,
-            "language": "Java",
-            "license": "Apache-2.0",
-            "last_commit": "2021-04-30T12:35:43Z",
-            "open_issues": 19,
-            "owner": "ticktok-io",
-            "repo": "ticktok.io",
-            "stars": 15,
-            "topics": [
-              "circleci",
-              "clock",
-              "docker",
-              "gitter",
-              "java",
-              "kotlin",
-              "schedule",
-              "spring-boot",
-              "ticktok",
-              "ticktok-io"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "birch",
-          "description": "Simple hierarchical configuration for Python packages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Simple hierarchical configuration for Python packages.",
-            "homepage": null,
-            "id": 120747161,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-01-14T19:48:45Z",
-            "open_issues": 1,
-            "owner": "shaypal5",
-            "repo": "birch",
-            "stars": 14,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Blink-Java",
-          "description": "Simple http server designed for use in tests, written in pure Java (no dependencies).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Simplified pure Java http server",
-            "homepage": null,
-            "id": 64565647,
-            "language": "Java",
-            "license": "Apache-2.0",
-            "last_commit": "2022-05-20T20:49:38Z",
-            "open_issues": 10,
-            "owner": "rockem",
-            "repo": "blink-java",
-            "stars": 11,
-            "topics": [
-              "http",
-              "java",
-              "pure",
-              "server",
-              "test"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "express-boilerplate",
-          "description": "A simple Node.js app (Express + Sequelize) with the purpose of providing a compact, clear and concise example to how Node.js apps can be built",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A simple Node.js app (Express + Sequelize) with the purpose of providing a compact, clear and concise example to how Node.js apps can be built",
-            "homepage": null,
-            "id": 144607901,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2019-06-08T12:36:37Z",
-            "open_issues": 0,
-            "owner": "giladno",
-            "repo": "express-boilerplate",
-            "stars": 9,
-            "topics": [
-              "expressjs",
-              "nodejs",
-              "sequelizejs"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "sequelize-admin",
-          "description": "A simple express based admin middleware for sequelizejs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A simple express based admin middleware for sequelizejs",
-            "homepage": null,
-            "id": 159944451,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2019-06-09T14:28:47Z",
-            "open_issues": 1,
-            "owner": "giladno",
-            "repo": "sequelize-admin",
-            "stars": 7,
-            "topics": [
-              "admin",
-              "express",
-              "expressjs",
-              "sequelize",
-              "sequelizejs"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SugoiJS Server",
-          "description": "SugoiJS provides TypeScript decorators which makes the development process faster, easier with less boilerplate code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "SugoiJS server module - web server based on decoration design pattern",
-            "homepage": "https://wiki.sugoijs.com/sugoi-server/getting-started",
-            "id": 140748462,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2023-01-23T21:53:44Z",
-            "open_issues": 11,
-            "owner": "sugoiJS",
-            "repo": "server",
-            "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "JsonChangeVals",
-          "description": "Translating your JSON structure without paying for it.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Change only the values of a JSON structure (use for translate)",
-            "homepage": "https://erasta.github.io/JsonChangeVals/index.html",
-            "id": 162888811,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2018-12-25T10:06:06Z",
-            "open_issues": 0,
-            "owner": "erasta",
-            "repo": "JsonChangeVals",
-            "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "resume-json-python",
-          "description": "A project to create your resume as JSON and be able to style it easily.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "this is a repo to work with resume.json, one can create, validate, export to other formats and serve their json file",
-            "homepage": null,
-            "id": 315076879,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2021-06-10T21:08:38Z",
-            "open_issues": 4,
-            "owner": "moshe742",
-            "repo": "resume-json-python",
-            "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "typeform-export-excel",
-          "description": "Export a Typeform survey questionnaire to an Excel format",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Export a Typeform survey questionnaire to an Excel format",
-            "homepage": null,
-            "id": 162923163,
-            "language": "JavaScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-01T01:15:43Z",
-            "open_issues": 3,
-            "owner": "lirantal",
-            "repo": "typeform-export-excel",
-            "stars": 5,
-            "topics": [
-              "excel",
-              "export",
-              "nodejs",
-              "typeform"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        },
-        {
-          "node_type": "item",
-          "title": "dynamodb",
-          "description": "A wrapper for easy access to DynamoDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Simple DynamoDB wrapper for Node.js",
-            "homepage": null,
-            "id": 165389565,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2019-01-18T22:44:37Z",
-            "open_issues": 0,
-            "owner": "giladno",
-            "repo": "dynamodb",
-            "stars": 1,
-            "topics": [
-              "amazon-dynamodb",
-              "dynamodb",
-              "javascript"
-            ]
-          },
-          "first_seen": "2026-08-28T14:52:01.585Z"
-        }
-      ],
-      "title": "More than half a year since the last commit"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "vue-companies-israel",
-          "description": null,
+          "description": "JonathanDn/vue-companies-israel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5556,7 +5564,7 @@
         {
           "node_type": "item",
           "title": "israeli-opensource-companies",
-          "description": null,
+          "description": "KaplanOpenSource/israeli-opensource-companies",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5586,7 +5594,7 @@
         {
           "node_type": "item",
           "title": "awesome-vuejs-israel",
-          "description": null,
+          "description": "vue-js-israel/awesome-vuejs-israel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5607,7 +5615,7 @@
         {
           "node_type": "item",
           "title": "angular-companies-israel",
-          "description": null,
+          "description": "eranshmil/angular-companies-israel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5639,7 +5647,7 @@
         {
           "node_type": "item",
           "title": "Israel-Related-MCPs",
-          "description": null,
+          "description": "danielrosehill/Israeli-AI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5664,7 +5672,7 @@
         {
           "node_type": "item",
           "title": "rust-tlv/companies",
-          "description": null,
+          "description": "rust-tlv/companies",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5685,7 +5693,7 @@
         {
           "node_type": "item",
           "title": "awesome-israeli-jewish-home-assistant",
-          "description": null,
+          "description": "danielrosehill/Awesome-Israeli-Jewish-Home-Assistant",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5706,7 +5714,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Red-Alerts",
-          "description": null,
+          "description": "danielrosehill/Awesome-Red-Alerts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5734,7 +5742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:19:14.609Z",
+    "last_updated": "2026-10-03T05:00:19.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Israeli-made projects, events, and individuals",
